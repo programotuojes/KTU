@@ -1,0 +1,28 @@
+clock_proc : process begin
+		CLK_TOP <= '0';
+		wait for 1 ns;
+		CLK_TOP <= '1';
+		wait for 1 ns;
+	end process;	 
+	
+	reset_process : process begin
+		RST_TOP <= '1';
+		wait for 1 ns;
+		RST_TOP <= '0';
+		wait for 10000 ns;	 
+		RST_TOP <= '1';
+		wait for 1 ns;
+		RST_TOP <= '0';
+		wait;
+	end process;	
+	
+	enable_process : process begin
+		Enable_TOP <= '0';
+		wait for 2 ns;
+		Enable_TOP <= '1';
+		wait for 10000 ns;  
+		Enable_TOP <= '0';
+		wait for 10 ns;
+		Enable_TOP <= '1';
+		assert false report " Pabaiga " severity failure;	
+	end process;

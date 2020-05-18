@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<BaliMessageLog>
+    <Task name="Map">
+        <Message>
+            <ID>51001030</ID>
+            <Severity>Warning</Severity>
+            <Dynamic>RST_c</Dynamic>
+        </Message>
+    </Task>
+    <Task name="PAR">
+        <Message>
+            <ID>66011008</ID>
+            <Severity>Warning</Severity>
+            <Dynamic>
+   Signal=CLK_c loads=4 clock_loads=4</Dynamic>
+        </Message>
+        <Message>
+            <ID>66011008</ID>
+            <Severity>Warning</Severity>
+            <Dynamic>
+   Signal=CLK_c loads=4 clock_loads=4</Dynamic>
+        </Message>
+    </Task>
+    <Task name="Synplify_Synthesis">
+        <Message>
+            <ID>2011000</ID>
+            <Severity>Info</Severity>
+        </Message>
+        <Message>
+            <ID>2019991</ID>
+            <Severity>Warning</Severity>
+            <Dynamic>CD638 :&quot;C:\Users\Gustas\Documents\KTU\Logika\L3\L3\impl1\uzd1.vhd&quot;:36:10:36:12|Signal gnd is undriven. Either assign the signal a value or remove the signal declaration.</Dynamic>
+            <Navigation>CD638</Navigation>
+            <Navigation>C:\Users\Gustas\Documents\KTU\Logika\L3\L3\impl1\uzd1.vhd</Navigation>
+            <Navigation>36</Navigation>
+            <Navigation>10</Navigation>
+            <Navigation>36</Navigation>
+            <Navigation>12</Navigation>
+            <Navigation>Signal gnd is undriven. Either assign the signal a value or remove the signal declaration.</Navigation>
+        </Message>
+        <Message>
+            <ID>2019991</ID>
+            <Severity>Warning</Severity>
+            <Dynamic>CD638 :&quot;C:\Users\Gustas\Documents\KTU\Logika\L3\L3\impl1\uzd1.vhd&quot;:37:10:37:12|Signal vcc is undriven. Either assign the signal a value or remove the signal declaration.</Dynamic>
+            <Navigation>CD638</Navigation>
+            <Navigation>C:\Users\Gustas\Documents\KTU\Logika\L3\L3\impl1\uzd1.vhd</Navigation>
+            <Navigation>37</Navigation>
+            <Navigation>10</Navigation>
+            <Navigation>37</Navigation>
+            <Navigation>12</Navigation>
+            <Navigation>Signal vcc is undriven. Either assign the signal a value or remove the signal declaration.</Navigation>
+        </Message>
+        <Message>
+            <ID>2019991</ID>
+            <Severity>Warning</Severity>
+            <Dynamic>MT529 :&quot;c:\users\gustas\documents\ktu\logika\l3\l3\impl1\uzd1.vhd&quot;:108:3:108:5|Found inferred clock UZD1|CLK which controls 8 sequential elements including I12. This clock has no specified timing constraint which may prevent conversion of gated or generated clocks and may adversely impact design performance.</Dynamic>
+            <Navigation>MT529</Navigation>
+            <Navigation>c:\users\gustas\documents\ktu\logika\l3\l3\impl1\uzd1.vhd</Navigation>
+            <Navigation>108</Navigation>
+            <Navigation>3</Navigation>
+            <Navigation>108</Navigation>
+            <Navigation>5</Navigation>
+            <Navigation>Found inferred clock UZD1|CLK which controls 8 sequential elements including I12. This clock has no specified timing constraint which may prevent conversion of gated or generated clocks and may adversely impact design performance. </Navigation>
+        </Message>
+        <Message>
+            <ID>2019993</ID>
+            <Severity>Warning</Severity>
+            <Dynamic>MT420 |Found inferred clock UZD1|CLK with period 1.45ns. Please declare a user-defined clock on object &quot;p:CLK&quot;</Dynamic>
+            <Navigation>MT420</Navigation>
+            <Navigation>Found inferred clock UZD1|CLK with period 1.45ns. Please declare a user-defined clock on object &quot;p:CLK&quot;</Navigation>
+        </Message>
+    </Task>
+</BaliMessageLog>

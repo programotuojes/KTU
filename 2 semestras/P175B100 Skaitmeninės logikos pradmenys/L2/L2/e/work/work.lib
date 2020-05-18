@@ -1,0 +1,47 @@
+timestamp=1554113907140
+
+[~A]
+ModifyID=13
+Version=74
+
+[testbench_for_uzd1]
+Configures=uzd1_tb.TB_ARCHITECTURE
+E=1*52224
+I=0*18295
+M=2|0|vd0|1554113907104|./../src/TestBench/uzd1_TB.vhd|0*17076*0x3d3bd97236955b794edaa2f01ac5fadf64a89405|0*17330*0x20116f55b147878295aeff36dce7fc50
+R=./../src/TestBench/uzd1_TB.vhd|76
+Version=10.3.3558.6081  (Windows)|00000003789cd3f5370600015b00b0|5efd636a07bb57613e35fadc81a5c3e58b8325315a4bd873a2d84d5d0b25e3d8afa47c3307669a0b988c473fc9292c24
+
+[uzd1]
+A/schematic=A/SCHEMATIC 21|./../../impl1/uzd1.vhd|20|1*43432
+BinI32/schematic=3*3799
+I=0*659
+I/schematic=I/SCHEMATIC 0*17600
+M=11|0|vd0|1554112661260|./../../impl1/uzd1.vhd|0*213*0xd03bf4ff859175ac3de0616f53d0bf3ba33db603|0*579*0x23b75c12e3e89f2ef000564498faa8c2
+M/schematic=M/SCHEMATIC 21|0|vd0|1554113906863|./../../impl1/uzd1.vhd|0*6853*0x6fe7e470da300c71c014000c1d5c2f30930ff5bd|0*9680*0x20116f55b147878295aeff36dce7fc50
+R=./../../impl1/uzd1.vhd|8
+Version=10.3.3558.6081  (Windows)|00000004789cd34d494a0700030f015b|7db2f7e84c50621bdfee4fd4235330a1178655ab026e9453e03fb306a8afd28b
+Version/schematic=10.3.3558.6081  (Windows)|00000003789cd3f5370600015b00b0|12c26b08c46ca97f6bba7ba34a1f13697847c06a4beeea0b43e2cdf34fe5e3d71503e6e3b3797f9cd062961deb3cb155
+
+[uzd1_tb]
+A/tb_architecture=A/TB_ARCHITECTURE 21|./../src/TestBench/uzd1_TB.vhd|11|1*50460
+BinI32/tb_architecture=3*4057
+I=0*4629
+I/tb_architecture=I/TB_ARCHITECTURE 0*18009
+M=11|0|vd0|1554113044791|./../src/TestBench/uzd1_TB.vhd|0*4341*0x68ecd6558aa888be50cd2674a01b1f905019f2b0|0*4538*0x23b75c12e3e89f2ef000564498faa8c2
+M/tb_architecture=M/TB_ARCHITECTURE 21|0|vd0|1554113907099|./../src/TestBench/uzd1_TB.vhd|0*15576*0x1c728a1e077a67fe40903de3faf3b490405c2b5f|0*16680*0x20116f55b147878295aeff36dce7fc50
+R=./../src/TestBench/uzd1_TB.vhd|8
+Version=10.3.3558.6081  (Windows)|00000003789cd3f5370600015b00b0|a7a738cf227f6b8a4b6b6ceca229d71d26527262ddaa47cb266f3a3c4d9b973aed46039741811986c240b9f558fb30b4
+Version/tb_architecture=10.3.3558.6081  (Windows)|00000003789cd3f5370600015b00b0|da2d76821309f33ed1264ca4678a936a8f84fef0fc5d0f10f1a8cfc2ad534beae3f4f9b882d67b89366fb7e4df9b384a
+
+[~MFT]
+0=4|0work.mgf|18295|11564
+1=4|1work.mgf|52224|43432
+3=2|3work.mgf|4057|3799
+
+[~U]
+testbench_for_uzd1=TESTBENCH_FOR_uzd1 2||
+uzd1=UZD1 11|0*0|
+uzd1_tb=11|0*4221|
+
+

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<BaliProject version="3.2" title="L1" device="LAXP2-5E-5TN144E" default_implementation="impl1">
+    <Options>
+        <Option name="HDL type" value="VHDL"/>
+    </Options>
+    <Implementation title="impl1" dir="impl1" description="impl1" synthesis="synplify" default_strategy="Strategy1">
+        <Options def_top="UZD3"/>
+        <Source name="shema.sch" type="Schematic" type_short="Schematic" excluded="TRUE">
+            <Options/>
+        </Source>
+        <Source name="uzd2.sch" type="Schematic" type_short="Schematic" excluded="TRUE">
+            <Options/>
+        </Source>
+        <Source name="uzd3.sch" type="Schematic" type_short="Schematic">
+            <Options top_module="UZD3"/>
+        </Source>
+        <Source name="aaa/aaa.spf" type="Simulation Project File" type_short="SPF">
+            <Options/>
+        </Source>
+        <Source name="b/b.spf" type="Simulation Project File" type_short="SPF">
+            <Options/>
+        </Source>
+        <Source name="bb/bb.spf" type="Simulation Project File" type_short="SPF">
+            <Options/>
+        </Source>
+        <Source name="bbb/bbb.spf" type="Simulation Project File" type_short="SPF">
+            <Options/>
+        </Source>
+        <Source name="L1.lpf" type="Logic Preference" type_short="LPF">
+            <Options/>
+        </Source>
+        <Source name="Model/Model.spf" type="Simulation Project File" type_short="SPF">
+            <Options/>
+        </Source>
+        <Source name="nand/nand.spf" type="Simulation Project File" type_short="SPF">
+            <Options/>
+        </Source>
+        <Source name="uzd1/uzd1.spf" type="Simulation Project File" type_short="SPF">
+            <Options/>
+        </Source>
+        <Source name="uzd2/uzd2.spf" type="Simulation Project File" type_short="SPF">
+            <Options/>
+        </Source>
+        <Source name="uzd3/uzd3.spf" type="Simulation Project File" type_short="SPF">
+            <Options/>
+        </Source>
+    </Implementation>
+    <Strategy name="Strategy1" file="L11.sty"/>
+</BaliProject>

@@ -1,0 +1,6 @@
+MESSAGE "File: C:\Users\Gustas\Documents\KTU\Skaitmenine logika\L1\impl1\nand.vhd" 
+ERROR COMP96_0018: "Identifier expected." "C:\Users\Gustas\Documents\KTU\Skaitmenine logika\L1\impl1\nand.vhd" 8 8
+ERROR COMP96_0016: "Design unit declaration expected." "C:\Users\Gustas\Documents\KTU\Skaitmenine logika\L1\impl1\nand.vhd" 8 13
+ERROR COMP96_0018: "Identifier expected." "C:\Users\Gustas\Documents\KTU\Skaitmenine logika\L1\impl1\nand.vhd" 19 27
+ERROR COMP96_0016: "Design unit declaration expected." "C:\Users\Gustas\Documents\KTU\Skaitmenine logika\L1\impl1\nand.vhd" 19 32
+FAILURE "Compile failure 4 Errors 0 Warnings  Analysis time :  47.0 [ms]" 

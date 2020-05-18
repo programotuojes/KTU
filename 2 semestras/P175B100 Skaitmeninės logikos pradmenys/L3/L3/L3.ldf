@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<BaliProject version="3.2" title="L3" device="LFXP2-5E-6TN144C" default_implementation="impl1">
+    <Options>
+        <Option name="HDL type" value="VHDL"/>
+    </Options>
+    <Implementation title="impl1" dir="impl1" description="impl1" synthesis="synplify" default_strategy="Strategy1">
+        <Options/>
+        <Source name="uzd1.sch" type="Schematic" type_short="Schematic">
+            <Options top_module="UZD1"/>
+        </Source>
+        <Source name="a/a.spf" type="Simulation Project File" type_short="SPF">
+            <Options/>
+        </Source>
+        <Source name="AA/AA.spf" type="Simulation Project File" type_short="SPF">
+            <Options/>
+        </Source>
+        <Source name="bb/bb.spf" type="Simulation Project File" type_short="SPF">
+            <Options/>
+        </Source>
+        <Source name="impl1/impl1.xcf" type="Programming Project File" type_short="Programming">
+            <Options/>
+        </Source>
+        <Source name="L3.lpf" type="Logic Preference" type_short="LPF">
+            <Options/>
+        </Source>
+        <Source name="uni/uni.spf" type="Simulation Project File" type_short="SPF">
+            <Options/>
+        </Source>
+    </Implementation>
+    <Strategy name="Strategy1" file="L31.sty"/>
+</BaliProject>

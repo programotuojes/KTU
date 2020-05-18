@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<BaliMessageLog>
+    <Task name="Synplify_Synthesis">
+        <Message>
+            <ID>2011000</ID>
+            <Severity>Info</Severity>
+        </Message>
+        <Message>
+            <ID>2019991</ID>
+            <Severity>Warning</Severity>
+            <Dynamic>CD638 :&quot;C:\Users\Gustas\Documents\KTU\Logika\L2\L2\impl1\uzd1.vhd&quot;:22:10:22:12|Signal gnd is undriven. Either assign the signal a value or remove the signal declaration.</Dynamic>
+            <Navigation>CD638</Navigation>
+            <Navigation>C:\Users\Gustas\Documents\KTU\Logika\L2\L2\impl1\uzd1.vhd</Navigation>
+            <Navigation>22</Navigation>
+            <Navigation>10</Navigation>
+            <Navigation>22</Navigation>
+            <Navigation>12</Navigation>
+            <Navigation>Signal gnd is undriven. Either assign the signal a value or remove the signal declaration.</Navigation>
+        </Message>
+        <Message>
+            <ID>2019991</ID>
+            <Severity>Warning</Severity>
+            <Dynamic>CD638 :&quot;C:\Users\Gustas\Documents\KTU\Logika\L2\L2\impl1\uzd1.vhd&quot;:23:10:23:12|Signal vcc is undriven. Either assign the signal a value or remove the signal declaration.</Dynamic>
+            <Navigation>CD638</Navigation>
+            <Navigation>C:\Users\Gustas\Documents\KTU\Logika\L2\L2\impl1\uzd1.vhd</Navigation>
+            <Navigation>23</Navigation>
+            <Navigation>10</Navigation>
+            <Navigation>23</Navigation>
+            <Navigation>12</Navigation>
+            <Navigation>Signal vcc is undriven. Either assign the signal a value or remove the signal declaration.</Navigation>
+        </Message>
+        <Message>
+            <ID>2019991</ID>
+            <Severity>Warning</Severity>
+            <Dynamic>MT246 :&quot;c:\users\gustas\documents\ktu\logika\l2\l2\impl1\uzd1.vhd&quot;:150:3:150:5|Blackbox ND2 is missing a user supplied timing model. This may have a negative effect on timing analysis and optimizations (Quality of Results)</Dynamic>
+            <Navigation>MT246</Navigation>
+            <Navigation>c:\users\gustas\documents\ktu\logika\l2\l2\impl1\uzd1.vhd</Navigation>
+            <Navigation>150</Navigation>
+            <Navigation>3</Navigation>
+            <Navigation>150</Navigation>
+            <Navigation>5</Navigation>
+            <Navigation>Blackbox ND2 is missing a user supplied timing model. This may have a negative effect on timing analysis and optimizations (Quality of Results) </Navigation>
+        </Message>
+        <Message>
+            <ID>2019991</ID>
+            <Severity>Warning</Severity>
+            <Dynamic>MT246 :&quot;c:\users\gustas\documents\ktu\logika\l2\l2\impl1\uzd1.vhd&quot;:126:3:126:5|Blackbox ND3 is missing a user supplied timing model. This may have a negative effect on timing analysis and optimizations (Quality of Results)</Dynamic>
+            <Navigation>MT246</Navigation>
+            <Navigation>c:\users\gustas\documents\ktu\logika\l2\l2\impl1\uzd1.vhd</Navigation>
+            <Navigation>126</Navigation>
+            <Navigation>3</Navigation>
+            <Navigation>126</Navigation>
+            <Navigation>5</Navigation>
+            <Navigation>Blackbox ND3 is missing a user supplied timing model. This may have a negative effect on timing analysis and optimizations (Quality of Results) </Navigation>
+        </Message>
+        <Message>
+            <ID>2019991</ID>
+            <Severity>Warning</Severity>
+            <Dynamic>MT246 :&quot;c:\users\gustas\documents\ktu\logika\l2\l2\impl1\uzd1.vhd&quot;:96:3:96:5|Blackbox XNOR2 is missing a user supplied timing model. This may have a negative effect on timing analysis and optimizations (Quality of Results)</Dynamic>
+            <Navigation>MT246</Navigation>
+            <Navigation>c:\users\gustas\documents\ktu\logika\l2\l2\impl1\uzd1.vhd</Navigation>
+            <Navigation>96</Navigation>
+            <Navigation>3</Navigation>
+            <Navigation>96</Navigation>
+            <Navigation>5</Navigation>
+            <Navigation>Blackbox XNOR2 is missing a user supplied timing model. This may have a negative effect on timing analysis and optimizations (Quality of Results) </Navigation>
+        </Message>
+    </Task>
+</BaliMessageLog>

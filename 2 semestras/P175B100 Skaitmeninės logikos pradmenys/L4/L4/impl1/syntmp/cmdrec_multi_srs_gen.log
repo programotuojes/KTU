@@ -1,0 +1,7 @@
+C:\Program Files\lscc\diamond\3.10_x64\synpbase\bin64\syn_nfilter.exe  -link  -top  TOP_CNT  -multisrs  C:\Users\Gustas\Documents\KTU\Logika\L4\L4\impl1\synwork\L4_impl1_comp.srs  -osyn  C:\Users\Gustas\Documents\KTU\Logika\L4\L4\impl1\synwork\L4_impl1_mult.srs  -log  C:\Users\Gustas\Documents\KTU\Logika\L4\L4\impl1\synlog\L4_impl1_multi_srs_gen.srr 
+relcom:..\..\..\..\..\..\..\..\..\Program Files\lscc\diamond\3.10_x64\synpbase\bin64\syn_nfilter.exe -link -top TOP_CNT -multisrs ..\synwork\L4_impl1_comp.srs -osyn ..\synwork\L4_impl1_mult.srs -log ..\synlog\L4_impl1_multi_srs_gen.srr
+rc:0 success:1 runtime:0
+file:..\synwork\L4_impl1_comp.srs|io:i|time:1557990791|size:5669|exec:0|csum:B281374A511517576E45BB674672390A
+file:..\synwork\L4_impl1_mult.srs|io:o|time:1557990793|size:3181|exec:0|csum:
+file:..\synlog\L4_impl1_multi_srs_gen.srr|io:o|time:1557990793|size:512|exec:0|csum:
+file:..\..\..\..\..\..\..\..\..\Program Files\lscc\diamond\3.10_x64\synpbase\bin64\syn_nfilter.exe|io:i|time:1501881390|size:8865280|exec:1|csum:B37FCE9CF34F30C81898D8440E6E88C7

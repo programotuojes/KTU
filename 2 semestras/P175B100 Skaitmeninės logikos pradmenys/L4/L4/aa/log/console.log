@@ -1,0 +1,581 @@
+designverincludedir -clear
+designverlibrarysim -PL -clear
+designverlibrarysim -L -clear
+designverlibrarysim -PL pmi_work
+designverlibrarysim ovi_xp2
+designverdefinemacro -clear
+addfile C:/Users/Gustas/Documents/KTU/Logika/L4/L4/M3.vhd
+# Adding file C:\Users\Gustas\Documents\KTU\Logika\L4\L4\M3.vhd ... Done
+addfile C:/Users/Gustas/Documents/KTU/Logika/L4/L4/M2.vhd
+# Adding file C:\Users\Gustas\Documents\KTU\Logika\L4\L4\M2.vhd ... Done
+addfile C:/Users/Gustas/Documents/KTU/Logika/L4/L4/M1.vhd
+# Adding file C:\Users\Gustas\Documents\KTU\Logika\L4\L4\M1.vhd ... Done
+addfile C:/Users/Gustas/Documents/KTU/Logika/L4/L4/JM2.vhd
+# Adding file C:\Users\Gustas\Documents\KTU\Logika\L4\L4\JM2.vhd ... Done
+vlib C:/Users/Gustas/Documents/KTU/Logika/L4/L4/aa/work
+# Adding library O.K.
+adel -all
+# Library contents cleared.
+vcom -dbg -work work C:/Users/Gustas/Documents/KTU/Logika/L4/L4/M3.vhd
+# File: C:\Users\Gustas\Documents\KTU\Logika\L4\L4\M3.vhd
+# Compile Entity "M3"
+# Compile Architecture "rtl" of Entity "M3"
+# Compile success 0 Errors 0 Warnings  Analysis time :  0.1 [s]
+vcom -dbg -work work C:/Users/Gustas/Documents/KTU/Logika/L4/L4/M2.vhd
+# File: C:\Users\Gustas\Documents\KTU\Logika\L4\L4\M2.vhd
+# Compile Entity "M2"
+# Compile Architecture "rtl" of Entity "M2"
+# Compile success 0 Errors 0 Warnings  Analysis time :  63.0 [ms]
+vcom -dbg -work work C:/Users/Gustas/Documents/KTU/Logika/L4/L4/M1.vhd
+# File: C:\Users\Gustas\Documents\KTU\Logika\L4\L4\M1.vhd
+# Compile Entity "M1"
+# Compile Architecture "rtl" of Entity "M1"
+# Compile success 0 Errors 0 Warnings  Analysis time :  78.0 [ms]
+vcom -dbg -work work C:/Users/Gustas/Documents/KTU/Logika/L4/L4/JM2.vhd
+# File: C:\Users\Gustas\Documents\KTU\Logika\L4\L4\JM2.vhd
+# Compile Entity "TOP_CNT"
+# Compile Architecture "struct" of Entity "TOP_CNT"
+# Compile success 0 Errors 0 Warnings  Analysis time :  63.0 [ms]
+entity TOP_CNT
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+vsim +access +r TOP_CNT -PL pmi_work -L ovi_xp2
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+# VSIM: Stack memory: 32MB
+# VSIM: Retval memory: 32MB
+# 
+# KERNEL: Main thread initiated.
+# KERNEL: Kernel process initialization phase.
+# KERNEL: Time resolution set to 1ps.
+# ELAB2: Elaboration final pass...
+# ELAB2: Create instances ...
+# ELAB2: Create instances complete.
+# SLP: Started
+# SLP: Elaboration phase ...
+# SLP: Elaboration phase ... skipped, nothing to simulate in SLP mode : 0.0 [s]
+# SLP: Finished : 0.0 [s]
+# ELAB2: Elaboration final pass complete - time: 0.0 [s].
+# KERNEL: Warning: You are using the Active-HDL Lattice Edition. The performance of simulation is running at a reduced rate.
+# KERNEL: Warning: Contact Aldec for available upgrade options - sales@aldec.com.
+# KERNEL: Kernel process initialization done.
+# Allocation: Simulator allocated 7111 kB (elbread=1280 elab2=5679 kernel=151 sdf=0)
+# KERNEL: ASDB file was created in location C:\Users\Gustas\Documents\KTU\Logika\L4\L4\aa\src\wave.asdb
+#  15:06, Thursday, May 9, 2019
+#  Simulation has been initialized
+add wave *
+# 12 signal(s) traced.
+run 1000ns
+# Waveform file 'untitled.awc' connected to 'C:/Users/Gustas/Documents/KTU/Logika/L4/L4/aa/src/wave.asdb'.
+# KERNEL: stopped at time: 1 us
+# KERNEL: Simulation has finished. There are no more test vectors to simulate.
+acom -O3 -e 100 -work work -2002  $dsn/src/TestBench/top_cnt_TB.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: C:\Users\Gustas\Documents\KTU\Logika\L4\L4\aa\src\TestBench\top_cnt_TB.vhd
+# Compile Entity "top_cnt_tb"
+# Compile Architecture "TB_ARCHITECTURE" of Entity "top_cnt_tb"
+# Compile Configuration "TESTBENCH_FOR_top_cnt"
+# Compile success 0 Errors 0 Warnings  Analysis time :  78.0 [ms]
+SetActiveLib -work
+comp -include "C:\Users\Gustas\Documents\KTU\Logika\L4\L4\M3.vhd" 
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: C:\Users\Gustas\Documents\KTU\Logika\L4\L4\aa\..\M3.vhd
+# Compile Entity "M3"
+# Compile Architecture "rtl" of Entity "M3"
+# Compile success 0 Errors 0 Warnings  Analysis time :  78.0 [ms]
+comp -include "C:\Users\Gustas\Documents\KTU\Logika\L4\L4\M2.vhd" 
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: C:\Users\Gustas\Documents\KTU\Logika\L4\L4\aa\..\M2.vhd
+# Compile Entity "M2"
+# Compile Architecture "rtl" of Entity "M2"
+# Compile success 0 Errors 0 Warnings  Analysis time :  78.0 [ms]
+comp -include "C:\Users\Gustas\Documents\KTU\Logika\L4\L4\M1.vhd" 
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: C:\Users\Gustas\Documents\KTU\Logika\L4\L4\aa\..\M1.vhd
+# Compile Entity "M1"
+# Compile Architecture "rtl" of Entity "M1"
+# Compile success 0 Errors 0 Warnings  Analysis time :  78.0 [ms]
+comp -include "C:\Users\Gustas\Documents\KTU\Logika\L4\L4\JM2.vhd" 
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: C:\Users\Gustas\Documents\KTU\Logika\L4\L4\aa\..\JM2.vhd
+# Compile Entity "TOP_CNT"
+# Compile Architecture "struct" of Entity "TOP_CNT"
+# Compile success 0 Errors 0 Warnings  Analysis time :  78.0 [ms]
+comp -include "$dsn\src\TestBench\top_cnt_TB.vhd" 
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: C:\Users\Gustas\Documents\KTU\Logika\L4\L4\aa\src\TestBench\top_cnt_TB.vhd
+# Compile Entity "top_cnt_tb"
+# Compile Architecture "TB_ARCHITECTURE" of Entity "top_cnt_tb"
+# Compile Configuration "TESTBENCH_FOR_top_cnt"
+# Compile success 0 Errors 0 Warnings  Analysis time :  63.0 [ms]
+asim +access +r TESTBENCH_FOR_top_cnt 
+# VSIM: Simulation has finished.
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+# VSIM: Stack memory: 32MB
+# VSIM: Retval memory: 32MB
+# 
+# KERNEL: Main thread initiated.
+# KERNEL: Kernel process initialization phase.
+# KERNEL: Time resolution set to 1ps.
+# ELAB2: Elaboration final pass...
+# ELAB2: Create instances ...
+# ELAB2: Create instances complete.
+# SLP: Started
+# SLP: Elaboration phase ...
+# SLP: Elaboration phase ... skipped, nothing to simulate in SLP mode : 0.0 [s]
+# SLP: Finished : 0.0 [s]
+# ELAB2: Elaboration final pass complete - time: 0.0 [s].
+# KERNEL: Warning: You are using the Active-HDL Lattice Edition. The performance of simulation is running at a reduced rate.
+# KERNEL: Warning: Contact Aldec for available upgrade options - sales@aldec.com.
+# KERNEL: Kernel process initialization done.
+# Allocation: Simulator allocated 7107 kB (elbread=1280 elab2=5678 kernel=149 sdf=0)
+# KERNEL: ASDB file was created in location C:\Users\Gustas\Documents\KTU\Logika\L4\L4\aa\src\wave.asdb
+#  15:08, Thursday, May 9, 2019
+#  Simulation has been initialized
+# Waveform file 'untitled.awc' connected to 'C:/Users/Gustas/Documents/KTU/Logika/L4/L4/aa/src/wave.asdb'.
+wave 
+wave -noreg CLK_I
+wave -noreg RST_I
+wave -noreg ENBL_I
+wave -noreg CNT_CO
+# # The following lines can be used for timing simulation
+# # acom <backannotated_vhdl_file_name>
+# # comp -include "$dsn\src\TestBench\top_cnt_TB_tim_cfg.vhd" 
+# # asim +access +r TIMING_FOR_top_cnt 
+# 4 signal(s) traced.
+# Waveform file 'untitled.awc' connected to 'C:/Users/Gustas/Documents/KTU/Logika/L4/L4/aa/src/wave.asdb'.
+# 1 signal(s) traced.
+# 1 signal(s) traced.
+# 1 signal(s) traced.
+# 1 signal(s) traced.
+# 1 signal(s) traced.
+# 1 signal(s) traced.
+run
+# EXECUTION:: FAILURE:  Pabaiga 
+# EXECUTION:: Time: 1720 ns,  Iteration: 0,  Instance: /top_cnt_tb,  Process: enbl_process.
+# KERNEL: Stopped at time 1720 ns + 0.
+acom -O3 -e 100 -work work -2002  $dsn/src/TestBench/top_cnt_TB.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: C:\Users\Gustas\Documents\KTU\Logika\L4\L4\aa\src\TestBench\top_cnt_TB.vhd
+# Compile Entity "top_cnt_tb"
+# Compile Architecture "TB_ARCHITECTURE" of Entity "top_cnt_tb"
+# Compile Configuration "TESTBENCH_FOR_top_cnt"
+# Compile success 0 Errors 0 Warnings  Analysis time :  79.0 [ms]
+SetActiveLib -work
+comp -include "C:\Users\Gustas\Documents\KTU\Logika\L4\L4\M3.vhd" 
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: C:\Users\Gustas\Documents\KTU\Logika\L4\L4\aa\..\M3.vhd
+# Compile Entity "M3"
+# Compile Architecture "rtl" of Entity "M3"
+# Compile success 0 Errors 0 Warnings  Analysis time :  62.0 [ms]
+comp -include "C:\Users\Gustas\Documents\KTU\Logika\L4\L4\M2.vhd" 
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: C:\Users\Gustas\Documents\KTU\Logika\L4\L4\aa\..\M2.vhd
+# Compile Entity "M2"
+# Compile Architecture "rtl" of Entity "M2"
+# Compile success 0 Errors 0 Warnings  Analysis time :  62.0 [ms]
+comp -include "C:\Users\Gustas\Documents\KTU\Logika\L4\L4\M1.vhd" 
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: C:\Users\Gustas\Documents\KTU\Logika\L4\L4\aa\..\M1.vhd
+# Compile Entity "M1"
+# Compile Architecture "rtl" of Entity "M1"
+# Compile success 0 Errors 0 Warnings  Analysis time :  93.0 [ms]
+comp -include "C:\Users\Gustas\Documents\KTU\Logika\L4\L4\JM2.vhd" 
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: C:\Users\Gustas\Documents\KTU\Logika\L4\L4\aa\..\JM2.vhd
+# Compile Entity "TOP_CNT"
+# Compile Architecture "struct" of Entity "TOP_CNT"
+# Compile success 0 Errors 0 Warnings  Analysis time :  62.0 [ms]
+comp -include "$dsn\src\TestBench\top_cnt_TB.vhd" 
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: C:\Users\Gustas\Documents\KTU\Logika\L4\L4\aa\src\TestBench\top_cnt_TB.vhd
+# Compile Entity "top_cnt_tb"
+# Compile Architecture "TB_ARCHITECTURE" of Entity "top_cnt_tb"
+# Compile Configuration "TESTBENCH_FOR_top_cnt"
+# Compile success 0 Errors 0 Warnings  Analysis time :  0.1 [s]
+asim +access +r TESTBENCH_FOR_top_cnt 
+# VSIM: Simulation has finished.
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+# VSIM: Stack memory: 32MB
+# VSIM: Retval memory: 32MB
+# 
+# KERNEL: Main thread initiated.
+# KERNEL: Kernel process initialization phase.
+# KERNEL: Time resolution set to 1ps.
+# ELAB2: Elaboration final pass...
+# ELAB2: Create instances ...
+# ELAB2: Create instances complete.
+# SLP: Started
+# SLP: Elaboration phase ...
+# SLP: Elaboration phase ... skipped, nothing to simulate in SLP mode : 0.0 [s]
+# SLP: Finished : 0.0 [s]
+# ELAB2: Elaboration final pass complete - time: 0.0 [s].
+# KERNEL: Warning: You are using the Active-HDL Lattice Edition. The performance of simulation is running at a reduced rate.
+# KERNEL: Warning: Contact Aldec for available upgrade options - sales@aldec.com.
+# KERNEL: Kernel process initialization done.
+# Allocation: Simulator allocated 7107 kB (elbread=1280 elab2=5678 kernel=149 sdf=0)
+# KERNEL: ASDB file was created in location C:\Users\Gustas\Documents\KTU\Logika\L4\L4\aa\src\wave.asdb
+#  15:35, Thursday, May 9, 2019
+#  Simulation has been initialized
+# Waveform file 'untitled.awc' connected to 'C:/Users/Gustas/Documents/KTU/Logika/L4/L4/aa/src/wave.asdb'.
+# Waveform file 'untitled.awc' connected to 'C:/Users/Gustas/Documents/KTU/Logika/L4/L4/aa/src/wave.asdb'.
+wave 
+wave -noreg CLK_I
+wave -noreg RST_I
+wave -noreg ENBL_I
+wave -noreg CNT_CO
+# # The following lines can be used for timing simulation
+# # acom <backannotated_vhdl_file_name>
+# # comp -include "$dsn\src\TestBench\top_cnt_TB_tim_cfg.vhd" 
+# # asim +access +r TIMING_FOR_top_cnt 
+# 4 signal(s) traced.
+# Waveform file 'untitled.awc' connected to 'C:/Users/Gustas/Documents/KTU/Logika/L4/L4/aa/src/wave.asdb'.
+# 1 signal(s) traced.
+# 1 signal(s) traced.
+# 1 signal(s) traced.
+run
+# EXECUTION:: FAILURE:  Pabaiga 
+# EXECUTION:: Time: 2120 ns,  Iteration: 0,  Instance: /top_cnt_tb,  Process: enbl_process.
+# KERNEL: Stopped at time 2120 ns + 0.
+acom -O3 -e 100 -work work -2002  $dsn/src/TestBench/top_cnt_TB.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: C:\Users\Gustas\Documents\KTU\Logika\L4\L4\aa\src\TestBench\top_cnt_TB.vhd
+# Compile Entity "top_cnt_tb"
+# Compile Architecture "TB_ARCHITECTURE" of Entity "top_cnt_tb"
+# Compile Configuration "TESTBENCH_FOR_top_cnt"
+# Compile success 0 Errors 0 Warnings  Analysis time :  0.1 [s]
+SetActiveLib -work
+comp -include "C:\Users\Gustas\Documents\KTU\Logika\L4\L4\M3.vhd" 
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: C:\Users\Gustas\Documents\KTU\Logika\L4\L4\aa\..\M3.vhd
+# Compile Entity "M3"
+# Compile Architecture "rtl" of Entity "M3"
+# Compile success 0 Errors 0 Warnings  Analysis time :  63.0 [ms]
+comp -include "C:\Users\Gustas\Documents\KTU\Logika\L4\L4\M2.vhd" 
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: C:\Users\Gustas\Documents\KTU\Logika\L4\L4\aa\..\M2.vhd
+# Compile Entity "M2"
+# Compile Architecture "rtl" of Entity "M2"
+# Compile success 0 Errors 0 Warnings  Analysis time :  63.0 [ms]
+comp -include "C:\Users\Gustas\Documents\KTU\Logika\L4\L4\M1.vhd" 
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: C:\Users\Gustas\Documents\KTU\Logika\L4\L4\aa\..\M1.vhd
+# Compile Entity "M1"
+# Compile Architecture "rtl" of Entity "M1"
+# Compile success 0 Errors 0 Warnings  Analysis time :  47.0 [ms]
+comp -include "C:\Users\Gustas\Documents\KTU\Logika\L4\L4\JM2.vhd" 
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: C:\Users\Gustas\Documents\KTU\Logika\L4\L4\aa\..\JM2.vhd
+# Compile Entity "TOP_CNT"
+# Compile Architecture "struct" of Entity "TOP_CNT"
+# Compile success 0 Errors 0 Warnings  Analysis time :  63.0 [ms]
+comp -include "$dsn\src\TestBench\top_cnt_TB.vhd" 
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: C:\Users\Gustas\Documents\KTU\Logika\L4\L4\aa\src\TestBench\top_cnt_TB.vhd
+# Compile Entity "top_cnt_tb"
+# Compile Architecture "TB_ARCHITECTURE" of Entity "top_cnt_tb"
+# Compile Configuration "TESTBENCH_FOR_top_cnt"
+# Compile success 0 Errors 0 Warnings  Analysis time :  62.0 [ms]
+asim +access +r TESTBENCH_FOR_top_cnt 
+# VSIM: Simulation has finished.
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+# VSIM: Stack memory: 32MB
+# VSIM: Retval memory: 32MB
+# 
+# KERNEL: Main thread initiated.
+# KERNEL: Kernel process initialization phase.
+# KERNEL: Time resolution set to 1ps.
+# ELAB2: Elaboration final pass...
+# ELAB2: Create instances ...
+# ELAB2: Create instances complete.
+# SLP: Started
+# SLP: Elaboration phase ...
+# SLP: Elaboration phase ... skipped, nothing to simulate in SLP mode : 0.0 [s]
+# SLP: Finished : 0.0 [s]
+# ELAB2: Elaboration final pass complete - time: 0.0 [s].
+# KERNEL: Warning: You are using the Active-HDL Lattice Edition. The performance of simulation is running at a reduced rate.
+# KERNEL: Warning: Contact Aldec for available upgrade options - sales@aldec.com.
+# KERNEL: Kernel process initialization done.
+# Allocation: Simulator allocated 7107 kB (elbread=1280 elab2=5678 kernel=149 sdf=0)
+# KERNEL: ASDB file was created in location C:\Users\Gustas\Documents\KTU\Logika\L4\L4\aa\src\wave.asdb
+#  15:38, Thursday, May 9, 2019
+#  Simulation has been initialized
+# Waveform file 'untitled.awc' connected to 'C:/Users/Gustas/Documents/KTU/Logika/L4/L4/aa/src/wave.asdb'.
+# Waveform file 'untitled.awc' connected to 'C:/Users/Gustas/Documents/KTU/Logika/L4/L4/aa/src/wave.asdb'.
+# Waveform file 'untitled.awc' connected to 'C:/Users/Gustas/Documents/KTU/Logika/L4/L4/aa/src/wave.asdb'.
+wave 
+wave -noreg CLK_I
+wave -noreg RST_I
+wave -noreg ENBL_I
+wave -noreg CNT_CO
+# # The following lines can be used for timing simulation
+# # acom <backannotated_vhdl_file_name>
+# # comp -include "$dsn\src\TestBench\top_cnt_TB_tim_cfg.vhd" 
+# # asim +access +r TIMING_FOR_top_cnt 
+# 4 signal(s) traced.
+# Waveform file 'untitled.awc' connected to 'C:/Users/Gustas/Documents/KTU/Logika/L4/L4/aa/src/wave.asdb'.
+# 1 signal(s) traced.
+# 1 signal(s) traced.
+# 1 signal(s) traced.
+# WAVEFORM: 15 signal(s) removed.
+run
+# EXECUTION:: FAILURE:  Pabaiga 
+# EXECUTION:: Time: 7020 ns,  Iteration: 0,  Instance: /top_cnt_tb,  Process: enbl_process.
+# KERNEL: Stopped at time 7020 ns + 0.
+acom -O3 -e 100 -work work -2002  $dsn/src/TestBench/top_cnt_TB.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: C:\Users\Gustas\Documents\KTU\Logika\L4\L4\aa\src\TestBench\top_cnt_TB.vhd
+# Compile Entity "top_cnt_tb"
+# Compile Architecture "TB_ARCHITECTURE" of Entity "top_cnt_tb"
+# Compile Configuration "TESTBENCH_FOR_top_cnt"
+# Compile success 0 Errors 0 Warnings  Analysis time :  0.1 [s]
+SetActiveLib -work
+comp -include "C:\Users\Gustas\Documents\KTU\Logika\L4\L4\M3.vhd" 
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: C:\Users\Gustas\Documents\KTU\Logika\L4\L4\aa\..\M3.vhd
+# Compile Entity "M3"
+# Compile Architecture "rtl" of Entity "M3"
+# Compile success 0 Errors 0 Warnings  Analysis time :  78.0 [ms]
+comp -include "C:\Users\Gustas\Documents\KTU\Logika\L4\L4\M2.vhd" 
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: C:\Users\Gustas\Documents\KTU\Logika\L4\L4\aa\..\M2.vhd
+# Compile Entity "M2"
+# Compile Architecture "rtl" of Entity "M2"
+# Compile success 0 Errors 0 Warnings  Analysis time :  78.0 [ms]
+comp -include "C:\Users\Gustas\Documents\KTU\Logika\L4\L4\M1.vhd" 
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: C:\Users\Gustas\Documents\KTU\Logika\L4\L4\aa\..\M1.vhd
+# Compile Entity "M1"
+# Compile Architecture "rtl" of Entity "M1"
+# Compile success 0 Errors 0 Warnings  Analysis time :  78.0 [ms]
+comp -include "C:\Users\Gustas\Documents\KTU\Logika\L4\L4\JM2.vhd" 
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: C:\Users\Gustas\Documents\KTU\Logika\L4\L4\aa\..\JM2.vhd
+# Compile Entity "TOP_CNT"
+# Compile Architecture "struct" of Entity "TOP_CNT"
+# Compile success 0 Errors 0 Warnings  Analysis time :  78.0 [ms]
+comp -include "$dsn\src\TestBench\top_cnt_TB.vhd" 
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: C:\Users\Gustas\Documents\KTU\Logika\L4\L4\aa\src\TestBench\top_cnt_TB.vhd
+# Compile Entity "top_cnt_tb"
+# Compile Architecture "TB_ARCHITECTURE" of Entity "top_cnt_tb"
+# Compile Configuration "TESTBENCH_FOR_top_cnt"
+# Compile success 0 Errors 0 Warnings  Analysis time :  62.0 [ms]
+asim +access +r TESTBENCH_FOR_top_cnt 
+# VSIM: Simulation has finished.
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+# VSIM: Stack memory: 32MB
+# VSIM: Retval memory: 32MB
+# 
+# KERNEL: Main thread initiated.
+# KERNEL: Kernel process initialization phase.
+# KERNEL: Time resolution set to 1ps.
+# ELAB2: Elaboration final pass...
+# ELAB2: Create instances ...
+# ELAB2: Create instances complete.
+# SLP: Started
+# SLP: Elaboration phase ...
+# SLP: Elaboration phase ... skipped, nothing to simulate in SLP mode : 0.0 [s]
+# SLP: Finished : 0.0 [s]
+# ELAB2: Elaboration final pass complete - time: 0.0 [s].
+# KERNEL: Warning: You are using the Active-HDL Lattice Edition. The performance of simulation is running at a reduced rate.
+# KERNEL: Warning: Contact Aldec for available upgrade options - sales@aldec.com.
+# KERNEL: Kernel process initialization done.
+# Allocation: Simulator allocated 7107 kB (elbread=1280 elab2=5678 kernel=149 sdf=0)
+# KERNEL: ASDB file was created in location C:\Users\Gustas\Documents\KTU\Logika\L4\L4\aa\src\wave.asdb
+#  17:40, Thursday, May 9, 2019
+#  Simulation has been initialized
+# Waveform file 'untitled.awc' connected to 'C:/Users/Gustas/Documents/KTU/Logika/L4/L4/aa/src/wave.asdb'.
+# Waveform file 'untitled.awc' connected to 'C:/Users/Gustas/Documents/KTU/Logika/L4/L4/aa/src/wave.asdb'.
+# Waveform file 'untitled.awc' connected to 'C:/Users/Gustas/Documents/KTU/Logika/L4/L4/aa/src/wave.asdb'.
+# Waveform file 'untitled.awc' connected to 'C:/Users/Gustas/Documents/KTU/Logika/L4/L4/aa/src/wave.asdb'.
+wave 
+wave -noreg CLK_I
+wave -noreg RST_I
+wave -noreg ENBL_I
+wave -noreg CNT_CO
+# # The following lines can be used for timing simulation
+# # acom <backannotated_vhdl_file_name>
+# # comp -include "$dsn\src\TestBench\top_cnt_TB_tim_cfg.vhd" 
+# # asim +access +r TIMING_FOR_top_cnt 
+# 4 signal(s) traced.
+# Waveform file 'untitled.awc' connected to 'C:/Users/Gustas/Documents/KTU/Logika/L4/L4/aa/src/wave.asdb'.
+# 1 signal(s) traced.
+# 1 signal(s) traced.
+# 1 signal(s) traced.
+run
+# EXECUTION:: FAILURE:  Pabaiga 
+# EXECUTION:: Time: 10020 ns,  Iteration: 0,  Instance: /top_cnt_tb,  Process: enbl_process.
+# KERNEL: Stopped at time 10020 ns + 0.
+acom -O3 -e 100 -work work -2002  $dsn/src/TestBench/top_cnt_TB.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: C:\Users\Gustas\Documents\KTU\Logika\L4\L4\aa\src\TestBench\top_cnt_TB.vhd
+# Compile Entity "top_cnt_tb"
+# Compile Architecture "TB_ARCHITECTURE" of Entity "top_cnt_tb"
+# Compile Configuration "TESTBENCH_FOR_top_cnt"
+# Compile success 0 Errors 0 Warnings  Analysis time :  63.0 [ms]
+SetActiveLib -work
+comp -include "C:\Users\Gustas\Documents\KTU\Logika\L4\L4\M3.vhd" 
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: C:\Users\Gustas\Documents\KTU\Logika\L4\L4\aa\..\M3.vhd
+# Compile Entity "M3"
+# Compile Architecture "rtl" of Entity "M3"
+# Compile success 0 Errors 0 Warnings  Analysis time :  63.0 [ms]
+comp -include "C:\Users\Gustas\Documents\KTU\Logika\L4\L4\M2.vhd" 
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: C:\Users\Gustas\Documents\KTU\Logika\L4\L4\aa\..\M2.vhd
+# Compile Entity "M2"
+# Compile Architecture "rtl" of Entity "M2"
+# Compile success 0 Errors 0 Warnings  Analysis time :  47.0 [ms]
+comp -include "C:\Users\Gustas\Documents\KTU\Logika\L4\L4\M1.vhd" 
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: C:\Users\Gustas\Documents\KTU\Logika\L4\L4\aa\..\M1.vhd
+# Compile Entity "M1"
+# Compile Architecture "rtl" of Entity "M1"
+# Compile success 0 Errors 0 Warnings  Analysis time :  63.0 [ms]
+comp -include "C:\Users\Gustas\Documents\KTU\Logika\L4\L4\JM2.vhd" 
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: C:\Users\Gustas\Documents\KTU\Logika\L4\L4\aa\..\JM2.vhd
+# Compile Entity "TOP_CNT"
+# Compile Architecture "struct" of Entity "TOP_CNT"
+# Compile success 0 Errors 0 Warnings  Analysis time :  62.0 [ms]
+comp -include "$dsn\src\TestBench\top_cnt_TB.vhd" 
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: C:\Users\Gustas\Documents\KTU\Logika\L4\L4\aa\src\TestBench\top_cnt_TB.vhd
+# Compile Entity "top_cnt_tb"
+# Compile Architecture "TB_ARCHITECTURE" of Entity "top_cnt_tb"
+# Compile Configuration "TESTBENCH_FOR_top_cnt"
+# Compile success 0 Errors 0 Warnings  Analysis time :  62.0 [ms]
+asim +access +r TESTBENCH_FOR_top_cnt 
+# VSIM: Simulation has finished.
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+# VSIM: Stack memory: 32MB
+# VSIM: Retval memory: 32MB
+# 
+# KERNEL: Main thread initiated.
+# KERNEL: Kernel process initialization phase.
+# KERNEL: Time resolution set to 1ps.
+# ELAB2: Elaboration final pass...
+# ELAB2: Create instances ...
+# ELAB2: Create instances complete.
+# SLP: Started
+# SLP: Elaboration phase ...
+# SLP: Elaboration phase ... skipped, nothing to simulate in SLP mode : 0.0 [s]
+# SLP: Finished : 0.0 [s]
+# ELAB2: Elaboration final pass complete - time: 0.0 [s].
+# KERNEL: Warning: You are using the Active-HDL Lattice Edition. The performance of simulation is running at a reduced rate.
+# KERNEL: Warning: Contact Aldec for available upgrade options - sales@aldec.com.
+# KERNEL: Kernel process initialization done.
+# Allocation: Simulator allocated 7107 kB (elbread=1280 elab2=5678 kernel=149 sdf=0)
+# KERNEL: ASDB file was created in location C:\Users\Gustas\Documents\KTU\Logika\L4\L4\aa\src\wave.asdb
+#  17:48, Thursday, May 9, 2019
+#  Simulation has been initialized
+# Waveform file 'untitled.awc' connected to 'C:/Users/Gustas/Documents/KTU/Logika/L4/L4/aa/src/wave.asdb'.
+# Waveform file 'untitled.awc' connected to 'C:/Users/Gustas/Documents/KTU/Logika/L4/L4/aa/src/wave.asdb'.
+# Waveform file 'untitled.awc' connected to 'C:/Users/Gustas/Documents/KTU/Logika/L4/L4/aa/src/wave.asdb'.
+# Waveform file 'untitled.awc' connected to 'C:/Users/Gustas/Documents/KTU/Logika/L4/L4/aa/src/wave.asdb'.
+# Waveform file 'untitled.awc' connected to 'C:/Users/Gustas/Documents/KTU/Logika/L4/L4/aa/src/wave.asdb'.
+wave 
+wave -noreg CLK_I
+wave -noreg RST_I
+wave -noreg ENBL_I
+wave -noreg CNT_CO
+# # The following lines can be used for timing simulation
+# # acom <backannotated_vhdl_file_name>
+# # comp -include "$dsn\src\TestBench\top_cnt_TB_tim_cfg.vhd" 
+# # asim +access +r TIMING_FOR_top_cnt 
+# 4 signal(s) traced.
+# Waveform file 'untitled.awc' connected to 'C:/Users/Gustas/Documents/KTU/Logika/L4/L4/aa/src/wave.asdb'.
+# 1 signal(s) traced.
+# 1 signal(s) traced.
+# 1 signal(s) traced.
+acom -O3 -e 100 -work work -2002  $dsn/src/TestBench/top_cnt_TB.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: C:\Users\Gustas\Documents\KTU\Logika\L4\L4\aa\src\TestBench\top_cnt_TB.vhd
+# Compile Entity "TOP_CNT"
+# Compile Architecture "struct" of Entity "TOP_CNT"
+# Error: COMP96_0078: aa/src/TestBench/top_cnt_TB.vhd : (46, 30): Unknown identifier "CLK_I".
+# Error: COMP96_0078: aa/src/TestBench/top_cnt_TB.vhd : (47, 35): Unknown identifier "ENBL_I".
+# Error: COMP96_0133: aa/src/TestBench/top_cnt_TB.vhd : (46, 30): Cannot find object declaration.
+# Error: COMP96_0133: aa/src/TestBench/top_cnt_TB.vhd : (47, 35): Cannot find object declaration.
+# Error: COMP96_0104: aa/src/TestBench/top_cnt_TB.vhd : (46, 23): Undefined type of expression.
+# Error: COMP96_0104: aa/src/TestBench/top_cnt_TB.vhd : (47, 24): Undefined type of expression.
+# Error: COMP96_0078: aa/src/TestBench/top_cnt_TB.vhd : (50, 35): Unknown identifier "ENBL_I".
+# Error: COMP96_0133: aa/src/TestBench/top_cnt_TB.vhd : (50, 35): Cannot find object declaration.
+# Error: COMP96_0104: aa/src/TestBench/top_cnt_TB.vhd : (50, 24): Undefined type of expression.
+# Error: COMP96_0078: aa/src/TestBench/top_cnt_TB.vhd : (53, 35): Unknown identifier "ENBL_I".
+# Error: COMP96_0133: aa/src/TestBench/top_cnt_TB.vhd : (53, 35): Cannot find object declaration.
+# Error: COMP96_0104: aa/src/TestBench/top_cnt_TB.vhd : (53, 24): Undefined type of expression.
+# Error: COMP96_0078: aa/src/TestBench/top_cnt_TB.vhd : (56, 11): Unknown identifier "CLK_I".
+# Error: COMP96_0078: aa/src/TestBench/top_cnt_TB.vhd : (56, 19): Unknown identifier "RST_I".
+# Error: COMP96_0348: aa/src/TestBench/top_cnt_TB.vhd : (56, 11): Name on sensitivity list must denote a signal.
+# Error: COMP96_0348: aa/src/TestBench/top_cnt_TB.vhd : (56, 19): Name on sensitivity list must denote a signal.
+# Error: COMP96_0078: aa/src/TestBench/top_cnt_TB.vhd : (58, 7): Unknown identifier "RST_I".
+# Error: COMP96_0133: aa/src/TestBench/top_cnt_TB.vhd : (58, 7): Cannot find object declaration.
+# Error: COMP96_0077: aa/src/TestBench/top_cnt_TB.vhd : (58, 6): Undefined type of expression. Expected type 'BOOLEAN'.
+# Error: COMP96_0078: aa/src/TestBench/top_cnt_TB.vhd : (60, 9): Unknown identifier "CLK_I".
+# Error: COMP96_0133: aa/src/TestBench/top_cnt_TB.vhd : (60, 9): Cannot find object declaration.
+# Error: COMP96_0124: aa/src/TestBench/top_cnt_TB.vhd : (60, 14): Illegal prefix for attribute 'event.
+# Error: COMP96_0078: aa/src/TestBench/top_cnt_TB.vhd : (60, 25): Unknown identifier "CLK_I".
+# Error: COMP96_0133: aa/src/TestBench/top_cnt_TB.vhd : (60, 25): Cannot find object declaration.
+# Error: COMP96_0077: aa/src/TestBench/top_cnt_TB.vhd : (60, 9): Undefined type of expression. Expected type 'BOOLEAN'.
+# Error: COMP96_0078: aa/src/TestBench/top_cnt_TB.vhd : (65, 5): Unknown identifier "CNT_CO".
+# Error: COMP96_0133: aa/src/TestBench/top_cnt_TB.vhd : (65, 5): Cannot find object declaration.
+# Error: COMP96_0078: aa/src/TestBench/top_cnt_TB.vhd : (68, 5): Unknown identifier "CNT_CO".
+# Error: COMP96_0133: aa/src/TestBench/top_cnt_TB.vhd : (68, 5): Cannot find object declaration.
+# Compile failure 29 Errors 0 Warnings  Analysis time :  31.0 [ms]
+acom -O3 -e 100 -work work -2002  $dsn/src/TestBench/top_cnt_TB.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: C:\Users\Gustas\Documents\KTU\Logika\L4\L4\aa\src\TestBench\top_cnt_TB.vhd
+# Compile Entity "TOP_CNT"
+# Compile Architecture "struct" of Entity "TOP_CNT"
+# Error: COMP96_0078: aa/src/TestBench/top_cnt_TB.vhd : (45, 30): Unknown identifier "CLK_I".
+# Error: COMP96_0078: aa/src/TestBench/top_cnt_TB.vhd : (46, 35): Unknown identifier "ENBL_I".
+# Error: COMP96_0133: aa/src/TestBench/top_cnt_TB.vhd : (45, 30): Cannot find object declaration.
+# Error: COMP96_0133: aa/src/TestBench/top_cnt_TB.vhd : (46, 35): Cannot find object declaration.
+# Error: COMP96_0104: aa/src/TestBench/top_cnt_TB.vhd : (45, 23): Undefined type of expression.
+# Error: COMP96_0104: aa/src/TestBench/top_cnt_TB.vhd : (46, 24): Undefined type of expression.
+# Error: COMP96_0078: aa/src/TestBench/top_cnt_TB.vhd : (49, 35): Unknown identifier "ENBL_I".
+# Error: COMP96_0133: aa/src/TestBench/top_cnt_TB.vhd : (49, 35): Cannot find object declaration.
+# Error: COMP96_0104: aa/src/TestBench/top_cnt_TB.vhd : (49, 24): Undefined type of expression.
+# Error: COMP96_0078: aa/src/TestBench/top_cnt_TB.vhd : (52, 35): Unknown identifier "ENBL_I".
+# Error: COMP96_0133: aa/src/TestBench/top_cnt_TB.vhd : (52, 35): Cannot find object declaration.
+# Error: COMP96_0104: aa/src/TestBench/top_cnt_TB.vhd : (52, 24): Undefined type of expression.
+# Error: COMP96_0078: aa/src/TestBench/top_cnt_TB.vhd : (55, 11): Unknown identifier "CLK_I".
+# Error: COMP96_0078: aa/src/TestBench/top_cnt_TB.vhd : (55, 19): Unknown identifier "RST_I".
+# Error: COMP96_0348: aa/src/TestBench/top_cnt_TB.vhd : (55, 11): Name on sensitivity list must denote a signal.
+# Error: COMP96_0348: aa/src/TestBench/top_cnt_TB.vhd : (55, 19): Name on sensitivity list must denote a signal.
+# Error: COMP96_0078: aa/src/TestBench/top_cnt_TB.vhd : (57, 7): Unknown identifier "RST_I".
+# Error: COMP96_0133: aa/src/TestBench/top_cnt_TB.vhd : (57, 7): Cannot find object declaration.
+# Error: COMP96_0077: aa/src/TestBench/top_cnt_TB.vhd : (57, 6): Undefined type of expression. Expected type 'BOOLEAN'.
+# Error: COMP96_0078: aa/src/TestBench/top_cnt_TB.vhd : (59, 9): Unknown identifier "CLK_I".
+# Error: COMP96_0133: aa/src/TestBench/top_cnt_TB.vhd : (59, 9): Cannot find object declaration.
+# Error: COMP96_0124: aa/src/TestBench/top_cnt_TB.vhd : (59, 14): Illegal prefix for attribute 'event.
+# Error: COMP96_0078: aa/src/TestBench/top_cnt_TB.vhd : (59, 25): Unknown identifier "CLK_I".
+# Error: COMP96_0133: aa/src/TestBench/top_cnt_TB.vhd : (59, 25): Cannot find object declaration.
+# Error: COMP96_0077: aa/src/TestBench/top_cnt_TB.vhd : (59, 9): Undefined type of expression. Expected type 'BOOLEAN'.
+# Error: COMP96_0078: aa/src/TestBench/top_cnt_TB.vhd : (64, 5): Unknown identifier "CNT_CO".
+# Error: COMP96_0133: aa/src/TestBench/top_cnt_TB.vhd : (64, 5): Cannot find object declaration.
+# Error: COMP96_0078: aa/src/TestBench/top_cnt_TB.vhd : (67, 5): Unknown identifier "CNT_CO".
+# Error: COMP96_0133: aa/src/TestBench/top_cnt_TB.vhd : (67, 5): Cannot find object declaration.
+# Compile failure 29 Errors 0 Warnings  Analysis time :  32.0 [ms]
+acom -O3 -e 100 -work work -2002  $dsn/src/TestBench/top_cnt_TB.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: C:\Users\Gustas\Documents\KTU\Logika\L4\L4\aa\src\TestBench\top_cnt_TB.vhd
+# Compile Entity "TOP_CNT"
+# Compile Architecture "struct" of Entity "TOP_CNT"
+# Error: COMP96_0078: aa/src/TestBench/top_cnt_TB.vhd : (43, 30): Unknown identifier "CLK_I".
+# Error: COMP96_0133: aa/src/TestBench/top_cnt_TB.vhd : (43, 30): Cannot find object declaration.
+# Error: COMP96_0104: aa/src/TestBench/top_cnt_TB.vhd : (43, 23): Undefined type of expression.
+# Compile failure 3 Errors 0 Warnings  Analysis time :  16.0 [ms]
+acom -O3 -e 100 -work work -2002  $dsn/src/TestBench/top_cnt_TB.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: C:\Users\Gustas\Documents\KTU\Logika\L4\L4\aa\src\TestBench\top_cnt_TB.vhd
+# Compile Entity "TOP_CNT"
+# Compile Architecture "struct" of Entity "TOP_CNT"
+# Compile success 0 Errors 0 Warnings  Analysis time :  63.0 [ms]

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<BaliMessageLog>
+    <Task name="Synplify_Synthesis">
+        <Message>
+            <ID>2011000</ID>
+            <Severity>Info</Severity>
+        </Message>
+        <Message>
+            <ID>2019991</ID>
+            <Severity>Warning</Severity>
+            <Dynamic>CD638 :&quot;C:\Users\Gustas\Documents\KTU\Logika\L1\L1\impl1\uzd3.vhd&quot;:21:10:21:12|Signal gnd is undriven. Either assign the signal a value or remove the signal declaration.</Dynamic>
+            <Navigation>CD638</Navigation>
+            <Navigation>C:\Users\Gustas\Documents\KTU\Logika\L1\L1\impl1\uzd3.vhd</Navigation>
+            <Navigation>21</Navigation>
+            <Navigation>10</Navigation>
+            <Navigation>21</Navigation>
+            <Navigation>12</Navigation>
+            <Navigation>Signal gnd is undriven. Either assign the signal a value or remove the signal declaration.</Navigation>
+        </Message>
+        <Message>
+            <ID>2019991</ID>
+            <Severity>Warning</Severity>
+            <Dynamic>CD638 :&quot;C:\Users\Gustas\Documents\KTU\Logika\L1\L1\impl1\uzd3.vhd&quot;:22:10:22:12|Signal vcc is undriven. Either assign the signal a value or remove the signal declaration.</Dynamic>
+            <Navigation>CD638</Navigation>
+            <Navigation>C:\Users\Gustas\Documents\KTU\Logika\L1\L1\impl1\uzd3.vhd</Navigation>
+            <Navigation>22</Navigation>
+            <Navigation>10</Navigation>
+            <Navigation>22</Navigation>
+            <Navigation>12</Navigation>
+            <Navigation>Signal vcc is undriven. Either assign the signal a value or remove the signal declaration.</Navigation>
+        </Message>
+        <Message>
+            <ID>2019991</ID>
+            <Severity>Warning</Severity>
+            <Dynamic>MT246 :&quot;c:\users\gustas\documents\ktu\logika\l1\l1\impl1\uzd3.vhd&quot;:129:3:129:5|Blackbox AND4 is missing a user supplied timing model. This may have a negative effect on timing analysis and optimizations (Quality of Results)</Dynamic>
+            <Navigation>MT246</Navigation>
+            <Navigation>c:\users\gustas\documents\ktu\logika\l1\l1\impl1\uzd3.vhd</Navigation>
+            <Navigation>129</Navigation>
+            <Navigation>3</Navigation>
+            <Navigation>129</Navigation>
+            <Navigation>5</Navigation>
+            <Navigation>Blackbox AND4 is missing a user supplied timing model. This may have a negative effect on timing analysis and optimizations (Quality of Results) </Navigation>
+        </Message>
+        <Message>
+            <ID>2019991</ID>
+            <Severity>Warning</Severity>
+            <Dynamic>MT246 :&quot;c:\users\gustas\documents\ktu\logika\l1\l1\impl1\uzd3.vhd&quot;:123:3:123:5|Blackbox AND3 is missing a user supplied timing model. This may have a negative effect on timing analysis and optimizations (Quality of Results)</Dynamic>
+            <Navigation>MT246</Navigation>
+            <Navigation>c:\users\gustas\documents\ktu\logika\l1\l1\impl1\uzd3.vhd</Navigation>
+            <Navigation>123</Navigation>
+            <Navigation>3</Navigation>
+            <Navigation>123</Navigation>
+            <Navigation>5</Navigation>
+            <Navigation>Blackbox AND3 is missing a user supplied timing model. This may have a negative effect on timing analysis and optimizations (Quality of Results) </Navigation>
+        </Message>
+        <Message>
+            <ID>2019991</ID>
+            <Severity>Warning</Severity>
+            <Dynamic>MT246 :&quot;c:\users\gustas\documents\ktu\logika\l1\l1\impl1\uzd3.vhd&quot;:109:3:109:5|Blackbox OR3 is missing a user supplied timing model. This may have a negative effect on timing analysis and optimizations (Quality of Results)</Dynamic>
+            <Navigation>MT246</Navigation>
+            <Navigation>c:\users\gustas\documents\ktu\logika\l1\l1\impl1\uzd3.vhd</Navigation>
+            <Navigation>109</Navigation>
+            <Navigation>3</Navigation>
+            <Navigation>109</Navigation>
+            <Navigation>5</Navigation>
+            <Navigation>Blackbox OR3 is missing a user supplied timing model. This may have a negative effect on timing analysis and optimizations (Quality of Results) </Navigation>
+        </Message>
+        <Message>
+            <ID>2019991</ID>
+            <Severity>Warning</Severity>
+            <Dynamic>MT246 :&quot;c:\users\gustas\documents\ktu\logika\l1\l1\impl1\uzd3.vhd&quot;:101:3:101:5|Blackbox OR5 is missing a user supplied timing model. This may have a negative effect on timing analysis and optimizations (Quality of Results)</Dynamic>
+            <Navigation>MT246</Navigation>
+            <Navigation>c:\users\gustas\documents\ktu\logika\l1\l1\impl1\uzd3.vhd</Navigation>
+            <Navigation>101</Navigation>
+            <Navigation>3</Navigation>
+            <Navigation>101</Navigation>
+            <Navigation>5</Navigation>
+            <Navigation>Blackbox OR5 is missing a user supplied timing model. This may have a negative effect on timing analysis and optimizations (Quality of Results) </Navigation>
+        </Message>
+    </Task>
+</BaliMessageLog>

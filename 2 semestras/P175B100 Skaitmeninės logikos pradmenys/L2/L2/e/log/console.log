@@ -1,0 +1,330 @@
+designverincludedir -clear
+designverlibrarysim -PL -clear
+designverlibrarysim -L -clear
+designverlibrarysim -PL pmi_work
+designverlibrarysim ovi_xp2
+designverdefinemacro -clear
+addfile C:/Users/Gustas/Documents/KTU/Logika/L2/L2/impl1/uzd1.vhd
+# Adding file C:\Users\Gustas\Documents\KTU\Logika\L2\L2\impl1\uzd1.vhd ... Done
+vlib C:/Users/Gustas/Documents/KTU/Logika/L2/L2/e/work
+# Adding library O.K.
+adel -all
+# Library contents cleared.
+vcom -dbg -work work C:/Users/Gustas/Documents/KTU/Logika/L2/L2/impl1/uzd1.vhd
+# File: C:\Users\Gustas\Documents\KTU\Logika\L2\L2\impl1\uzd1.vhd
+# Compile Entity "UZD1"
+# Compile Architecture "SCHEMATIC" of Entity "UZD1"
+# Compile success 0 Errors 0 Warnings  Analysis time :  0.1 [s]
+entity UZD1
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+vsim +access +r UZD1 -PL pmi_work -L ovi_xp2
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+# VSIM: Stack memory: 32MB
+# VSIM: Retval memory: 32MB
+# 
+# KERNEL: Main thread initiated.
+# KERNEL: Kernel process initialization phase.
+# KERNEL: Time resolution set to 1ps.
+# ELAB2: Elaboration final pass...
+# ELAB2: Create instances ...
+# ELAB2: Create instances complete.
+# SLP: Started
+# SLP: Elaboration phase ...
+# SLP: Elaboration phase ... skipped, nothing to simulate in SLP mode : 0.0 [s]
+# SLP: Finished : 0.0 [s]
+# ELAB2: Elaboration final pass complete - time: 0.1 [s].
+# KERNEL: Warning: You are using the Active-HDL Lattice Edition. The performance of simulation is running at a reduced rate.
+# KERNEL: Warning: Contact Aldec for available upgrade options - sales@aldec.com.
+# KERNEL: Kernel process initialization done.
+# Allocation: Simulator allocated 7247 kB (elbread=1280 elab2=5816 kernel=150 sdf=0)
+# KERNEL: ASDB file was created in location C:\Users\Gustas\Documents\KTU\Logika\L2\L2\e\src\wave.asdb
+#  12:57, Monday, April 1, 2019
+#  Simulation has been initialized
+add wave *
+# 38 signal(s) traced.
+run 1000ns
+# Waveform file 'untitled.awc' connected to 'C:/Users/Gustas/Documents/KTU/Logika/L2/L2/e/src/wave.asdb'.
+# KERNEL: stopped at time: 1 us
+# KERNEL: Simulation has finished. There are no more test vectors to simulate.
+acom -O3 -e 100 -work work -2002  $dsn/src/TestBench/uzd1_TB.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: C:\Users\Gustas\Documents\KTU\Logika\L2\L2\e\src\TestBench\uzd1_TB.vhd
+# Compile Entity "uzd1_tb"
+# Compile Architecture "TB_ARCHITECTURE" of Entity "uzd1_tb"
+# Compile Configuration "TESTBENCH_FOR_uzd1"
+# Compile success 0 Errors 0 Warnings  Analysis time :  94.0 [ms]
+SetActiveLib -work
+comp -include "C:\Users\Gustas\Documents\KTU\Logika\L2\L2\impl1\uzd1.vhd" 
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: C:\Users\Gustas\Documents\KTU\Logika\L2\L2\e\..\impl1\uzd1.vhd
+# Compile Entity "UZD1"
+# Compile Architecture "SCHEMATIC" of Entity "UZD1"
+# Compile success 0 Errors 0 Warnings  Analysis time :  78.0 [ms]
+comp -include "$dsn\src\TestBench\uzd1_TB.vhd" 
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: C:\Users\Gustas\Documents\KTU\Logika\L2\L2\e\src\TestBench\uzd1_TB.vhd
+# Compile Entity "uzd1_tb"
+# Compile Architecture "TB_ARCHITECTURE" of Entity "uzd1_tb"
+# Compile Configuration "TESTBENCH_FOR_uzd1"
+# Compile success 0 Errors 0 Warnings  Analysis time :  78.0 [ms]
+asim +access +r TESTBENCH_FOR_uzd1 
+# VSIM: Simulation has finished.
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+# VSIM: Stack memory: 32MB
+# VSIM: Retval memory: 32MB
+# 
+# KERNEL: Main thread initiated.
+# KERNEL: Kernel process initialization phase.
+# KERNEL: Time resolution set to 1ps.
+# ELAB2: Elaboration final pass...
+# ELAB2: Create instances ...
+# ELAB2: Create instances complete.
+# SLP: Started
+# SLP: Elaboration phase ...
+# SLP: Elaboration phase ... skipped, nothing to simulate in SLP mode : 0.0 [s]
+# SLP: Finished : 0.0 [s]
+# ELAB2: Elaboration final pass complete - time: 0.0 [s].
+# KERNEL: Warning: You are using the Active-HDL Lattice Edition. The performance of simulation is running at a reduced rate.
+# KERNEL: Warning: Contact Aldec for available upgrade options - sales@aldec.com.
+# KERNEL: Kernel process initialization done.
+# Allocation: Simulator allocated 7248 kB (elbread=1280 elab2=5818 kernel=149 sdf=0)
+# KERNEL: ASDB file was created in location C:\Users\Gustas\Documents\KTU\Logika\L2\L2\e\src\wave.asdb
+#  13:04, Monday, April 1, 2019
+#  Simulation has been initialized
+# Waveform file 'untitled.awc' connected to 'C:/Users/Gustas/Documents/KTU/Logika/L2/L2/e/src/wave.asdb'.
+wave 
+wave -noreg x2
+wave -noreg x3
+wave -noreg x4 
+wave -noreg Reset
+
+wave -noreg C
+wave -noreg UUT/S
+wave -noreg UUT/R
+wave -noreg Statinis
+wave -noreg Dinaminis
+wave -noreg Dvipakopis
+# # The following lines can be used for timing simulation
+# # acom <backannotated_vhdl_file_name>
+# # comp -include "$dsn\src\TestBench\uzd1_TB_tim_cfg.vhd" 
+# # asim +access +r TIMING_FOR_uzd1 
+# 10 signal(s) traced.
+# Waveform file 'untitled.awc' connected to 'C:/Users/Gustas/Documents/KTU/Logika/L2/L2/e/src/wave.asdb'.
+run
+# KERNEL: Stopped at time 55 ns + 5000.
+# KERNEL: Error: KERNEL_0160 Delta count overflow. Increase the iteration limit using -i argument for asim or the matching entry in simulation preferences.
+# VSIM: Error: Fatal error occurred during simulation.
+acom -O3 -e 100 -work work -2002  $dsn/src/TestBench/uzd1_TB.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: C:\Users\Gustas\Documents\KTU\Logika\L2\L2\e\src\TestBench\uzd1_TB.vhd
+# Compile Entity "uzd1_tb"
+# Compile Architecture "TB_ARCHITECTURE" of Entity "uzd1_tb"
+# Compile Configuration "TESTBENCH_FOR_uzd1"
+# Compile success 0 Errors 0 Warnings  Analysis time :  78.0 [ms]
+SetActiveLib -work
+comp -include "C:\Users\Gustas\Documents\KTU\Logika\L2\L2\impl1\uzd1.vhd" 
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: C:\Users\Gustas\Documents\KTU\Logika\L2\L2\e\..\impl1\uzd1.vhd
+# Compile Entity "UZD1"
+# Compile Architecture "SCHEMATIC" of Entity "UZD1"
+# Compile success 0 Errors 0 Warnings  Analysis time :  78.0 [ms]
+comp -include "$dsn\src\TestBench\uzd1_TB.vhd" 
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: C:\Users\Gustas\Documents\KTU\Logika\L2\L2\e\src\TestBench\uzd1_TB.vhd
+# Compile Entity "uzd1_tb"
+# Compile Architecture "TB_ARCHITECTURE" of Entity "uzd1_tb"
+# Compile Configuration "TESTBENCH_FOR_uzd1"
+# Compile success 0 Errors 0 Warnings  Analysis time :  78.0 [ms]
+asim +access +r TESTBENCH_FOR_uzd1 
+# VSIM: Simulation has finished.
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+# VSIM: Stack memory: 32MB
+# VSIM: Retval memory: 32MB
+# 
+# KERNEL: Main thread initiated.
+# KERNEL: Kernel process initialization phase.
+# KERNEL: Time resolution set to 1ps.
+# ELAB2: Elaboration final pass...
+# ELAB2: Create instances ...
+# ELAB2: Create instances complete.
+# SLP: Started
+# SLP: Elaboration phase ...
+# SLP: Elaboration phase ... skipped, nothing to simulate in SLP mode : 0.0 [s]
+# SLP: Finished : 0.0 [s]
+# ELAB2: Elaboration final pass complete - time: 0.0 [s].
+# KERNEL: Warning: You are using the Active-HDL Lattice Edition. The performance of simulation is running at a reduced rate.
+# KERNEL: Warning: Contact Aldec for available upgrade options - sales@aldec.com.
+# KERNEL: Kernel process initialization done.
+# Allocation: Simulator allocated 7248 kB (elbread=1280 elab2=5818 kernel=149 sdf=0)
+# KERNEL: ASDB file was created in location C:\Users\Gustas\Documents\KTU\Logika\L2\L2\e\src\wave.asdb
+#  13:05, Monday, April 1, 2019
+#  Simulation has been initialized
+# Waveform file 'untitled.awc' connected to 'C:/Users/Gustas/Documents/KTU/Logika/L2/L2/e/src/wave.asdb'.
+# Waveform file 'untitled.awc' connected to 'C:/Users/Gustas/Documents/KTU/Logika/L2/L2/e/src/wave.asdb'.
+wave 
+wave -noreg x2
+wave -noreg x3
+wave -noreg x4 
+wave -noreg Reset
+
+wave -noreg C
+wave -noreg UUT/S
+wave -noreg UUT/R
+wave -noreg Statinis
+wave -noreg Dinaminis
+wave -noreg Dvipakopis
+# # The following lines can be used for timing simulation
+# # acom <backannotated_vhdl_file_name>
+# # comp -include "$dsn\src\TestBench\uzd1_TB_tim_cfg.vhd" 
+# # asim +access +r TIMING_FOR_uzd1 
+# 10 signal(s) traced.
+# Waveform file 'untitled.awc' connected to 'C:/Users/Gustas/Documents/KTU/Logika/L2/L2/e/src/wave.asdb'.
+run
+# KERNEL: Stopped at time 75 ns + 5000.
+# KERNEL: Error: KERNEL_0160 Delta count overflow. Increase the iteration limit using -i argument for asim or the matching entry in simulation preferences.
+# VSIM: Error: Fatal error occurred during simulation.
+acom -O3 -e 100 -work work -2002  $dsn/src/TestBench/uzd1_TB.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: C:\Users\Gustas\Documents\KTU\Logika\L2\L2\e\src\TestBench\uzd1_TB.vhd
+# Compile Entity "uzd1_tb"
+# Compile Architecture "TB_ARCHITECTURE" of Entity "uzd1_tb"
+# Compile Configuration "TESTBENCH_FOR_uzd1"
+# Compile success 0 Errors 0 Warnings  Analysis time :  93.0 [ms]
+SetActiveLib -work
+comp -include "C:\Users\Gustas\Documents\KTU\Logika\L2\L2\impl1\uzd1.vhd" 
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: C:\Users\Gustas\Documents\KTU\Logika\L2\L2\e\..\impl1\uzd1.vhd
+# Compile Entity "UZD1"
+# Compile Architecture "SCHEMATIC" of Entity "UZD1"
+# Compile success 0 Errors 0 Warnings  Analysis time :  78.0 [ms]
+comp -include "$dsn\src\TestBench\uzd1_TB.vhd" 
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: C:\Users\Gustas\Documents\KTU\Logika\L2\L2\e\src\TestBench\uzd1_TB.vhd
+# Compile Entity "uzd1_tb"
+# Compile Architecture "TB_ARCHITECTURE" of Entity "uzd1_tb"
+# Compile Configuration "TESTBENCH_FOR_uzd1"
+# Compile success 0 Errors 0 Warnings  Analysis time :  78.0 [ms]
+asim +access +r TESTBENCH_FOR_uzd1 
+# VSIM: Simulation has finished.
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+# VSIM: Stack memory: 32MB
+# VSIM: Retval memory: 32MB
+# 
+# KERNEL: Main thread initiated.
+# KERNEL: Kernel process initialization phase.
+# KERNEL: Time resolution set to 1ps.
+# ELAB2: Elaboration final pass...
+# ELAB2: Create instances ...
+# ELAB2: Create instances complete.
+# SLP: Started
+# SLP: Elaboration phase ...
+# SLP: Elaboration phase ... skipped, nothing to simulate in SLP mode : 0.0 [s]
+# SLP: Finished : 0.0 [s]
+# ELAB2: Elaboration final pass complete - time: 0.0 [s].
+# KERNEL: Warning: You are using the Active-HDL Lattice Edition. The performance of simulation is running at a reduced rate.
+# KERNEL: Warning: Contact Aldec for available upgrade options - sales@aldec.com.
+# KERNEL: Kernel process initialization done.
+# Allocation: Simulator allocated 7248 kB (elbread=1280 elab2=5818 kernel=149 sdf=0)
+# KERNEL: ASDB file was created in location C:\Users\Gustas\Documents\KTU\Logika\L2\L2\e\src\wave.asdb
+#  13:07, Monday, April 1, 2019
+#  Simulation has been initialized
+# Waveform file 'untitled.awc' connected to 'C:/Users/Gustas/Documents/KTU/Logika/L2/L2/e/src/wave.asdb'.
+# Waveform file 'untitled.awc' connected to 'C:/Users/Gustas/Documents/KTU/Logika/L2/L2/e/src/wave.asdb'.
+wave 
+wave -noreg x2
+wave -noreg x3
+wave -noreg x4 
+wave -noreg Reset
+
+wave -noreg C
+wave -noreg UUT/S
+wave -noreg UUT/R
+wave -noreg Statinis
+wave -noreg Dinaminis
+wave -noreg Dvipakopis
+# # The following lines can be used for timing simulation
+# # acom <backannotated_vhdl_file_name>
+# # comp -include "$dsn\src\TestBench\uzd1_TB_tim_cfg.vhd" 
+# # asim +access +r TIMING_FOR_uzd1 
+# 10 signal(s) traced.
+# Waveform file 'untitled.awc' connected to 'C:/Users/Gustas/Documents/KTU/Logika/L2/L2/e/src/wave.asdb'.
+run
+# EXECUTION:: FAILURE:  Pabaiga 
+# EXECUTION:: Time: 85 ns,  Iteration: 0,  Instance: /uzd1_tb,  Process: SR_proc.
+# KERNEL: Stopped at time 85 ns + 0.
+acom -O3 -e 100 -work work -2002  $dsn/src/TestBench/uzd1_TB.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: C:\Users\Gustas\Documents\KTU\Logika\L2\L2\e\src\TestBench\uzd1_TB.vhd
+# Compile Entity "uzd1_tb"
+# Compile Architecture "TB_ARCHITECTURE" of Entity "uzd1_tb"
+# Compile Configuration "TESTBENCH_FOR_uzd1"
+# Compile success 0 Errors 0 Warnings  Analysis time :  78.0 [ms]
+SetActiveLib -work
+comp -include "C:\Users\Gustas\Documents\KTU\Logika\L2\L2\impl1\uzd1.vhd" 
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: C:\Users\Gustas\Documents\KTU\Logika\L2\L2\e\..\impl1\uzd1.vhd
+# Compile Entity "UZD1"
+# Compile Architecture "SCHEMATIC" of Entity "UZD1"
+# Compile success 0 Errors 0 Warnings  Analysis time :  78.0 [ms]
+comp -include "$dsn\src\TestBench\uzd1_TB.vhd" 
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: C:\Users\Gustas\Documents\KTU\Logika\L2\L2\e\src\TestBench\uzd1_TB.vhd
+# Compile Entity "uzd1_tb"
+# Compile Architecture "TB_ARCHITECTURE" of Entity "uzd1_tb"
+# Compile Configuration "TESTBENCH_FOR_uzd1"
+# Compile success 0 Errors 0 Warnings  Analysis time :  78.0 [ms]
+asim +access +r TESTBENCH_FOR_uzd1 
+# VSIM: Simulation has finished.
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+# VSIM: Stack memory: 32MB
+# VSIM: Retval memory: 32MB
+# 
+# KERNEL: Main thread initiated.
+# KERNEL: Kernel process initialization phase.
+# KERNEL: Time resolution set to 1ps.
+# ELAB2: Elaboration final pass...
+# ELAB2: Create instances ...
+# ELAB2: Create instances complete.
+# SLP: Started
+# SLP: Elaboration phase ...
+# SLP: Elaboration phase ... skipped, nothing to simulate in SLP mode : 0.0 [s]
+# SLP: Finished : 0.0 [s]
+# ELAB2: Elaboration final pass complete - time: 0.0 [s].
+# KERNEL: Warning: You are using the Active-HDL Lattice Edition. The performance of simulation is running at a reduced rate.
+# KERNEL: Warning: Contact Aldec for available upgrade options - sales@aldec.com.
+# KERNEL: Kernel process initialization done.
+# Allocation: Simulator allocated 7248 kB (elbread=1280 elab2=5818 kernel=149 sdf=0)
+# KERNEL: ASDB file was created in location C:\Users\Gustas\Documents\KTU\Logika\L2\L2\e\src\wave.asdb
+#  13:18, Monday, April 1, 2019
+#  Simulation has been initialized
+# Waveform file 'untitled.awc' connected to 'C:/Users/Gustas/Documents/KTU/Logika/L2/L2/e/src/wave.asdb'.
+# Waveform file 'untitled.awc' connected to 'C:/Users/Gustas/Documents/KTU/Logika/L2/L2/e/src/wave.asdb'.
+# Waveform file 'untitled.awc' connected to 'C:/Users/Gustas/Documents/KTU/Logika/L2/L2/e/src/wave.asdb'.
+wave 
+wave -noreg x2
+wave -noreg x3
+wave -noreg x4 
+wave -noreg Reset
+
+wave -noreg C
+wave -noreg UUT/S
+wave -noreg UUT/R
+wave -noreg Statinis
+wave -noreg Dinaminis
+wave -noreg Dvipakopis
+# # The following lines can be used for timing simulation
+# # acom <backannotated_vhdl_file_name>
+# # comp -include "$dsn\src\TestBench\uzd1_TB_tim_cfg.vhd" 
+# # asim +access +r TIMING_FOR_uzd1 
+# 10 signal(s) traced.
+# Waveform file 'untitled.awc' connected to 'C:/Users/Gustas/Documents/KTU/Logika/L2/L2/e/src/wave.asdb'.
+run
+# EXECUTION:: FAILURE:  Pabaiga 
+# EXECUTION:: Time: 95 ns,  Iteration: 0,  Instance: /uzd1_tb,  Process: SR_proc.
+# KERNEL: Stopped at time 95 ns + 0.

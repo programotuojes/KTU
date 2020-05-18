@@ -1,0 +1,23 @@
+----------------------------------------------------------------------
+Report for cell UZD3.schematic
+
+Register bits: 0 of 4752 (0%)
+PIC Latch:       0
+I/O cells:       7
+                                          Cell usage:
+                               cell       count    Res Usage(%)
+                               AND2        2       100.0
+                               AND3        7       100.0
+                               AND4        3       100.0
+                                GSR        1       100.0
+                                 IB        6       100.0
+                                INV        4       100.0
+                              MUX41        1       100.0
+                                 OB        1       100.0
+                                OR3        2       100.0
+                                OR5        1       100.0
+                                PUR        1       100.0
+                                VHI        1       100.0
+                                VLO        1       100.0
+                            
+                         TOTAL            31           

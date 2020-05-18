@@ -1,0 +1,114 @@
+designverincludedir -clear
+designverlibrarysim -PL -clear
+designverlibrarysim -L -clear
+designverlibrarysim -PL pmi_work
+designverlibrarysim ovi_xp2
+designverdefinemacro -clear
+addfile {C:/Users/Gustas/Documents/KTU/Skaitmenine logika/L1/L1/impl1/uzd2.vhd}
+# Adding file C:\Users\Gustas\Documents\KTU\Skaitmenine logika\L1\L1\impl1\uzd2.vhd ... Done
+vlib {C:/Users/Gustas/Documents/KTU/Skaitmenine logika/L1/L1/aaa/work}
+# Warning: Library work already exists
+adel -all
+# Library contents cleared.
+vcom -dbg -work work {C:/Users/Gustas/Documents/KTU/Skaitmenine logika/L1/L1/impl1/uzd2.vhd}
+# File: C:\Users\Gustas\Documents\KTU\Skaitmenine logika\L1\L1\impl1\uzd2.vhd
+# Compile Entity "UZD2"
+# Compile Architecture "SCHEMATIC" of Entity "UZD2"
+# Compile success 0 Errors 0 Warnings  Analysis time :  62.0 [ms]
+entity UZD2
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+vsim +access +r UZD2 -PL pmi_work -L ovi_xp2
+# ELBREAD: Elaboration process.
+# ELBREAD: Error: You do not have a valid license to simulate VHDL unit 'work.UZD2'.
+# Contact Aldec for ordering information - sales@aldec.com.
+# ELBREAD: Error: Elaboration process completed with errors.
+# Design: Error: Elaboration failed
+# Error: VSIM: cannot select specified top-level
+add wave *
+# Error: Accelerated Waveform: Simulation database is not connected. Initialize simulation or load simulation database by opening waveform file (AWC, ASDB).
+# Error: Simulation not initialized.
+#     while executing
+# "error "Simulation not initialized.""
+#     (procedure "run" line 6)
+#     invoked from within
+# "run 1000ns"
+#     (file "C:/Users/Gustas/Documents/KTU/Skaitmenine logika/L1/L1/aaa/aaa.ado" line 26)
+#     invoked from within
+# "source {C:/Users/Gustas/Documents/KTU/Skaitmenine logika/L1/L1/aaa/aaa.ado}"
+#     invoked from within
+# "interp eval $slave "source $source_file""
+acom -O3 -e 100 -work work -2002  $dsn/src/TestBench/uzd2_TB.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: C:\Users\Gustas\Documents\KTU\Skaitmenine logika\L1\L1\aaa\src\TestBench\uzd2_TB.vhd
+# Compile Entity "uzd2_tb"
+# Compile Architecture "TB_ARCHITECTURE" of Entity "uzd2_tb"
+# Error: COMP96_0019: aaa/src/TestBench/uzd2_TB.vhd : (35, 2): Keyword 'begin' expected.
+# Error: COMP96_0016: aaa/src/TestBench/uzd2_TB.vhd : (35, 5): Design unit declaration expected.
+# Compile Configuration "TESTBENCH_FOR_uzd2"
+# Error: COMP96_0209: aaa/src/TestBench/uzd2_TB.vhd : (87, 6): Unknown architecture name used in configuration declaration.
+# Compile failure 3 Errors 0 Warnings  Analysis time :  0.1 [s]
+acom -O3 -e 100 -work work -2002  $dsn/src/TestBench/uzd2_TB.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: C:\Users\Gustas\Documents\KTU\Skaitmenine logika\L1\L1\aaa\src\TestBench\uzd2_TB.vhd
+# Compile Entity "uzd2_tb"
+# Compile Architecture "TB_ARCHITECTURE" of Entity "uzd2_tb"
+# Compile Configuration "TESTBENCH_FOR_uzd2"
+# Compile success 0 Errors 0 Warnings  Analysis time :  78.0 [ms]
+SetActiveLib -work
+comp -include "C:\Users\Gustas\Documents\KTU\Skaitmenine logika\L1\L1\impl1\uzd2.vhd" 
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: C:\Users\Gustas\Documents\KTU\Skaitmenine logika\L1\L1\aaa\..\impl1\uzd2.vhd
+# Compile Entity "UZD2"
+# Compile Architecture "SCHEMATIC" of Entity "UZD2"
+# Compile success 0 Errors 0 Warnings  Analysis time :  47.0 [ms]
+comp -include "$dsn\src\TestBench\uzd2_TB.vhd" 
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: C:\Users\Gustas\Documents\KTU\Skaitmenine logika\L1\L1\aaa\src\TestBench\uzd2_TB.vhd
+# Compile Entity "uzd2_tb"
+# Compile Architecture "TB_ARCHITECTURE" of Entity "uzd2_tb"
+# Compile Configuration "TESTBENCH_FOR_uzd2"
+# Compile success 0 Errors 0 Warnings  Analysis time :  78.0 [ms]
+asim +access +r TESTBENCH_FOR_uzd2 
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+# VSIM: Stack memory: 32MB
+# VSIM: Retval memory: 32MB
+# 
+# KERNEL: Main thread initiated.
+# KERNEL: Kernel process initialization phase.
+# KERNEL: Time resolution set to 1ps.
+# ELAB2: Elaboration final pass...
+# ELAB2: Create instances ...
+# ELAB2: Create instances complete.
+# SLP: Started
+# SLP: Elaboration phase ...
+# SLP: Elaboration phase ... skipped, nothing to simulate in SLP mode : 0.0 [s]
+# SLP: Finished : 0.0 [s]
+# ELAB2: Elaboration final pass complete - time: 0.0 [s].
+# KERNEL: Warning: You are using the Active-HDL Lattice Edition. The performance of simulation is running at a reduced rate.
+# KERNEL: Warning: Contact Aldec for available upgrade options - sales@aldec.com.
+# KERNEL: Kernel process initialization done.
+# Allocation: Simulator allocated 7248 kB (elbread=1280 elab2=5818 kernel=149 sdf=0)
+# KERNEL: ASDB file was created in location C:\Users\Gustas\Documents\KTU\Skaitmenine logika\L1\L1\aaa\src\wave.asdb
+#  12:03, Thursday, March 7, 2019
+#  Simulation has been initialized
+wave 
+wave -noreg x1
+wave -noreg x2
+wave -noreg x3
+wave -noreg x4
+wave -noreg x5
+wave -noreg x6
+wave -noreg y
+# # The following lines can be used for timing simulation
+# # acom <backannotated_vhdl_file_name>
+# # comp -include "$dsn\src\TestBench\uzd2_TB_tim_cfg.vhd" 
+# # asim +access +r TIMING_FOR_uzd2 
+# 7 signal(s) traced.
+# Waveform file 'untitled.awc' connected to 'C:/Users/Gustas/Documents/KTU/Skaitmenine logika/L1/L1/aaa/src/wave.asdb'.
+run
+# EXECUTION:: FAILURE:  Pabaiga 
+# EXECUTION:: Time: 640 ns,  Iteration: 0,  Instance: /uzd2_tb,  Process: x1p.
+# KERNEL: Stopped at time 640 ns + 0.
+# Waveform file 'untitled.awc' connected to 'C:/Users/Gustas/Documents/KTU/Skaitmenine logika/L1/L1/aaa/src/wave.asdb'.

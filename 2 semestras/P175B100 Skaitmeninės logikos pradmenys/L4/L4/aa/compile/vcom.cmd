@@ -1,0 +1,1 @@
+-w -erf C:/Users/Gustas/Documents/KTU/Logika/L4/L4/aa/compile/aa.erf -d C:/Users/Gustas/Documents/KTU/Logika/L4/L4/aa/compile -s C:/Users/Gustas/Documents/KTU/Logika/L4/L4/aa/library.cfg -j C:/Users/Gustas/Documents/KTU/Logika/L4/L4/aa/projlib.cfg -work work -O3 -e 100 -work work -2002 C:/Users/Gustas/Documents/KTU/Logika/L4/L4/aa/src/TestBench/top_cnt_TB.vhd 

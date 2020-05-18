@@ -1,0 +1,1 @@
+@W: MT529 :"c:\users\gustas\documents\ktu\logika\l4\l4\m1.vhd":18:2:18:3|Found inferred clock TOP_CNT|CLK_TOP which controls 6 sequential elements including CNT_1.CNT_A[2:0]. This clock has no specified timing constraint which may prevent conversion of gated or generated clocks and may adversely impact design performance. 

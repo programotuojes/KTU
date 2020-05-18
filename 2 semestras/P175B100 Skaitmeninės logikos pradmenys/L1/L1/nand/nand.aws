@@ -1,0 +1,14 @@
+[Version]
+Version=10.3
+[Designs]
+nand=nand.adf
+[Settings]
+Active=nand
+[Expand]
+nand=1
+[Browser]
+sort=order
+mode=none
+[Order]
+order=1
+macro=

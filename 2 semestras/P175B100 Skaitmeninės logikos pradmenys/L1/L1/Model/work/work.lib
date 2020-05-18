@@ -1,0 +1,44 @@
+timestamp=1550736677893
+
+[~A]
+ModifyID=4
+Version=74
+
+[shema]
+A/schematic=A/SCHEMATIC 21|./../../impl1/shema.vhd|19|1*8924
+I=0*598
+I/schematic=I/SCHEMATIC 0*9712
+M=11|0|vd0|1550736422824|./../../impl1/shema.vhd|0*190*0xc56528d0ff2a3d4e958f8b4aaaef666b0f9ebfba|0*516*0x23b75c12e3e89f2ef000564498faa8c2
+M/schematic=M/SCHEMATIC 21|0|vd0|1550736677392|./../../impl1/shema.vhd|0*6755*0x26d84fe6547b619f5bfd73b29fdbb8324fb25d09|0*9617*0x20116f55b147878295aeff36dce7fc50
+R=./../../impl1/shema.vhd|8
+Version=10.3.3558.6081  (Windows)|00000004789cd34d494a0700030f015b|c4d95f19b61d6cb2ab9533c5cf90627c6c9b1327ab934427ac0c37875cb885c2
+Version/schematic=10.3.3558.6081  (Windows)|00000003789cd3f5370600015b00b0|12c26b08c46ca97f6bba7ba34a1f13697847c06a4beeea0b43e2cdf34fe5e3d7285ffa312eace9c92cadfbdcb03714cd
+
+[shema_tb]
+A/tb_architecture=A/TB_ARCHITECTURE 21|./../src/TestBench/shema_TB.vhd|11|1*15708
+BinI32/tb_architecture=3*0
+I=0*4642
+I/tb_architecture=I/TB_ARCHITECTURE 0*10149
+M=11|0|vd0|1550736668698|./../src/TestBench/shema_TB.vhd|0*4348*0xd42d76dd0de51ddf5aed903c8491a0ac6b229262|0*4549*0x23b75c12e3e89f2ef000564498faa8c2
+M/tb_architecture=M/TB_ARCHITECTURE 21|0|vd0|1550736677791|./../src/TestBench/shema_TB.vhd|0*4879*0xf91c096f2fca2adc8be7888dfd35a3c282f2b497|0*5815*0x20116f55b147878295aeff36dce7fc50
+R=./../src/TestBench/shema_TB.vhd|8
+Version=10.3.3558.6081  (Windows)|00000003789cd3f5370600015b00b0|219312473ac6630fd7fe404aae97ee9340729600395783a74894a17d22387f3c19e65e84658243b199f3bb4481e434d2
+Version/tb_architecture=10.3.3558.6081  (Windows)|00000003789cd3f5370600015b00b0|da2d76821309f33ed1264ca4678a936a8f84fef0fc5d0f10f1a8cfc2ad534beab19a0a8b55f8b69e9ddbb5526a3fb5bd
+
+[testbench_for_shema]
+Configures=shema_tb.TB_ARCHITECTURE
+E=1*17415
+I=0*10440
+M=2|0|vd0|1550736677801|./../src/TestBench/shema_TB.vhd|0*6218*0xcb9c6337e2b9eb8a3a2b916fadabbf80cb0855f1|0*6480*0x20116f55b147878295aeff36dce7fc50
+R=./../src/TestBench/shema_TB.vhd|84
+Version=10.3.3558.6081  (Windows)|00000003789cd3f5370600015b00b0|5efd636a07bb57613e35fadc81a5c3e5817bd0d6234e2d7d7fa2724a38096385b312e05d79d2ab3614a8c4ab45751700
+
+[~MFT]
+0=4|0work.mgf|10440|3845
+1=4|1work.mgf|17415|8924
+3=2|3work.mgf|0|0
+
+[~U]
+shema=SHEMA 11|0*0|
+shema_tb=11|0*4226|
+testbench_for_shema=TESTBENCH_FOR_shema 2||

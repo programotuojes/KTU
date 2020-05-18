@@ -1,0 +1,22 @@
+#Start recording tcl command: 5/16/2019 09:18:55
+#Project Location: C:/Users/Gustas/Documents/KTU/Logika/L4/L4; Project name: L4
+prj_project open "C:/Users/Gustas/Documents/KTU/Logika/L4/L4/L4.ldf"
+prj_src exclude "C:/Users/Gustas/Documents/KTU/Logika/L4/L4/JM2.vhd"
+prj_src exclude "C:/Users/Gustas/Documents/KTU/Logika/L4/L4/M3.vhd"
+prj_src exclude "C:/Users/Gustas/Documents/KTU/Logika/L4/L4/M2.vhd"
+prj_run Translate -impl impl1
+prj_run PAR -impl impl1
+prj_run Export -impl impl1
+pgr_project save "C:/Users/Gustas/Documents/KTU/Logika/L4/L4/impl1/impl1.xcf"
+prj_src add -exclude "C:/Users/Gustas/Documents/KTU/Logika/L4/L4/impl1/impl1.xcf"
+prj_src enable "C:/Users/Gustas/Documents/KTU/Logika/L4/L4/impl1/impl1.xcf"
+pgr_program run
+pgr_project close
+prj_run Translate -impl impl1
+launch_synplify_prj impl1
+prj_src enable "C:/Users/Gustas/Documents/KTU/Logika/L4/L4/M2.vhd"
+prj_src enable "C:/Users/Gustas/Documents/KTU/Logika/L4/L4/M3.vhd"
+prj_src enable "C:/Users/Gustas/Documents/KTU/Logika/L4/L4/JM2.vhd"
+prj_run Translate -impl impl1
+prj_src add "C:/Users/Gustas/Documents/KTU/Logika/L4/L4/bbb/bbb.spf"
+#Stop recording: 5/16/2019 10:40:34

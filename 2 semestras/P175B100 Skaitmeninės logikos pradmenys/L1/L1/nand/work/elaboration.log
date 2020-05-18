@@ -1,0 +1,44 @@
+Active-HDL 10.3.3558.6081  2019-02-21 10:26:51
+
+Elaboration top modules:
+Architecture                  SCHEMATIC(SHEMA)
+
+
+-------------------------------------------------------------------------------------------
+Entity   | Architecture | Library | Info | Compiler Version          | Compilation Options
+-------------------------------------------------------------------------------------------
+SHEMA    | SCHEMATIC    | work    |      | 10.3.3558.6081  (Windows) | -dbg
+and2     | v            | xp2     |      | 10.3.3558.6081  (Windows) | -vendor lattice
+or3      | v            | xp2     |      | 10.3.3558.6081  (Windows) | -vendor lattice
+or4      | v            | xp2     |      | 10.3.3558.6081  (Windows) | -vendor lattice
+and3     | v            | xp2     |      | 10.3.3558.6081  (Windows) | -vendor lattice
+and5     | v            | xp2     |      | 10.3.3558.6081  (Windows) | -vendor lattice
+and4     | v            | xp2     |      | 10.3.3558.6081  (Windows) | -vendor lattice
+inv      | v            | xp2     |      | 10.3.3558.6081  (Windows) | -vendor lattice
+-------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------
+VHDL Package            | Library | Info | Compiler Version          | Compilation Options
+-------------------------------------------------------------------------------------------
+standard                | std     |      |                           | <unavailable>
+TEXTIO                  | std     |      | 10.3.3558.6081  (Windows) |  -2008
+std_logic_1164          | ieee    |      | 10.3.3558.6081  (Windows) |  -2008
+components              | xp2     |      | 10.3.3558.6081  (Windows) | -vendor lattice
+VITAL_Timing            | ieee    |      | 10.3.3558.6081  (Windows) | <unavailable>
+VITAL_Primitives        | ieee    |      | 10.3.3558.6081  (Windows) | <unavailable>
+-------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------
+Library                 | Comment
+-------------------------------------------------------------------------------------------
+ieee                    | Standard IEEE packages library
+std                     | Standard VHDL library
+work                    | None
+xp2                     | LATTICE Diamond 3.10, XP2 VHDL LIBRARY
+-------------------------------------------------------------------------------------------
+
+
+Simulation Options: vsim +access +r SHEMA -PL pmi_work -L ovi_xp2
+
+
+The performance of simulation is reduced. Version Lattice Edition

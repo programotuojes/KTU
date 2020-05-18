@@ -1,0 +1,1 @@
+project -fileorder "C:/Program\ Files/lscc/diamond/3.10_x64/cae_library/synthesis/vhdl/xp2.vhd" "C:/Users/Gustas/Documents/KTU/Logika/L4/L4/M1.vhd" "C:/Users/Gustas/Documents/KTU/Logika/L4/L4/M2.vhd" "C:/Users/Gustas/Documents/KTU/Logika/L4/L4/M3.vhd" "C:/Users/Gustas/Documents/KTU/Logika/L4/L4/JM2.vhd" 

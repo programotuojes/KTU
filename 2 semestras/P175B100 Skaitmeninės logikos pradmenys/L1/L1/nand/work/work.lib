@@ -1,0 +1,22 @@
+timestamp=1550737610507
+
+[~A]
+ModifyID=1
+Version=74
+
+[shema]
+A/schematic=A/SCHEMATIC 21|./../../impl1/shema.vhd|19|1*0
+I=0*598
+I/schematic=I/SCHEMATIC 0*3789
+M=11|0|vd0|1550737610491|./../../impl1/shema.vhd|0*190*0xc56528d0ff2a3d4e958f8b4aaaef666b0f9ebfba|0*516*0x23b75c12e3e89f2ef000564498faa8c2
+M/schematic=M/SCHEMATIC 21|0|vd0|1550737610495|./../../impl1/shema.vhd|0*832*0x26d84fe6547b619f5bfd73b29fdbb8324fb25d09|0*3694*0x9065d32a2e40e13794b29a2731812845
+R=./../../impl1/shema.vhd|8
+Version=10.3.3558.6081  (Windows)|00000004789cd34d494a0700030f015b|c4d95f19b61d6cb2ab9533c5cf90627c49645ed862e950003fc666aa1e7561e9
+Version/schematic=10.3.3558.6081  (Windows)|00000004789cd34d494a0700030f015b|12c26b08c46ca97f6bba7ba34a1f13697847c06a4beeea0b43e2cdf34fe5e3d762a22e0ced66cfd7471118642e3dcd33
+
+[~MFT]
+0=7|0work.mgf|3789|0
+1=1|1work.mgf|0|0
+
+[~U]
+shema=SHEMA 11|0*0|

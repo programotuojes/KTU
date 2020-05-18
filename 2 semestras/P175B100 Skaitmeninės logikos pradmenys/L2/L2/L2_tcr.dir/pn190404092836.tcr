@@ -1,0 +1,5 @@
+#Start recording tcl command: 4/4/2019 09:04:14
+#Project Location: C:/Users/Gustas/Documents/KTU/Logika/L2/L2; Project name: L2
+prj_project open "C:/Users/Gustas/Documents/KTU/Logika/L2/L2/L2.ldf"
+prj_src add "C:/Users/Gustas/Documents/KTU/Logika/L2/L2/aa/aa.spf"
+#Stop recording: 4/4/2019 09:28:36

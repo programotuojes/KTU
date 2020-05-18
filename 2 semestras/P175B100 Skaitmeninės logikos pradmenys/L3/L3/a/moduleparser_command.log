@@ -1,0 +1,1 @@
+C:/Program Files/lscc/diamond/3.10_x64/bin/nt64/moduleparser.exe -PROJ a -pf C:/Program Files/lscc/diamond/3.10_x64/cae_library/synthesis/vhdl/xp2.vhd -lib xp2 -pkg C:/Program Files/lscc/diamond/3.10_x64/cae_library/vhdl_packages/vdbs -lst C:/Users/Gustas/Documents/KTU/Logika/L3/L3/a/source_files.lst

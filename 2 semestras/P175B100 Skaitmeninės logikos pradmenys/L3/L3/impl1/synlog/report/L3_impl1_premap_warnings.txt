@@ -1,0 +1,1 @@
+@W: MT529 :"c:\users\gustas\documents\ktu\logika\l3\l3\impl1\uzd1.vhd":108:3:108:5|Found inferred clock UZD1|CLK which controls 8 sequential elements including I12. This clock has no specified timing constraint which may prevent conversion of gated or generated clocks and may adversely impact design performance. 

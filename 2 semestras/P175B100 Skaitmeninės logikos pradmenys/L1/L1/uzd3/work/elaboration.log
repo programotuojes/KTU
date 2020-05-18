@@ -1,0 +1,51 @@
+Active-HDL 10.3.3558.6081  2019-02-28 15:12:56
+
+Elaboration top modules:
+VHDL Configuration            testbench_for_uzd3
+
+
+----------------------------------------------------------------------------------------------
+Entity   | Architecture    | Library | Info | Compiler Version          | Compilation Options
+----------------------------------------------------------------------------------------------
+uzd3_tb  | TB_ARCHITECTURE | work    |      | 10.3.3558.6081  (Windows) | -O3
+UZD3     | SCHEMATIC       | work    |      | 10.3.3558.6081  (Windows) | -O3
+mux41    | v               | xp2     |      | 10.3.3558.6081  (Windows) | -vendor lattice
+or5      | v               | xp2     |      | 10.3.3558.6081  (Windows) | -vendor lattice
+and2     | v               | xp2     |      | 10.3.3558.6081  (Windows) | -vendor lattice
+or3      | v               | xp2     |      | 10.3.3558.6081  (Windows) | -vendor lattice
+and3     | v               | xp2     |      | 10.3.3558.6081  (Windows) | -vendor lattice
+and4     | v               | xp2     |      | 10.3.3558.6081  (Windows) | -vendor lattice
+inv      | v               | xp2     |      | 10.3.3558.6081  (Windows) | -vendor lattice
+----------------------------------------------------------------------------------------------
+
+----------------------------------------------------------------------------------------------
+VHDL Configuration         | Library | Info | Compiler Version          | Compilation Options
+----------------------------------------------------------------------------------------------
+testbench_for_uzd3         | work    |      | 10.3.3558.6081  (Windows) | -O3
+----------------------------------------------------------------------------------------------
+
+----------------------------------------------------------------------------------------------
+VHDL Package               | Library | Info | Compiler Version          | Compilation Options
+----------------------------------------------------------------------------------------------
+standard                   | std     |      |                           | <unavailable>
+TEXTIO                     | std     |      | 10.3.3558.6081  (Windows) |  -2008
+std_logic_1164             | ieee    |      | 10.3.3558.6081  (Windows) |  -2008
+components                 | xp2     |      | 10.3.3558.6081  (Windows) | -vendor lattice
+VITAL_Timing               | ieee    |      | 10.3.3558.6081  (Windows) | <unavailable>
+VITAL_Primitives           | ieee    |      | 10.3.3558.6081  (Windows) | <unavailable>
+----------------------------------------------------------------------------------------------
+
+----------------------------------------------------------------------------------------------
+Library                    | Comment
+----------------------------------------------------------------------------------------------
+ieee                       | Standard IEEE packages library
+std                        | Standard VHDL library
+work                       | None
+xp2                        | LATTICE Diamond 3.10, XP2 VHDL LIBRARY
+----------------------------------------------------------------------------------------------
+
+
+Simulation Options: asim +access +r TESTBENCH_FOR_uzd3
+
+
+The performance of simulation is reduced. Version Lattice Edition

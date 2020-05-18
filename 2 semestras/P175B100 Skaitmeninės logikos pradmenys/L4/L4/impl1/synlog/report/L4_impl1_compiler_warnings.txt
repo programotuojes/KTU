@@ -1,0 +1,8 @@
+@W: CD638 :"C:\Users\Gustas\Documents\KTU\Logika\L4\L4\JM2.vhd":13:7:13:7|Signal c is undriven. Either assign the signal a value or remove the signal declaration.
+@W: CL113 :"C:\Users\Gustas\Documents\KTU\Logika\L4\L4\M3.vhd":18:2:18:3|Feedback mux created for signal CNT_A[5:0]. To avoid the feedback mux, assign values explicitly under all conditions of conditional assignment statements.
+@W: CL113 :"C:\Users\Gustas\Documents\KTU\Logika\L4\L4\M3.vhd":18:2:18:3|Feedback mux created for signal CNT_C. To avoid the feedback mux, assign values explicitly under all conditions of conditional assignment statements.
+@W: CL113 :"C:\Users\Gustas\Documents\KTU\Logika\L4\L4\M2.vhd":18:2:18:3|Feedback mux created for signal CNT_A[5:0]. To avoid the feedback mux, assign values explicitly under all conditions of conditional assignment statements.
+@W: CL113 :"C:\Users\Gustas\Documents\KTU\Logika\L4\L4\M2.vhd":18:2:18:3|Feedback mux created for signal CNT_C. To avoid the feedback mux, assign values explicitly under all conditions of conditional assignment statements.
+@W: CL113 :"C:\Users\Gustas\Documents\KTU\Logika\L4\L4\M1.vhd":18:2:18:3|Feedback mux created for signal CNT_A[2:0]. To avoid the feedback mux, assign values explicitly under all conditions of conditional assignment statements.
+@W: CL113 :"C:\Users\Gustas\Documents\KTU\Logika\L4\L4\M1.vhd":18:2:18:3|Feedback mux created for signal CNT_C. To avoid the feedback mux, assign values explicitly under all conditions of conditional assignment statements.
+

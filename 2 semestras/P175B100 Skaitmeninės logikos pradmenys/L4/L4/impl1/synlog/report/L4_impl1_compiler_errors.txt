@@ -1,0 +1,2 @@
+@E: CD605 :"C:\Users\Gustas\Documents\KTU\Logika\L4\L4\impl1\a.vhd":8:7:8:7|Top level entity A has no ports 
+

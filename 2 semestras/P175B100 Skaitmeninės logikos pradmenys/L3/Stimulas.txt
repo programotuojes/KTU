@@ -1,0 +1,58 @@
+Reset_proc: process begin
+		RST <= '1'; wait for 3 ns;
+		RST <= '0'; wait;
+	end process; 
+	
+	Clock_proc: process begin
+		CLK <= '0'; wait for 10 ns;
+		CLK <= '1'; wait for 10 ns;
+	end process; 
+	
+	Reg_proc: process begin
+		-- Input
+		A0 <= '0'; A1 <= '0';
+		D7 <= '1'; D6 <= '0'; D5 <= '0'; D4 <= '0'; D3 <= '0'; D2 <= '0'; D1 <= '1'; D0 <= '0';
+		wait for 25 ns;
+		
+		-- LL2
+		A0 <= '1'; A1 <= '0';
+		wait for 80 ns;
+		
+		-- Input
+		A0 <= '0'; A1 <= '0';
+		wait for 20 ns;
+		
+		-- CL2
+		A0 <= '0'; A1 <= '1';
+		wait for 80 ns;
+		
+		-- AR1
+		A0 <= '1'; A1 <= '1';
+		wait for 140 ns;
+		
+		assert false report " Pabaiga " severity failure;
+	end process;
+
+wave -noreg RST
+wave -noreg D7
+wave -noreg D6
+wave -noreg D5
+wave -noreg D4
+wave -noreg D3
+wave -noreg D2
+wave -noreg D1
+wave -noreg D0
+
+wave -noreg A0
+wave -noreg A1
+
+wave -noreg CLK
+
+wave -noreg Q7
+wave -noreg Q6
+wave -noreg Q5
+wave -noreg Q4
+wave -noreg Q3
+wave -noreg Q2
+wave -noreg Q1
+wave -noreg Q0

@@ -1,0 +1,1 @@
+@W: MT420 |Found inferred clock M1|CLK with period 1.78ns. Please declare a user-defined clock on object "p:CLK"

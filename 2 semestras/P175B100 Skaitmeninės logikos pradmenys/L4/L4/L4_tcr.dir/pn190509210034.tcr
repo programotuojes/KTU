@@ -1,0 +1,41 @@
+#Start recording tcl command: 5/9/2019 09:22:32
+#Project Location: C:/Users/Gustas/Documents/KTU/Logika/L4/L4; Project name: L4
+prj_project new -name "L4" -impl "impl1" -dev LFXP2-5E-6TN144C -synthesis "synplify"
+prj_project save
+prj_src add "C:/Users/Gustas/Documents/KTU/Logika/L4/L4/uzd1.vhd"
+prj_src remove "C:/Users/Gustas/Documents/KTU/Logika/L4/L4/uzd1.vhd"
+prj_src add "C:/Users/Gustas/Documents/KTU/Logika/L4/L4/M1.vhd"
+prj_run Synthesis -impl impl1
+prj_run Translate -impl impl1
+prj_src add "C:/Users/Gustas/Documents/KTU/Logika/L4/L4/a/a.spf"
+prj_src add "C:/Users/Gustas/Documents/KTU/Logika/L4/L4/M2.vhd"
+prj_src exclude "C:/Users/Gustas/Documents/KTU/Logika/L4/L4/M1.vhd"
+prj_run Translate -impl impl1
+prj_src add "C:/Users/Gustas/Documents/KTU/Logika/L4/L4/M3.v"
+prj_src add "C:/Users/Gustas/Documents/KTU/Logika/L4/L4/M3.vhd"
+prj_src remove "C:/Users/Gustas/Documents/KTU/Logika/L4/L4/M3.v"
+prj_src add "C:/Users/Gustas/Documents/KTU/Logika/L4/L4/JM2.vhd"
+prj_src exclude "C:/Users/Gustas/Documents/KTU/Logika/L4/L4/M3.vhd"
+prj_src exclude "C:/Users/Gustas/Documents/KTU/Logika/L4/L4/M2.vhd"
+prj_run Synthesis -impl impl1
+prj_run Synthesis -impl impl1
+prj_run Translate -impl impl1
+prj_run Translate -impl impl1
+prj_run Translate -impl impl1
+launch_synplify_prj impl1
+prj_run Translate -impl impl1
+prj_run Translate -impl impl1
+prj_src add "C:/Users/Gustas/Documents/KTU/Logika/L4/L4/a.sch"
+prj_src enable "C:/Users/Gustas/Documents/KTU/Logika/L4/L4/M1.vhd"
+prj_src enable "C:/Users/Gustas/Documents/KTU/Logika/L4/L4/M2.vhd"
+prj_src enable "C:/Users/Gustas/Documents/KTU/Logika/L4/L4/M3.vhd"
+prj_run Translate -impl impl1
+prj_src remove "C:/Users/Gustas/Documents/KTU/Logika/L4/L4/a.sch"
+prj_run Translate -impl impl1
+prj_src add "C:/Users/Gustas/Documents/KTU/Logika/L4/L4/testai/testai.spf"
+prj_run Translate -impl impl1
+prj_src add "C:/Users/Gustas/Documents/KTU/Logika/L4/L4/aa/aa.spf"
+prj_run Translate -impl impl1
+prj_src add "C:/Users/Gustas/Documents/KTU/Logika/L4/L4/final/final.spf"
+launch_synplify_prj impl1
+#Stop recording: 5/9/2019 21:00:34

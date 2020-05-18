@@ -1,0 +1,10 @@
+@N|Running in 64-bit mode
+@N|Running in 64-bit mode
+@N: CD720 :"C:\Program Files\lscc\diamond\3.10_x64\synpbase\lib\vhd\std.vhd":123:18:123:21|Setting time resolution to ps
+@N:"C:\Users\Gustas\Documents\KTU\Logika\L4\L4\JM2.vhd":5:7:5:13|Top entity is set to TOP_CNT.
+@N: CD630 :"C:\Users\Gustas\Documents\KTU\Logika\L4\L4\JM2.vhd":5:7:5:13|Synthesizing work.top_cnt.struct.
+@N: CD630 :"C:\Users\Gustas\Documents\KTU\Logika\L4\L4\M3.vhd":5:7:5:8|Synthesizing work.m3.rtl.
+@N: CD630 :"C:\Users\Gustas\Documents\KTU\Logika\L4\L4\M2.vhd":5:7:5:8|Synthesizing work.m2.rtl.
+@N: CD630 :"C:\Users\Gustas\Documents\KTU\Logika\L4\L4\M1.vhd":5:7:5:8|Synthesizing work.m1.rtl.
+@N|Running in 64-bit mode
+

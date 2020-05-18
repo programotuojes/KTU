@@ -1,0 +1,10 @@
+14
+~E 1 "./../../M1.vhd" 5 CNT8
+~A 1 "./../../M1.vhd" 14 rtl
+~E 1 "./../src/TestBench/cnt8_TB.vhd" 7 cnt8_tb
+~A 1 "./../src/TestBench/cnt8_TB.vhd" 10 TB_ARCHITECTURE
+~E 1 "./../src/TestBench/cnt8_TB.vhd" 5 M1
+~A 1 "./../src/TestBench/cnt8_TB.vhd" 14 rtl
+~C 1 "./../src/TestBench/cnt8_TB.vhd" 75 testbench_for_cnt8
+~E 1 "./../src/TestBench/cnt8_TB.vhd" 5 TOP_CNT
+~A 1 "./../src/TestBench/cnt8_TB.vhd" 13 struct

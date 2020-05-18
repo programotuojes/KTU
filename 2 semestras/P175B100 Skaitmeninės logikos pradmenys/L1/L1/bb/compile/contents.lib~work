@@ -1,0 +1,6 @@
+4
+~C 1 "./../src/TestBench/uzd2_TB.vhd" 86 testbench_for_uzd2
+~E 1 "./../../impl1/uzd2.vhd" 8 UZD2
+~A 1 "./../../impl1/uzd2.vhd" 19 SCHEMATIC
+~E 1 "./../src/TestBench/uzd2_TB.vhd" 8 uzd2_tb
+~A 1 "./../src/TestBench/uzd2_TB.vhd" 11 TB_ARCHITECTURE

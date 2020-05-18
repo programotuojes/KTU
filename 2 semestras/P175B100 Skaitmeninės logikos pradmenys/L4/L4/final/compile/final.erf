@@ -1,0 +1,6 @@
+WARNING DAGGEN_0523: "The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available."
+MESSAGE "File: C:\Users\Gustas\Documents\KTU\Logika\L4\L4\final\src\TestBench\top_cnt_TB.vhd" 
+MESSAGE "Compile Entity "top_cnt_tb"" 
+MESSAGE "Compile Architecture "TB_ARCHITECTURE" of Entity "top_cnt_tb"" 
+MESSAGE "Compile Configuration "TESTBENCH_FOR_top_cnt"" 
+SUCCESS "Compile success 0 Errors 0 Warnings  Analysis time :  63.0 [ms]" 

@@ -1,0 +1,14 @@
+#Start recording tcl command: 3/7/2019 10:02:38
+#Project Location: C:/Users/Gustas/Documents/KTU/Skaitmenine logika/L1/L1; Project name: L1
+prj_project open "C:/Users/Gustas/Documents/KTU/Skaitmenine logika/L1/L1/L1.ldf"
+prj_src enable "C:/Users/Gustas/Documents/KTU/Skaitmenine logika/L1/L1/shema.sch"
+prj_src exclude "C:/Users/Gustas/Documents/KTU/Skaitmenine logika/L1/L1/uzd3.sch"
+prj_run Synthesis -impl impl1
+prj_run Translate -impl impl1
+prj_src add "C:/Users/Gustas/Documents/KTU/Skaitmenine logika/L1/L1/uzd1/uzd1.spf"
+prj_src enable "C:/Users/Gustas/Documents/KTU/Skaitmenine logika/L1/L1/uzd2.sch"
+prj_src exclude "C:/Users/Gustas/Documents/KTU/Skaitmenine logika/L1/L1/shema.sch"
+prj_src add "C:/Users/Gustas/Documents/KTU/Skaitmenine logika/L1/L1/uzd2/uzd2.spf"
+prj_src add "C:/Users/Gustas/Documents/KTU/Skaitmenine logika/L1/L1/aaa/aaa.spf"
+prj_src add "C:/Users/Gustas/Documents/KTU/Skaitmenine logika/L1/L1/aaa/aaa.spf"
+#Stop recording: 3/7/2019 12:20:52

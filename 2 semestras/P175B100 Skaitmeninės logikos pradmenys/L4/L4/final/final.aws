@@ -1,0 +1,14 @@
+[Version]
+Version=10.3
+[Designs]
+final=final.adf
+[Settings]
+Active=final
+[Expand]
+final=1
+[Browser]
+sort=order
+mode=none
+[Order]
+order=1
+macro=

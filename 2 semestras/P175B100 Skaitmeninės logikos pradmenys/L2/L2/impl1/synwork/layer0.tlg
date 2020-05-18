@@ -1,0 +1,16 @@
+@N: CD630 :"C:\Users\Gustas\Documents\KTU\Logika\L2\L2\impl1\uzd1.vhd":8:7:8:10|Synthesizing work.uzd1.schematic.
+@W: CD638 :"C:\Users\Gustas\Documents\KTU\Logika\L2\L2\impl1\uzd1.vhd":22:10:22:12|Signal gnd is undriven. Either assign the signal a value or remove the signal declaration.
+@W: CD638 :"C:\Users\Gustas\Documents\KTU\Logika\L2\L2\impl1\uzd1.vhd":23:10:23:12|Signal vcc is undriven. Either assign the signal a value or remove the signal declaration.
+@N: CD630 :"C:\Program Files\lscc\diamond\3.10_x64\cae_library\synthesis\vhdl\xp2.vhd":1135:10:1135:12|Synthesizing work.nd2.syn_black_box.
+Post processing for work.nd2.syn_black_box
+@N: CD630 :"C:\Program Files\lscc\diamond\3.10_x64\cae_library\synthesis\vhdl\xp2.vhd":1144:10:1144:12|Synthesizing work.nd3.syn_black_box.
+Post processing for work.nd3.syn_black_box
+@N: CD630 :"C:\Program Files\lscc\diamond\3.10_x64\cae_library\synthesis\vhdl\xp2.vhd":1544:10:1544:13|Synthesizing work.xor2.syn_black_box.
+Post processing for work.xor2.syn_black_box
+@N: CD630 :"C:\Program Files\lscc\diamond\3.10_x64\cae_library\synthesis\vhdl\xp2.vhd":1315:10:1315:12|Synthesizing work.or2.syn_black_box.
+Post processing for work.or2.syn_black_box
+@N: CD630 :"C:\Program Files\lscc\diamond\3.10_x64\cae_library\synthesis\vhdl\xp2.vhd":913:10:913:12|Synthesizing work.inv.syn_black_box.
+Post processing for work.inv.syn_black_box
+@N: CD630 :"C:\Program Files\lscc\diamond\3.10_x64\cae_library\synthesis\vhdl\xp2.vhd":1603:10:1603:14|Synthesizing work.xnor2.syn_black_box.
+Post processing for work.xnor2.syn_black_box
+Post processing for work.uzd1.schematic

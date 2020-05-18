@@ -1,0 +1,2 @@
+
+sch2vhd -FPGA -lib LatticeXP2 -i C:/Users/Gustas/Documents/KTU/Logika/L3/L3/uzd1.sch -o C:/Users/Gustas/Documents/KTU/Logika/L3/L3/impl1/uzd1.vhd -gui -msgset C:/Users/Gustas/Documents/KTU/Logika/L3/L3/promote.xml

@@ -1,0 +1,46 @@
+#defaultlanguage:vhdl
+#OPTIONS:"|-top|TOP_CNT|-prodtype|synplify_pro|-fixsmult|-infer_seqShift|-nram|-sdff_counter|-divnmod|-nostructver|-encrypt|-pro|-lite|-ui|-fid2|-ram|-sharing|on|-ll|2000|-autosm|-ignore_undefined_lib|-lib|work|-lib|work|-lib|work|-lib|work|-lib|work|-fileorder|C:\\Users\\Gustas\\Documents\\KTU\\Logika\\L4\\L4\\impl1\\syntmp\\hdlorder.tcl"
+#CUR:"C:\\Program Files\\lscc\\diamond\\3.10_x64\\synpbase\\bin64\\c_vhdl.exe":1501881310
+#CUR:"C:\\Program Files\\lscc\\diamond\\3.10_x64\\synpbase\\lib\\vhd\\location.map":1501904608
+#CUR:"C:\\Program Files\\lscc\\diamond\\3.10_x64\\synpbase\\lib\\vhd\\std.vhd":1501880624
+#CUR:"C:\\Program Files\\lscc\\diamond\\3.10_x64\\synpbase\\lib\\vhd\\snps_haps_pkg.vhd":1501880624
+#CUR:"C:\\Program Files\\lscc\\diamond\\3.10_x64\\synpbase\\lib\\vhd\\std1164.vhd":1501880624
+#CUR:"C:\\Program Files\\lscc\\diamond\\3.10_x64\\synpbase\\lib\\vhd\\numeric.vhd":1501880624
+#CUR:"C:\\Program Files\\lscc\\diamond\\3.10_x64\\synpbase\\lib\\vhd\\umr_capim.vhd":1501880624
+#CUR:"C:\\Program Files\\lscc\\diamond\\3.10_x64\\synpbase\\lib\\vhd\\arith.vhd":1501880624
+#CUR:"C:\\Program Files\\lscc\\diamond\\3.10_x64\\synpbase\\lib\\vhd\\unsigned.vhd":1501880624
+#CUR:"C:\\Program Files\\lscc\\diamond\\3.10_x64\\synpbase\\lib\\vhd\\hyperents.vhd":1501880624
+#CUR:"C:\\Program Files\\lscc\\diamond\\3.10_x64\\cae_library\\synthesis\\vhdl\\xp2.vhd":1493302306
+#CUR:"C:\\Users\\Gustas\\Documents\\KTU\\Logika\\L4\\L4\\M1.vhd":1557988829
+#CUR:"C:\\Users\\Gustas\\Documents\\KTU\\Logika\\L4\\L4\\M2.vhd":1557414290
+#CUR:"C:\\Users\\Gustas\\Documents\\KTU\\Logika\\L4\\L4\\M3.vhd":1557414317
+#CUR:"C:\\Users\\Gustas\\Documents\\KTU\\Logika\\L4\\L4\\JM2.vhd":1557421856
+0 "C:\Program Files\lscc\diamond\3.10_x64\cae_library\synthesis\vhdl\xp2.vhd" vhdl
+1 "C:\Users\Gustas\Documents\KTU\Logika\L4\L4\M1.vhd" vhdl
+2 "C:\Users\Gustas\Documents\KTU\Logika\L4\L4\M2.vhd" vhdl
+3 "C:\Users\Gustas\Documents\KTU\Logika\L4\L4\M3.vhd" vhdl
+4 "C:\Users\Gustas\Documents\KTU\Logika\L4\L4\JM2.vhd" vhdl
+
+# Dependency Lists (Uses list)
+0 -1
+1 -1
+2 -1
+3 -1
+4 1 2 3 
+
+# Dependency Lists (Users Of)
+0 -1
+1 4 
+2 4 
+3 4 
+4 -1
+
+# Design Unit to File Association
+arch work m1 rtl 1
+module work m1 1
+arch work m2 rtl 2
+module work m2 2
+arch work m3 rtl 3
+module work m3 3
+arch work top_cnt struct 4
+module work top_cnt 4
