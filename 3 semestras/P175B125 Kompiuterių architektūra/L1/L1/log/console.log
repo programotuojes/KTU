@@ -1,0 +1,793 @@
+SetActiveLib -work
+comp -include "$dsn\src\f_top.vhd" 
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: c:\Users\Gustas\Documents\KTU\Architektura\L1\src\f_top.vhd
+# Compile Entity "TOP"
+# Compile Architecture "struct" of Entity "top"
+# Compile success 0 Errors 0 Warnings  Analysis time :  0.2 [s]
+comp -include "$dsn\src\TestBench\top_TB.vhd" 
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: c:\Users\Gustas\Documents\KTU\Architektura\L1\src\TestBench\top_TB.vhd
+# Compile Entity "top_tb"
+# Compile Architecture "TB_ARCHITECTURE" of Entity "top_tb"
+# Compile Configuration "TESTBENCH_FOR_top"
+# Compile success 0 Errors 0 Warnings  Analysis time :  0.2 [s]
+asim +access +r TESTBENCH_FOR_top 
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+# VSIM: Stack memory: 32MB
+# VSIM: Retval memory: 32MB
+# 
+# KERNEL: Main thread initiated.
+# KERNEL: Kernel process initialization phase.
+# KERNEL: Time resolution set to 1ps.
+# ELAB2: Elaboration final pass...
+# ELAB2: Create instances ...
+# ELAB2: Create instances complete.
+# SLP: Started
+# SLP: Elaboration phase ...
+# SLP: Elaboration phase ... skipped, nothing to simulate in SLP mode : 0.0 [s]
+# SLP: Finished : 0.0 [s]
+# ELAB2: Elaboration final pass complete - time: 0.0 [s].
+# KERNEL: Warning: You are using the Active-HDL Lattice Edition. The performance of simulation is running at a reduced rate.
+# KERNEL: Warning: Contact Aldec for available upgrade options - sales@aldec.com.
+# KERNEL: Kernel process initialization done.
+# Allocation: Simulator allocated 7268 kB (elbread=1280 elab2=5837 kernel=150 sdf=0)
+# KERNEL: ASDB file was created in location c:\Users\Gustas\Documents\KTU\Architektura\L1\src\wave.asdb
+#  12:14, Friday, October 4, 2019
+#  Simulation has been initialized
+wave 
+wave -noreg CLK
+wave -noreg RST
+wave -noreg Din
+wave -noreg MAIN_Dout
+wave -noreg S_Done 
+wave /top_tb/UUT/sREG_A_Dout  
+wave /top_tb/UUT/sREG_B_Dout
+wave /top_tb/UUT/sREG_C_Dout
+wave /top_tb/UUT/sREG_D_Dout
+wave /top_tb/UUT/sREG_E_Dout
+wave /top_tb/UUT/sREG_F_Dout 
+wave /top_tb/UUT/CTRL1/N_ADDR
+wave /top_tb/UUT/CTRL1/C_ADDR
+wave /top_tb/UUT/CTRL1/LS
+wave /top_tb/UUT/CNT1/CNT_A 
+# # The following lines can be used for timing simulation
+# # acom <backannotated_vhdl_file_name>
+# # comp -include "$dsn\src\TestBench\top_TB_tim_cfg.vhd" 
+# # asim +access +r TIMING_FOR_top 
+# 15 signal(s) traced.
+# Waveform file 'untitled.awc' connected to 'c:/Users/Gustas/Documents/KTU/Architektura/L1/src/wave.asdb'.
+run
+# EXECUTION:: WARNING: Neteisinga ALU komanda
+# EXECUTION:: Time: 0 ps,  Iteration: 0,  Instance: /top_tb/UUT/ALU1,  Process: line__32.
+# EXECUTION:: WARNING: Neteisinga ALU komanda
+# EXECUTION:: Time: 0 ps,  Iteration: 1,  Instance: /top_tb/UUT/ALU1,  Process: line__32.
+# EXECUTION:: FAILURE: Modeliavimas baigtas
+# EXECUTION:: Time: 1265 ns,  Iteration: 0,  Instance: /top_tb,  Process: Daugyba.
+# KERNEL: Stopped at time 1265 ns + 0.
+SetActiveLib -work
+comp -include "$dsn\src\f_top.vhd" 
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: c:\Users\Gustas\Documents\KTU\Architektura\L1\src\f_top.vhd
+# Compile Entity "TOP"
+# Compile Architecture "struct" of Entity "top"
+# Compile success 0 Errors 0 Warnings  Analysis time :  63.0 [ms]
+comp -include "$dsn\src\TestBench\top_TB.vhd" 
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: c:\Users\Gustas\Documents\KTU\Architektura\L1\src\TestBench\top_TB.vhd
+# Compile Entity "top_tb"
+# Compile Architecture "TB_ARCHITECTURE" of Entity "top_tb"
+# Compile Configuration "TESTBENCH_FOR_top"
+# Compile success 0 Errors 0 Warnings  Analysis time :  0.2 [s]
+asim +access +r TESTBENCH_FOR_top 
+# VSIM: Simulation has finished.
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+# VSIM: Stack memory: 32MB
+# VSIM: Retval memory: 32MB
+# 
+acom -O3 -e 100 -work L1 -2002  $dsn/src/f_rom.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: c:\Users\Gustas\Documents\KTU\Architektura\L1\src\f_rom.vhd
+# Compile Entity "ROM"
+# Compile Architecture "rtl" of Entity "ROM"
+# Compile success 0 Errors 0 Warnings  Analysis time :  94.0 [ms]
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+# KERNEL: Main thread initiated.
+# KERNEL: Kernel process initialization phase.
+# KERNEL: Time resolution set to 1ps.
+# ELAB2: Elaboration final pass...
+# ELAB2: Create instances ...
+# ELAB2: Create instances complete.
+# SLP: Started
+# SLP: Elaboration phase ...
+# SLP: Elaboration phase ... skipped, nothing to simulate in SLP mode : 0.0 [s]
+# SLP: Finished : 0.0 [s]
+# ELAB2: Elaboration final pass complete - time: 0.0 [s].
+# KERNEL: Warning: You are using the Active-HDL Lattice Edition. The performance of simulation is running at a reduced rate.
+# KERNEL: Warning: Contact Aldec for available upgrade options - sales@aldec.com.
+# KERNEL: Kernel process initialization done.
+# Allocation: Simulator allocated 7268 kB (elbread=1280 elab2=5837 kernel=150 sdf=0)
+# KERNEL: ASDB file was created in location c:\Users\Gustas\Documents\KTU\Architektura\L1\src\wave.asdb
+#  12:40, Friday, October 4, 2019
+#  Simulation has been initialized
+# Waveform file 'untitled.awc' connected to 'c:/Users/Gustas/Documents/KTU/Architektura/L1/src/wave.asdb'.
+wave 
+wave -noreg CLK
+wave -noreg RST
+wave -noreg Din
+wave -noreg MAIN_Dout
+wave -noreg S_Done 
+wave /top_tb/UUT/sREG_A_Dout  
+wave /top_tb/UUT/sREG_B_Dout
+wave /top_tb/UUT/sREG_C_Dout
+wave /top_tb/UUT/sREG_D_Dout
+wave /top_tb/UUT/sREG_E_Dout
+wave /top_tb/UUT/sREG_F_Dout 
+wave /top_tb/UUT/CTRL1/N_ADDR
+wave /top_tb/UUT/CTRL1/C_ADDR
+wave /top_tb/UUT/CTRL1/LS
+wave /top_tb/UUT/CNT1/CNT_A 
+# # The following lines can be used for timing simulation
+# # acom <backannotated_vhdl_file_name>
+# # comp -include "$dsn\src\TestBench\top_TB_tim_cfg.vhd" 
+# # asim +access +r TIMING_FOR_top 
+# 15 signal(s) traced.
+# Waveform file 'untitled.awc' connected to 'c:/Users/Gustas/Documents/KTU/Architektura/L1/src/wave.asdb'.
+run
+# EXECUTION:: WARNING: Neteisinga ALU komanda
+# EXECUTION:: Time: 0 ps,  Iteration: 0,  Instance: /top_tb/UUT/ALU1,  Process: line__32.
+# EXECUTION:: WARNING: Neteisinga ALU komanda
+# EXECUTION:: Time: 0 ps,  Iteration: 1,  Instance: /top_tb/UUT/ALU1,  Process: line__32.
+endsim
+# KERNEL: stopped at time: 991435 ns
+# VSIM: Simulation has finished.
+SetActiveLib -work
+comp -include "$dsn\src\f_top.vhd" 
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: c:\Users\Gustas\Documents\KTU\Architektura\L1\src\f_top.vhd
+# Compile Entity "TOP"
+# Compile Architecture "struct" of Entity "top"
+# Compile success 0 Errors 0 Warnings  Analysis time :  62.0 [ms]
+comp -include "$dsn\src\TestBench\top_TB.vhd" 
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: c:\Users\Gustas\Documents\KTU\Architektura\L1\src\TestBench\top_TB.vhd
+# Compile Entity "top_tb"
+# Compile Architecture "TB_ARCHITECTURE" of Entity "top_tb"
+# Compile Configuration "TESTBENCH_FOR_top"
+# Compile success 0 Errors 0 Warnings  Analysis time :  78.0 [ms]
+asim +access +r TESTBENCH_FOR_top 
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+# VSIM: Stack memory: 32MB
+# VSIM: Retval memory: 32MB
+# 
+acom -O3 -e 100 -work L1 -2002  $dsn/src/f_rom.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: c:\Users\Gustas\Documents\KTU\Architektura\L1\src\f_rom.vhd
+# Compile Entity "ROM"
+# Compile Architecture "rtl" of Entity "ROM"
+# Compile success 0 Errors 0 Warnings  Analysis time :  63.0 [ms]
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+# KERNEL: Main thread initiated.
+# KERNEL: Kernel process initialization phase.
+# KERNEL: Time resolution set to 1ps.
+# ELAB2: Elaboration final pass...
+# ELAB2: Create instances ...
+# ELAB2: Create instances complete.
+# SLP: Started
+# SLP: Elaboration phase ...
+# SLP: Elaboration phase ... skipped, nothing to simulate in SLP mode : 0.0 [s]
+# SLP: Finished : 0.0 [s]
+# ELAB2: Elaboration final pass complete - time: 0.0 [s].
+# KERNEL: Warning: You are using the Active-HDL Lattice Edition. The performance of simulation is running at a reduced rate.
+# KERNEL: Warning: Contact Aldec for available upgrade options - sales@aldec.com.
+# KERNEL: Kernel process initialization done.
+# Allocation: Simulator allocated 7268 kB (elbread=1280 elab2=5837 kernel=150 sdf=0)
+# KERNEL: ASDB file was created in location c:\Users\Gustas\Documents\KTU\Architektura\L1\src\wave.asdb
+#  12:41, Friday, October 4, 2019
+#  Simulation has been initialized
+# Waveform file 'untitled.awc' connected to 'c:/Users/Gustas/Documents/KTU/Architektura/L1/src/wave.asdb'.
+# Waveform file 'untitled.awc' connected to 'c:/Users/Gustas/Documents/KTU/Architektura/L1/src/wave.asdb'.
+wave 
+wave -noreg CLK
+wave -noreg RST
+wave -noreg Din
+wave -noreg MAIN_Dout
+wave -noreg S_Done 
+wave /top_tb/UUT/sREG_A_Dout  
+wave /top_tb/UUT/sREG_B_Dout
+wave /top_tb/UUT/sREG_C_Dout
+wave /top_tb/UUT/sREG_D_Dout
+wave /top_tb/UUT/sREG_E_Dout
+wave /top_tb/UUT/sREG_F_Dout 
+wave /top_tb/UUT/CTRL1/N_ADDR
+wave /top_tb/UUT/CTRL1/C_ADDR
+wave /top_tb/UUT/CTRL1/LS
+wave /top_tb/UUT/CNT1/CNT_A 
+# # The following lines can be used for timing simulation
+# # acom <backannotated_vhdl_file_name>
+# # comp -include "$dsn\src\TestBench\top_TB_tim_cfg.vhd" 
+# # asim +access +r TIMING_FOR_top 
+# 15 signal(s) traced.
+# Waveform file 'untitled.awc' connected to 'c:/Users/Gustas/Documents/KTU/Architektura/L1/src/wave.asdb'.
+run
+# EXECUTION:: WARNING: Neteisinga ALU komanda
+# EXECUTION:: Time: 0 ps,  Iteration: 0,  Instance: /top_tb/UUT/ALU1,  Process: line__32.
+# EXECUTION:: WARNING: Neteisinga ALU komanda
+# EXECUTION:: Time: 0 ps,  Iteration: 1,  Instance: /top_tb/UUT/ALU1,  Process: line__32.
+endsim
+# KERNEL: stopped at time: 975095 ns
+# VSIM: Simulation has finished.
+SetActiveLib -work
+comp -include "$dsn\src\f_top.vhd" 
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: c:\Users\Gustas\Documents\KTU\Architektura\L1\src\f_top.vhd
+# Compile Entity "TOP"
+# Compile Architecture "struct" of Entity "top"
+# Compile success 0 Errors 0 Warnings  Analysis time :  63.0 [ms]
+comp -include "$dsn\src\TestBench\top_TB.vhd" 
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: c:\Users\Gustas\Documents\KTU\Architektura\L1\src\TestBench\top_TB.vhd
+# Compile Entity "top_tb"
+# Compile Architecture "TB_ARCHITECTURE" of Entity "top_tb"
+# Compile Configuration "TESTBENCH_FOR_top"
+# Compile success 0 Errors 0 Warnings  Analysis time :  63.0 [ms]
+asim +access +r TESTBENCH_FOR_top 
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+# VSIM: Stack memory: 32MB
+# VSIM: Retval memory: 32MB
+# 
+acom -O3 -e 100 -work L1 -2002  $dsn/src/f_rom.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: c:\Users\Gustas\Documents\KTU\Architektura\L1\src\f_rom.vhd
+# Compile Entity "ROM"
+# Compile Architecture "rtl" of Entity "ROM"
+# Compile success 0 Errors 0 Warnings  Analysis time :  78.0 [ms]
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+# KERNEL: Main thread initiated.
+# KERNEL: Kernel process initialization phase.
+# KERNEL: Time resolution set to 1ps.
+# ELAB2: Elaboration final pass...
+# ELAB2: Create instances ...
+# ELAB2: Create instances complete.
+# SLP: Started
+# SLP: Elaboration phase ...
+# SLP: Elaboration phase ... skipped, nothing to simulate in SLP mode : 0.0 [s]
+# SLP: Finished : 0.0 [s]
+# ELAB2: Elaboration final pass complete - time: 0.0 [s].
+# KERNEL: Warning: You are using the Active-HDL Lattice Edition. The performance of simulation is running at a reduced rate.
+# KERNEL: Warning: Contact Aldec for available upgrade options - sales@aldec.com.
+# KERNEL: Kernel process initialization done.
+# Allocation: Simulator allocated 7268 kB (elbread=1280 elab2=5837 kernel=150 sdf=0)
+# KERNEL: ASDB file was created in location c:\Users\Gustas\Documents\KTU\Architektura\L1\src\wave.asdb
+#  12:44, Friday, October 4, 2019
+#  Simulation has been initialized
+# Waveform file 'untitled.awc' connected to 'c:/Users/Gustas/Documents/KTU/Architektura/L1/src/wave.asdb'.
+# Waveform file 'untitled.awc' connected to 'c:/Users/Gustas/Documents/KTU/Architektura/L1/src/wave.asdb'.
+# Waveform file 'untitled.awc' connected to 'c:/Users/Gustas/Documents/KTU/Architektura/L1/src/wave.asdb'.
+wave 
+wave -noreg CLK
+wave -noreg RST
+wave -noreg Din
+wave -noreg MAIN_Dout
+wave -noreg S_Done 
+wave /top_tb/UUT/sREG_A_Dout  
+wave /top_tb/UUT/sREG_B_Dout
+wave /top_tb/UUT/sREG_C_Dout
+wave /top_tb/UUT/sREG_D_Dout
+wave /top_tb/UUT/sREG_E_Dout
+wave /top_tb/UUT/sREG_F_Dout 
+wave /top_tb/UUT/CTRL1/N_ADDR
+wave /top_tb/UUT/CTRL1/C_ADDR
+wave /top_tb/UUT/CTRL1/LS
+wave /top_tb/UUT/CNT1/CNT_A 
+# # The following lines can be used for timing simulation
+# # acom <backannotated_vhdl_file_name>
+# # comp -include "$dsn\src\TestBench\top_TB_tim_cfg.vhd" 
+# # asim +access +r TIMING_FOR_top 
+# 15 signal(s) traced.
+# Waveform file 'untitled.awc' connected to 'c:/Users/Gustas/Documents/KTU/Architektura/L1/src/wave.asdb'.
+run
+# EXECUTION:: WARNING: Neteisinga ALU komanda
+# EXECUTION:: Time: 0 ps,  Iteration: 0,  Instance: /top_tb/UUT/ALU1,  Process: line__32.
+# EXECUTION:: WARNING: Neteisinga ALU komanda
+# EXECUTION:: Time: 0 ps,  Iteration: 1,  Instance: /top_tb/UUT/ALU1,  Process: line__32.
+endsim
+# KERNEL: stopped at time: 1009925 ns
+# VSIM: Simulation has finished.
+SetActiveLib -work
+comp -include "$dsn\src\f_top.vhd" 
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: c:\Users\Gustas\Documents\KTU\Architektura\L1\src\f_top.vhd
+# Compile Entity "TOP"
+# Compile Architecture "struct" of Entity "top"
+# Compile success 0 Errors 0 Warnings  Analysis time :  63.0 [ms]
+comp -include "$dsn\src\TestBench\top_TB.vhd" 
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: c:\Users\Gustas\Documents\KTU\Architektura\L1\src\TestBench\top_TB.vhd
+# Compile Entity "top_tb"
+# Compile Architecture "TB_ARCHITECTURE" of Entity "top_tb"
+# Compile Configuration "TESTBENCH_FOR_top"
+# Compile success 0 Errors 0 Warnings  Analysis time :  47.0 [ms]
+asim +access +r TESTBENCH_FOR_top 
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+# VSIM: Stack memory: 32MB
+# VSIM: Retval memory: 32MB
+# 
+acom -O3 -e 100 -work L1 -2002  $dsn/src/f_rom.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: c:\Users\Gustas\Documents\KTU\Architektura\L1\src\f_rom.vhd
+# Compile Entity "ROM"
+# Compile Architecture "rtl" of Entity "ROM"
+# Compile success 0 Errors 0 Warnings  Analysis time :  62.0 [ms]
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+# KERNEL: Main thread initiated.
+# KERNEL: Kernel process initialization phase.
+# KERNEL: Time resolution set to 1ps.
+# ELAB2: Elaboration final pass...
+# ELAB2: Create instances ...
+# ELAB2: Create instances complete.
+# SLP: Started
+# SLP: Elaboration phase ...
+# SLP: Elaboration phase ... skipped, nothing to simulate in SLP mode : 0.0 [s]
+# SLP: Finished : 0.0 [s]
+# ELAB2: Elaboration final pass complete - time: 0.0 [s].
+# KERNEL: Warning: You are using the Active-HDL Lattice Edition. The performance of simulation is running at a reduced rate.
+# KERNEL: Warning: Contact Aldec for available upgrade options - sales@aldec.com.
+# KERNEL: Kernel process initialization done.
+# Allocation: Simulator allocated 7268 kB (elbread=1280 elab2=5837 kernel=150 sdf=0)
+# KERNEL: ASDB file was created in location c:\Users\Gustas\Documents\KTU\Architektura\L1\src\wave.asdb
+#  12:46, Friday, October 4, 2019
+#  Simulation has been initialized
+# Waveform file 'untitled.awc' connected to 'c:/Users/Gustas/Documents/KTU/Architektura/L1/src/wave.asdb'.
+# Waveform file 'untitled.awc' connected to 'c:/Users/Gustas/Documents/KTU/Architektura/L1/src/wave.asdb'.
+# Waveform file 'untitled.awc' connected to 'c:/Users/Gustas/Documents/KTU/Architektura/L1/src/wave.asdb'.
+# Waveform file 'untitled.awc' connected to 'c:/Users/Gustas/Documents/KTU/Architektura/L1/src/wave.asdb'.
+wave 
+wave -noreg CLK
+wave -noreg RST
+wave -noreg Din
+wave -noreg MAIN_Dout
+wave -noreg S_Done 
+wave /top_tb/UUT/sREG_A_Dout  
+wave /top_tb/UUT/sREG_B_Dout
+wave /top_tb/UUT/sREG_C_Dout
+wave /top_tb/UUT/sREG_D_Dout
+wave /top_tb/UUT/sREG_E_Dout
+wave /top_tb/UUT/sREG_F_Dout 
+wave /top_tb/UUT/CTRL1/N_ADDR
+wave /top_tb/UUT/CTRL1/C_ADDR
+wave /top_tb/UUT/CTRL1/LS
+wave /top_tb/UUT/CNT1/CNT_A 
+# # The following lines can be used for timing simulation
+# # acom <backannotated_vhdl_file_name>
+# # comp -include "$dsn\src\TestBench\top_TB_tim_cfg.vhd" 
+# # asim +access +r TIMING_FOR_top 
+# 15 signal(s) traced.
+# Waveform file 'untitled.awc' connected to 'c:/Users/Gustas/Documents/KTU/Architektura/L1/src/wave.asdb'.
+run
+# EXECUTION:: WARNING: Neteisinga ALU komanda
+# EXECUTION:: Time: 0 ps,  Iteration: 0,  Instance: /top_tb/UUT/ALU1,  Process: line__32.
+# EXECUTION:: WARNING: Neteisinga ALU komanda
+# EXECUTION:: Time: 0 ps,  Iteration: 1,  Instance: /top_tb/UUT/ALU1,  Process: line__32.
+endsim
+# KERNEL: stopped at time: 1184305 ns
+# VSIM: Simulation has finished.
+SetActiveLib -work
+comp -include "$dsn\src\f_top.vhd" 
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: c:\Users\Gustas\Documents\KTU\Architektura\L1\src\f_top.vhd
+# Compile Entity "TOP"
+# Compile Architecture "struct" of Entity "top"
+# Compile success 0 Errors 0 Warnings  Analysis time :  62.0 [ms]
+comp -include "$dsn\src\TestBench\top_TB.vhd" 
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: c:\Users\Gustas\Documents\KTU\Architektura\L1\src\TestBench\top_TB.vhd
+# Compile Entity "top_tb"
+# Compile Architecture "TB_ARCHITECTURE" of Entity "top_tb"
+# Compile Configuration "TESTBENCH_FOR_top"
+# Compile success 0 Errors 0 Warnings  Analysis time :  63.0 [ms]
+asim +access +r TESTBENCH_FOR_top 
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+# VSIM: Stack memory: 32MB
+# VSIM: Retval memory: 32MB
+# 
+acom -O3 -e 100 -work L1 -2002  $dsn/src/f_rom.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: c:\Users\Gustas\Documents\KTU\Architektura\L1\src\f_rom.vhd
+# Compile Entity "ROM"
+# Compile Architecture "rtl" of Entity "ROM"
+# Compile success 0 Errors 0 Warnings  Analysis time :  78.0 [ms]
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+# KERNEL: Main thread initiated.
+# KERNEL: Kernel process initialization phase.
+# KERNEL: Time resolution set to 1ps.
+# ELAB2: Elaboration final pass...
+# ELAB2: Create instances ...
+# ELAB2: Create instances complete.
+# SLP: Started
+# SLP: Elaboration phase ...
+# SLP: Elaboration phase ... skipped, nothing to simulate in SLP mode : 0.0 [s]
+# SLP: Finished : 0.0 [s]
+# ELAB2: Elaboration final pass complete - time: 0.0 [s].
+# KERNEL: Warning: You are using the Active-HDL Lattice Edition. The performance of simulation is running at a reduced rate.
+# KERNEL: Warning: Contact Aldec for available upgrade options - sales@aldec.com.
+# KERNEL: Kernel process initialization done.
+# Allocation: Simulator allocated 7268 kB (elbread=1280 elab2=5837 kernel=150 sdf=0)
+# KERNEL: ASDB file was created in location c:\Users\Gustas\Documents\KTU\Architektura\L1\src\wave.asdb
+#  12:50, Friday, October 4, 2019
+#  Simulation has been initialized
+# Waveform file 'untitled.awc' connected to 'c:/Users/Gustas/Documents/KTU/Architektura/L1/src/wave.asdb'.
+# Waveform file 'untitled.awc' connected to 'c:/Users/Gustas/Documents/KTU/Architektura/L1/src/wave.asdb'.
+# Waveform file 'untitled.awc' connected to 'c:/Users/Gustas/Documents/KTU/Architektura/L1/src/wave.asdb'.
+# Waveform file 'untitled.awc' connected to 'c:/Users/Gustas/Documents/KTU/Architektura/L1/src/wave.asdb'.
+# Waveform file 'untitled.awc' connected to 'c:/Users/Gustas/Documents/KTU/Architektura/L1/src/wave.asdb'.
+wave 
+wave -noreg CLK
+wave -noreg RST
+wave -noreg Din
+wave -noreg MAIN_Dout
+wave -noreg S_Done 
+wave /top_tb/UUT/sREG_A_Dout  
+wave /top_tb/UUT/sREG_B_Dout
+wave /top_tb/UUT/sREG_C_Dout
+wave /top_tb/UUT/sREG_D_Dout
+wave /top_tb/UUT/sREG_E_Dout
+wave /top_tb/UUT/sREG_F_Dout 
+wave /top_tb/UUT/CTRL1/N_ADDR
+wave /top_tb/UUT/CTRL1/C_ADDR
+wave /top_tb/UUT/CTRL1/LS
+wave /top_tb/UUT/CNT1/CNT_A 
+# # The following lines can be used for timing simulation
+# # acom <backannotated_vhdl_file_name>
+# # comp -include "$dsn\src\TestBench\top_TB_tim_cfg.vhd" 
+# # asim +access +r TIMING_FOR_top 
+# 15 signal(s) traced.
+# Waveform file 'untitled.awc' connected to 'c:/Users/Gustas/Documents/KTU/Architektura/L1/src/wave.asdb'.
+run
+# EXECUTION:: WARNING: Neteisinga ALU komanda
+# EXECUTION:: Time: 0 ps,  Iteration: 0,  Instance: /top_tb/UUT/ALU1,  Process: line__32.
+# EXECUTION:: WARNING: Neteisinga ALU komanda
+# EXECUTION:: Time: 0 ps,  Iteration: 1,  Instance: /top_tb/UUT/ALU1,  Process: line__32.
+endsim
+# KERNEL: stopped at time: 711575 ns
+# VSIM: Simulation has finished.
+SetActiveLib -work
+comp -include "$dsn\src\f_top.vhd" 
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: c:\Users\Gustas\Documents\KTU\Architektura\L1\src\f_top.vhd
+# Compile Entity "TOP"
+# Compile Architecture "struct" of Entity "top"
+# Compile success 0 Errors 0 Warnings  Analysis time :  62.0 [ms]
+comp -include "$dsn\src\TestBench\top_TB.vhd" 
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: c:\Users\Gustas\Documents\KTU\Architektura\L1\src\TestBench\top_TB.vhd
+# Compile Entity "top_tb"
+# Compile Architecture "TB_ARCHITECTURE" of Entity "top_tb"
+# Compile Configuration "TESTBENCH_FOR_top"
+# Compile success 0 Errors 0 Warnings  Analysis time :  0.1 [s]
+asim +access +r TESTBENCH_FOR_top 
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+# VSIM: Stack memory: 32MB
+# VSIM: Retval memory: 32MB
+# 
+acom -O3 -e 100 -work L1 -2002  $dsn/src/f_rom.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: c:\Users\Gustas\Documents\KTU\Architektura\L1\src\f_rom.vhd
+# Compile Entity "ROM"
+# Compile Architecture "rtl" of Entity "ROM"
+# Compile success 0 Errors 0 Warnings  Analysis time :  62.0 [ms]
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+# KERNEL: Main thread initiated.
+# KERNEL: Kernel process initialization phase.
+# KERNEL: Time resolution set to 1ps.
+# ELAB2: Elaboration final pass...
+# ELAB2: Create instances ...
+# ELAB2: Create instances complete.
+# SLP: Started
+# SLP: Elaboration phase ...
+# SLP: Elaboration phase ... skipped, nothing to simulate in SLP mode : 0.0 [s]
+# SLP: Finished : 0.0 [s]
+# ELAB2: Elaboration final pass complete - time: 0.0 [s].
+# KERNEL: Warning: You are using the Active-HDL Lattice Edition. The performance of simulation is running at a reduced rate.
+# KERNEL: Warning: Contact Aldec for available upgrade options - sales@aldec.com.
+# KERNEL: Kernel process initialization done.
+# Allocation: Simulator allocated 7268 kB (elbread=1280 elab2=5837 kernel=150 sdf=0)
+# KERNEL: ASDB file was created in location c:\Users\Gustas\Documents\KTU\Architektura\L1\src\wave.asdb
+#  12:53, Friday, October 4, 2019
+#  Simulation has been initialized
+# Waveform file 'untitled.awc' connected to 'c:/Users/Gustas/Documents/KTU/Architektura/L1/src/wave.asdb'.
+# Waveform file 'untitled.awc' connected to 'c:/Users/Gustas/Documents/KTU/Architektura/L1/src/wave.asdb'.
+# Waveform file 'untitled.awc' connected to 'c:/Users/Gustas/Documents/KTU/Architektura/L1/src/wave.asdb'.
+# Waveform file 'untitled.awc' connected to 'c:/Users/Gustas/Documents/KTU/Architektura/L1/src/wave.asdb'.
+# Waveform file 'untitled.awc' connected to 'c:/Users/Gustas/Documents/KTU/Architektura/L1/src/wave.asdb'.
+# Waveform file 'untitled.awc' connected to 'c:/Users/Gustas/Documents/KTU/Architektura/L1/src/wave.asdb'.
+wave 
+wave -noreg CLK
+wave -noreg RST
+wave -noreg Din
+wave -noreg MAIN_Dout
+wave -noreg S_Done 
+wave /top_tb/UUT/sREG_A_Dout  
+wave /top_tb/UUT/sREG_B_Dout
+wave /top_tb/UUT/sREG_C_Dout
+wave /top_tb/UUT/sREG_D_Dout
+wave /top_tb/UUT/sREG_E_Dout
+wave /top_tb/UUT/sREG_F_Dout 
+wave /top_tb/UUT/CTRL1/N_ADDR
+wave /top_tb/UUT/CTRL1/C_ADDR
+wave /top_tb/UUT/CTRL1/LS
+wave /top_tb/UUT/CNT1/CNT_A 
+# # The following lines can be used for timing simulation
+# # acom <backannotated_vhdl_file_name>
+# # comp -include "$dsn\src\TestBench\top_TB_tim_cfg.vhd" 
+# # asim +access +r TIMING_FOR_top 
+# 15 signal(s) traced.
+# Waveform file 'untitled.awc' connected to 'c:/Users/Gustas/Documents/KTU/Architektura/L1/src/wave.asdb'.
+run
+# EXECUTION:: WARNING: Neteisinga ALU komanda
+# EXECUTION:: Time: 0 ps,  Iteration: 0,  Instance: /top_tb/UUT/ALU1,  Process: line__32.
+# EXECUTION:: WARNING: Neteisinga ALU komanda
+# EXECUTION:: Time: 0 ps,  Iteration: 1,  Instance: /top_tb/UUT/ALU1,  Process: line__32.
+# EXECUTION:: FAILURE: Modeliavimas baigtas
+# EXECUTION:: Time: 1215 ns,  Iteration: 0,  Instance: /top_tb,  Process: Daugyba.
+# KERNEL: Stopped at time 1215 ns + 0.
+SetActiveLib -work
+comp -include "$dsn\src\f_top.vhd" 
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: c:\Users\Gustas\Documents\KTU\Architektura\L1\src\f_top.vhd
+# Compile Entity "TOP"
+# Compile Architecture "struct" of Entity "top"
+# Compile success 0 Errors 0 Warnings  Analysis time :  62.0 [ms]
+comp -include "$dsn\src\TestBench\top_TB.vhd" 
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: c:\Users\Gustas\Documents\KTU\Architektura\L1\src\TestBench\top_TB.vhd
+# Compile Entity "top_tb"
+# Compile Architecture "TB_ARCHITECTURE" of Entity "top_tb"
+# Compile Configuration "TESTBENCH_FOR_top"
+# Compile success 0 Errors 0 Warnings  Analysis time :  62.0 [ms]
+asim +access +r TESTBENCH_FOR_top 
+# VSIM: Simulation has finished.
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+# VSIM: Stack memory: 32MB
+# VSIM: Retval memory: 32MB
+# 
+acom -O3 -e 100 -work L1 -2002  $dsn/src/f_rom.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: c:\Users\Gustas\Documents\KTU\Architektura\L1\src\f_rom.vhd
+# Compile Entity "ROM"
+# Compile Architecture "rtl" of Entity "ROM"
+# Compile success 0 Errors 0 Warnings  Analysis time :  47.0 [ms]
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+# KERNEL: Main thread initiated.
+# KERNEL: Kernel process initialization phase.
+# KERNEL: Time resolution set to 1ps.
+# ELAB2: Elaboration final pass...
+# ELAB2: Create instances ...
+# ELAB2: Create instances complete.
+# SLP: Started
+# SLP: Elaboration phase ...
+# SLP: Elaboration phase ... skipped, nothing to simulate in SLP mode : 0.0 [s]
+# SLP: Finished : 0.0 [s]
+# ELAB2: Elaboration final pass complete - time: 0.0 [s].
+# KERNEL: Warning: You are using the Active-HDL Lattice Edition. The performance of simulation is running at a reduced rate.
+# KERNEL: Warning: Contact Aldec for available upgrade options - sales@aldec.com.
+# KERNEL: Kernel process initialization done.
+# Allocation: Simulator allocated 7268 kB (elbread=1280 elab2=5837 kernel=150 sdf=0)
+# KERNEL: ASDB file was created in location c:\Users\Gustas\Documents\KTU\Architektura\L1\src\wave.asdb
+#  12:56, Friday, October 4, 2019
+#  Simulation has been initialized
+# Waveform file 'untitled.awc' connected to 'c:/Users/Gustas/Documents/KTU/Architektura/L1/src/wave.asdb'.
+# Waveform file 'untitled.awc' connected to 'c:/Users/Gustas/Documents/KTU/Architektura/L1/src/wave.asdb'.
+# Waveform file 'untitled.awc' connected to 'c:/Users/Gustas/Documents/KTU/Architektura/L1/src/wave.asdb'.
+# Waveform file 'untitled.awc' connected to 'c:/Users/Gustas/Documents/KTU/Architektura/L1/src/wave.asdb'.
+# Waveform file 'untitled.awc' connected to 'c:/Users/Gustas/Documents/KTU/Architektura/L1/src/wave.asdb'.
+# Waveform file 'untitled.awc' connected to 'c:/Users/Gustas/Documents/KTU/Architektura/L1/src/wave.asdb'.
+# Waveform file 'untitled.awc' connected to 'c:/Users/Gustas/Documents/KTU/Architektura/L1/src/wave.asdb'.
+wave 
+wave -noreg CLK
+wave -noreg RST
+wave -noreg Din
+wave -noreg MAIN_Dout
+wave -noreg S_Done 
+wave /top_tb/UUT/sREG_A_Dout  
+wave /top_tb/UUT/sREG_B_Dout
+wave /top_tb/UUT/sREG_C_Dout
+wave /top_tb/UUT/sREG_D_Dout
+wave /top_tb/UUT/sREG_E_Dout
+wave /top_tb/UUT/sREG_F_Dout 
+wave /top_tb/UUT/CTRL1/N_ADDR
+wave /top_tb/UUT/CTRL1/C_ADDR
+wave /top_tb/UUT/CTRL1/LS
+wave /top_tb/UUT/CNT1/CNT_A 
+# # The following lines can be used for timing simulation
+# # acom <backannotated_vhdl_file_name>
+# # comp -include "$dsn\src\TestBench\top_TB_tim_cfg.vhd" 
+# # asim +access +r TIMING_FOR_top 
+# 15 signal(s) traced.
+# Waveform file 'untitled.awc' connected to 'c:/Users/Gustas/Documents/KTU/Architektura/L1/src/wave.asdb'.
+run
+# EXECUTION:: WARNING: Neteisinga ALU komanda
+# EXECUTION:: Time: 0 ps,  Iteration: 0,  Instance: /top_tb/UUT/ALU1,  Process: line__32.
+# EXECUTION:: WARNING: Neteisinga ALU komanda
+# EXECUTION:: Time: 0 ps,  Iteration: 1,  Instance: /top_tb/UUT/ALU1,  Process: line__32.
+# EXECUTION:: FAILURE: Modeliavimas baigtas
+# EXECUTION:: Time: 495 ns,  Iteration: 0,  Instance: /top_tb,  Process: Daugyba.
+# KERNEL: Stopped at time 495 ns + 0.
+SetActiveLib -work
+comp -include "$dsn\src\f_top.vhd" 
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: c:\Users\Gustas\Documents\KTU\Architektura\L1\src\f_top.vhd
+# Compile Entity "TOP"
+# Compile Architecture "struct" of Entity "top"
+# Compile success 0 Errors 0 Warnings  Analysis time :  62.0 [ms]
+comp -include "$dsn\src\TestBench\top_TB.vhd" 
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: c:\Users\Gustas\Documents\KTU\Architektura\L1\src\TestBench\top_TB.vhd
+# Compile Entity "top_tb"
+# Compile Architecture "TB_ARCHITECTURE" of Entity "top_tb"
+# Compile Configuration "TESTBENCH_FOR_top"
+# Compile success 0 Errors 0 Warnings  Analysis time :  0.1 [s]
+asim +access +r TESTBENCH_FOR_top 
+# VSIM: Simulation has finished.
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+# VSIM: Stack memory: 32MB
+# VSIM: Retval memory: 32MB
+# 
+acom -O3 -e 100 -work L1 -2002  $dsn/src/f_rom.vhd
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: c:\Users\Gustas\Documents\KTU\Architektura\L1\src\f_rom.vhd
+# Compile Entity "ROM"
+# Compile Architecture "rtl" of Entity "ROM"
+# Compile success 0 Errors 0 Warnings  Analysis time :  63.0 [ms]
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+# KERNEL: Main thread initiated.
+# KERNEL: Kernel process initialization phase.
+# KERNEL: Time resolution set to 1ps.
+# ELAB2: Elaboration final pass...
+# ELAB2: Create instances ...
+# ELAB2: Create instances complete.
+# SLP: Started
+# SLP: Elaboration phase ...
+# SLP: Elaboration phase ... skipped, nothing to simulate in SLP mode : 0.0 [s]
+# SLP: Finished : 0.0 [s]
+# ELAB2: Elaboration final pass complete - time: 0.0 [s].
+# KERNEL: Warning: You are using the Active-HDL Lattice Edition. The performance of simulation is running at a reduced rate.
+# KERNEL: Warning: Contact Aldec for available upgrade options - sales@aldec.com.
+# KERNEL: Kernel process initialization done.
+# Allocation: Simulator allocated 7268 kB (elbread=1280 elab2=5837 kernel=150 sdf=0)
+# KERNEL: ASDB file was created in location c:\Users\Gustas\Documents\KTU\Architektura\L1\src\wave.asdb
+#  12:58, Friday, October 4, 2019
+#  Simulation has been initialized
+# Waveform file 'untitled.awc' connected to 'c:/Users/Gustas/Documents/KTU/Architektura/L1/src/wave.asdb'.
+# Waveform file 'untitled.awc' connected to 'c:/Users/Gustas/Documents/KTU/Architektura/L1/src/wave.asdb'.
+# Waveform file 'untitled.awc' connected to 'c:/Users/Gustas/Documents/KTU/Architektura/L1/src/wave.asdb'.
+# Waveform file 'untitled.awc' connected to 'c:/Users/Gustas/Documents/KTU/Architektura/L1/src/wave.asdb'.
+# Waveform file 'untitled.awc' connected to 'c:/Users/Gustas/Documents/KTU/Architektura/L1/src/wave.asdb'.
+# Waveform file 'untitled.awc' connected to 'c:/Users/Gustas/Documents/KTU/Architektura/L1/src/wave.asdb'.
+# Waveform file 'untitled.awc' connected to 'c:/Users/Gustas/Documents/KTU/Architektura/L1/src/wave.asdb'.
+# Waveform file 'untitled.awc' connected to 'c:/Users/Gustas/Documents/KTU/Architektura/L1/src/wave.asdb'.
+wave 
+wave -noreg CLK
+wave -noreg RST
+wave -noreg Din
+wave -noreg MAIN_Dout
+wave -noreg S_Done 
+wave /top_tb/UUT/sREG_A_Dout  
+wave /top_tb/UUT/sREG_B_Dout
+wave /top_tb/UUT/sREG_C_Dout
+wave /top_tb/UUT/sREG_D_Dout
+wave /top_tb/UUT/sREG_E_Dout
+wave /top_tb/UUT/sREG_F_Dout 
+wave /top_tb/UUT/CTRL1/N_ADDR
+wave /top_tb/UUT/CTRL1/C_ADDR
+wave /top_tb/UUT/CTRL1/LS
+wave /top_tb/UUT/CNT1/CNT_A 
+# # The following lines can be used for timing simulation
+# # acom <backannotated_vhdl_file_name>
+# # comp -include "$dsn\src\TestBench\top_TB_tim_cfg.vhd" 
+# # asim +access +r TIMING_FOR_top 
+# 15 signal(s) traced.
+# Waveform file 'untitled.awc' connected to 'c:/Users/Gustas/Documents/KTU/Architektura/L1/src/wave.asdb'.
+run
+# EXECUTION:: WARNING: Neteisinga ALU komanda
+# EXECUTION:: Time: 0 ps,  Iteration: 0,  Instance: /top_tb/UUT/ALU1,  Process: line__32.
+# EXECUTION:: WARNING: Neteisinga ALU komanda
+# EXECUTION:: Time: 0 ps,  Iteration: 1,  Instance: /top_tb/UUT/ALU1,  Process: line__32.
+# EXECUTION:: FAILURE: Modeliavimas baigtas
+# EXECUTION:: Time: 495 ns,  Iteration: 0,  Instance: /top_tb,  Process: Daugyba.
+# KERNEL: Stopped at time 495 ns + 0.
+SetActiveLib -work
+comp -include "$dsn\src\f_top.vhd" 
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: c:\Users\Gustas\Documents\KTU\Architektura\L1\src\f_top.vhd
+# Compile Entity "TOP"
+# Compile Architecture "struct" of Entity "top"
+# Compile success 0 Errors 0 Warnings  Analysis time :  47.0 [ms]
+comp -include "$dsn\src\TestBench\top_TB.vhd" 
+# Warning: DAGGEN_0523: The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available.
+# File: c:\Users\Gustas\Documents\KTU\Architektura\L1\src\TestBench\top_TB.vhd
+# Compile Entity "top_tb"
+# Compile Architecture "TB_ARCHITECTURE" of Entity "top_tb"
+# Compile Configuration "TESTBENCH_FOR_top"
+# Compile success 0 Errors 0 Warnings  Analysis time :  0.1 [s]
+asim +access +r TESTBENCH_FOR_top 
+# VSIM: Simulation has finished.
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+# VSIM: Stack memory: 32MB
+# VSIM: Retval memory: 32MB
+# 
+# KERNEL: Main thread initiated.
+# KERNEL: Kernel process initialization phase.
+# KERNEL: Time resolution set to 1ps.
+# ELAB2: Elaboration final pass...
+# ELAB2: Create instances ...
+# ELAB2: Create instances complete.
+# SLP: Started
+# SLP: Elaboration phase ...
+# SLP: Elaboration phase ... skipped, nothing to simulate in SLP mode : 0.0 [s]
+# SLP: Finished : 0.0 [s]
+# ELAB2: Elaboration final pass complete - time: 0.0 [s].
+# KERNEL: Warning: You are using the Active-HDL Lattice Edition. The performance of simulation is running at a reduced rate.
+# KERNEL: Warning: Contact Aldec for available upgrade options - sales@aldec.com.
+# KERNEL: Kernel process initialization done.
+# Allocation: Simulator allocated 7268 kB (elbread=1280 elab2=5837 kernel=150 sdf=0)
+# KERNEL: ASDB file was created in location c:\Users\Gustas\Documents\KTU\Architektura\L1\src\wave.asdb
+#  13:00, Friday, October 4, 2019
+#  Simulation has been initialized
+# Waveform file 'untitled.awc' connected to 'c:/Users/Gustas/Documents/KTU/Architektura/L1/src/wave.asdb'.
+# Waveform file 'untitled.awc' connected to 'c:/Users/Gustas/Documents/KTU/Architektura/L1/src/wave.asdb'.
+# Waveform file 'untitled.awc' connected to 'c:/Users/Gustas/Documents/KTU/Architektura/L1/src/wave.asdb'.
+# Waveform file 'untitled.awc' connected to 'c:/Users/Gustas/Documents/KTU/Architektura/L1/src/wave.asdb'.
+# Waveform file 'untitled.awc' connected to 'c:/Users/Gustas/Documents/KTU/Architektura/L1/src/wave.asdb'.
+# Waveform file 'untitled.awc' connected to 'c:/Users/Gustas/Documents/KTU/Architektura/L1/src/wave.asdb'.
+# Waveform file 'untitled.awc' connected to 'c:/Users/Gustas/Documents/KTU/Architektura/L1/src/wave.asdb'.
+# Waveform file 'untitled.awc' connected to 'c:/Users/Gustas/Documents/KTU/Architektura/L1/src/wave.asdb'.
+# Waveform file 'untitled.awc' connected to 'c:/Users/Gustas/Documents/KTU/Architektura/L1/src/wave.asdb'.
+wave 
+wave -noreg CLK
+wave -noreg RST
+wave -noreg Din
+wave -noreg MAIN_Dout
+wave -noreg S_Done 
+wave /top_tb/UUT/sREG_A_Dout  
+wave /top_tb/UUT/sREG_B_Dout
+wave /top_tb/UUT/sREG_C_Dout
+wave /top_tb/UUT/sREG_D_Dout
+wave /top_tb/UUT/sREG_E_Dout
+wave /top_tb/UUT/sREG_F_Dout 
+wave /top_tb/UUT/CTRL1/N_ADDR
+wave /top_tb/UUT/CTRL1/C_ADDR
+wave /top_tb/UUT/CTRL1/LS
+wave /top_tb/UUT/CNT1/CNT_A 
+# # The following lines can be used for timing simulation
+# # acom <backannotated_vhdl_file_name>
+# # comp -include "$dsn\src\TestBench\top_TB_tim_cfg.vhd" 
+# # asim +access +r TIMING_FOR_top 
+# 15 signal(s) traced.
+# Waveform file 'untitled.awc' connected to 'c:/Users/Gustas/Documents/KTU/Architektura/L1/src/wave.asdb'.
+run
+# EXECUTION:: WARNING: Neteisinga ALU komanda
+# EXECUTION:: Time: 0 ps,  Iteration: 0,  Instance: /top_tb/UUT/ALU1,  Process: line__32.
+# EXECUTION:: WARNING: Neteisinga ALU komanda
+# EXECUTION:: Time: 0 ps,  Iteration: 1,  Instance: /top_tb/UUT/ALU1,  Process: line__32.
+# EXECUTION:: FAILURE: Modeliavimas baigtas
+# EXECUTION:: Time: 505 ns,  Iteration: 0,  Instance: /top_tb,  Process: Daugyba.
+# KERNEL: Stopped at time 505 ns + 0.

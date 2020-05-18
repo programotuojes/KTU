@@ -1,0 +1,20 @@
+233
+~E 1 "./../src/alu_s.vhd" 16 ALU_s
+~A 1 "./../src/alu_s.vhd" 29 rtl
+~E 1 "./../src/cnt.vhd" 12 CNT
+~A 1 "./../src/cnt.vhd" 22 rtl
+~E 1 "./../src/f_ctrl.vhd" 14 CTRL
+~A 1 "./../src/f_ctrl.vhd" 56 rtl
+~E 1 "./../src/flg.vhd" 34 FLG
+~A 1 "./../src/flg.vhd" 45 rtl
+~E 1 "./../src/mux.vhd" 12 MUX
+~A 1 "./../src/mux.vhd" 31 rtl
+~E 1 "./../src/reg.vhd" 12 REG
+~A 1 "./../src/reg.vhd" 26 rtl
+~E 1 "./../src/f_rom.vhd" 12 ROM
+~A 1 "./../src/f_rom.vhd" 20 rtl
+~C 1 "./../src/TestBench/top_TB.vhd" 76 testbench_for_top
+~E 1 "./../src/f_top.vhd" 14 TOP
+~A 1 "./../src/f_top.vhd" 27 struct
+~E 1 "./../src/stimulai-top_tb.vhd" 7 top_tb
+~A 1 "./../src/TestBench/top_TB.vhd" 10 TB_ARCHITECTURE

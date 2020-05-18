@@ -1,0 +1,1 @@
+-w -erf c:/Users/Gustas/Documents/KTU/Architektura/L1/compile/L1.erf -d c:/Users/Gustas/Documents/KTU/Architektura/L1/compile -s c:/Users/Gustas/Documents/KTU/Architektura/L1/library.cfg -j c:/Users/Gustas/Documents/KTU/Architektura/L1/projlib.cfg -work L1 -O3 -e 100 -work L1 -2002 c:/Users/Gustas/Documents/KTU/Architektura/L1/src/TestBench/top_TB.vhd 

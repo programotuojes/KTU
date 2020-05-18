@@ -1,0 +1,73 @@
+[Project]
+Current Flow=Generic
+VCS=0
+version=3
+Current Config=compile
+
+[Configurations]
+compile=L1
+
+[Library]
+L1=.\L1\L1.lib
+
+[Settings]
+AccessRead=1
+AccessReadWrite=0
+AccessACCB=0
+AccessACCR=0
+AccessReadWriteSLP=0
+AccessReadTopLevel=0
+DisableC=1
+ENABLE_ADV_DATAFLOW=0
+FLOW_TYPE=HDL
+LANGUAGE=VHDL
+REFRESH_FLOW=1
+FLOWTOOLS=NONE
+FAMILY=
+
+[LocalVerilogSets]
+EnableSLP=1
+EnableDebug=0
+
+[LocalVhdlSets]
+CompileWithDebug=0
+
+[$LibMap$]
+L1=.
+Active_lib=
+
+[Groups]
+TestBench=1
+
+[Files]
+/f_rom.vhd=-1
+/mux.vhd=-1
+/reg.vhd=-1
+/flg.vhd=-1
+/cnt.vhd=-1
+/f_ctrl.vhd=-1
+/alu_s.vhd=-1
+/f_top.vhd=-1
+/stimulai-top_tb.vhd=-1
+TestBench/top_TB.vhd=-1
+TestBench/top_TB_runtest.do=-1
+
+[Files.Data]
+.\src\f_rom.vhd=VHDL Source Code
+.\src\mux.vhd=VHDL Source Code
+.\src\reg.vhd=VHDL Source Code
+.\src\flg.vhd=VHDL Source Code
+.\src\cnt.vhd=VHDL Source Code
+.\src\f_ctrl.vhd=VHDL Source Code
+.\src\alu_s.vhd=VHDL Source Code
+.\src\f_top.vhd=VHDL Source Code
+.\src\stimulai-top_tb.vhd=VHDL Source Code
+.\src\TestBench\top_TB.vhd=VHDL Test Bench
+.\src\TestBench\top_TB_runtest.do=Macro
+
+[SpecTracer]
+WindowVisible=0
+[HierarchyViewer]
+HierarchyInformation=top_tb|testbench_for_top|1        
+ShowHide=ShowTopLevel
+Selected=

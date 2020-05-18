@@ -1,0 +1,5 @@
+Seibutis     11   7
+Mačiulis     10   9
+Kalnietis     6   5
+Jankūnas     20  12
+Valančiūnas  23  16

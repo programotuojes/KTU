@@ -1,0 +1,10 @@
+.\src\f_rom.vhd
+.\src\mux.vhd
+.\src\reg.vhd
+.\src\flg.vhd
+.\src\cnt.vhd
+.\src\f_ctrl.vhd
+.\src\alu_s.vhd
+.\src\f_top.vhd
+.\src\stimulai-top_tb.vhd
+.\src\TestBench\top_TB.vhd

@@ -1,0 +1,17 @@
+[Files List]
+C:\Program Files\lscc\diamond\3.10_x64\active-hdl\vlib\std/src/standard.vhd=S
+C:\Program Files\lscc\diamond\3.10_x64\active-hdl\vlib\std/src/textio.vhd=S
+C:\Program Files\lscc\diamond\3.10_x64\active-hdl\vlib\ieee/src/std_logic_1164.vhdl=S
+C:\Program Files\lscc\diamond\3.10_x64\active-hdl\vlib\ieee/src/std_logic_1164-body.vhdl=S
+C:\Program Files\lscc\diamond\3.10_x64\active-hdl\vlib\ieee/src/numeric_std.vhdl=S
+C:\Program Files\lscc\diamond\3.10_x64\active-hdl\vlib\ieee/src/numeric_std-body.vhdl=S
+c:\Users\Gustas\Documents\KTU\Architektura\L1/src/flg.vhd=S
+c:\Users\Gustas\Documents\KTU\Architektura\L1/src/reg.vhd=S
+c:\Users\Gustas\Documents\KTU\Architektura\L1/src/cnt.vhd=S
+c:\Users\Gustas\Documents\KTU\Architektura\L1/src/f_rom.vhd=S
+c:\Users\Gustas\Documents\KTU\Architektura\L1/src/alu_s.vhd=S
+c:\Users\Gustas\Documents\KTU\Architektura\L1/src/mux.vhd=S
+c:\Users\Gustas\Documents\KTU\Architektura\L1/src/f_ctrl.vhd=S
+c:\Users\Gustas\Documents\KTU\Architektura\L1/src/f_top.vhd=S
+c:\Users\Gustas\Documents\KTU\Architektura\L1/src/stimulai-top_tb.vhd=S
+c:\Users\Gustas\Documents\KTU\Architektura\L1/src/TestBench/top_TB.vhd=S
