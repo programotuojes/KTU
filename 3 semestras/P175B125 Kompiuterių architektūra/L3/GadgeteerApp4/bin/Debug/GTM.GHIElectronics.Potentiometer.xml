@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>GTM.GHIElectronics.Potentiometer</name>
+    </assembly>
+    <members>
+        <member name="T:Gadgeteer.Modules.GHIElectronics.Potentiometer">
+            <summary>A Potentiometer module for Microsoft .NET Gadgeteer</summary>
+        </member>
+        <member name="M:Gadgeteer.Modules.GHIElectronics.Potentiometer.#ctor(System.Int32)">
+            <summary>Constructs a new instance.</summary>
+            <param name="socketNumber">The mainboard socket that has the module plugged into it.</param>
+        </member>
+        <member name="M:Gadgeteer.Modules.GHIElectronics.Potentiometer.ReadVoltage">
+            <summary>Gets the current voltage reading of the potentiometer.</summary>
+        </member>
+        <member name="M:Gadgeteer.Modules.GHIElectronics.Potentiometer.ReadProportion">
+            <summary>Gets the current position of the potentiometer between 0.0 and 1.0.</summary>
+        </member>
+    </members>
+</doc>

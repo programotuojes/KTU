@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>GTM.GHIElectronics.AccelG248</name>
+    </assembly>
+    <members>
+        <member name="T:Gadgeteer.Modules.GHIElectronics.AccelG248">
+            <summary>An AccelG248 module for Microsoft .NET Gadgeteer</summary>
+        </member>
+        <member name="M:Gadgeteer.Modules.GHIElectronics.AccelG248.#ctor(System.Int32)">
+            <summary>Constructs a new instance.</summary>
+            <param name="socketNumber">The socket that this module is plugged in to.</param>
+        </member>
+        <member name="M:Gadgeteer.Modules.GHIElectronics.AccelG248.GetX">
+            <summary>Gets the current X acceleration value.</summary>
+            <returns>The X acceleration between -2g and 2g.</returns>
+        </member>
+        <member name="M:Gadgeteer.Modules.GHIElectronics.AccelG248.GetY">
+            <summary>Gets the current Y acceleration value.</summary>
+            <returns>The Y acceleration between -2g and 2g.</returns>
+        </member>
+        <member name="M:Gadgeteer.Modules.GHIElectronics.AccelG248.GetZ">
+            <summary>Gets the current Z acceleration value.</summary>
+            <returns>The Z acceleration between -2g and 2g.</returns>
+        </member>
+        <member name="M:Gadgeteer.Modules.GHIElectronics.AccelG248.GetAcceleration">
+            <summary>Gets the current acceleration values.</summary>
+            <returns>The acceleration.</returns>
+        </member>
+        <member name="M:Gadgeteer.Modules.GHIElectronics.AccelG248.GetXYZ(System.Double@,System.Double@,System.Double@)">
+            <summary>Gets the current acceleration values.</summary>
+            <param name="x">The x acceleration between -2g and 2g.</param>
+            <param name="y">The y acceleration between -2g and 2g.</param>
+            <param name="z">The z acceleration between -2g and 2g.</param>
+        </member>
+        <member name="T:Gadgeteer.Modules.GHIElectronics.AccelG248.Acceleration">
+            <summary>Represents an acceleration.</summary>
+        </member>
+        <member name="M:Gadgeteer.Modules.GHIElectronics.AccelG248.Acceleration.ToString">
+            <summary>Returns the string representation of this object.</summary>
+            <returns>The string representation.</returns>
+        </member>
+        <member name="P:Gadgeteer.Modules.GHIElectronics.AccelG248.Acceleration.X">
+            <summary>The x acceleration between -2g and 2g.</summary>
+        </member>
+        <member name="P:Gadgeteer.Modules.GHIElectronics.AccelG248.Acceleration.Y">
+            <summary>The y acceleration between -2g and 2g.</summary>
+        </member>
+        <member name="P:Gadgeteer.Modules.GHIElectronics.AccelG248.Acceleration.Z">
+            <summary>The z acceleration between -2g and 2g.</summary>
+        </member>
+    </members>
+</doc>

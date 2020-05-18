@@ -1,0 +1,51 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>GTM.GHIElectronics.TempHumidity</name>
+    </assembly>
+    <members>
+        <member name="T:Gadgeteer.Modules.GHIElectronics.TempHumidity">
+            <summary>A TempHumidity module for Microsoft .NET Gadgeteer</summary>
+        </member>
+        <member name="M:Gadgeteer.Modules.GHIElectronics.TempHumidity.#ctor(System.Int32)">
+            <summary>Constructs a new instance.</summary>
+            <param name="socketNumber">The socket that this module is plugged in to.</param>
+        </member>
+        <member name="M:Gadgeteer.Modules.GHIElectronics.TempHumidity.RequestSingleMeasurement">
+            <summary>Obtains a single measurement and raises the event when complete.</summary>
+        </member>
+        <member name="M:Gadgeteer.Modules.GHIElectronics.TempHumidity.StartTakingMeasurements">
+            <summary>Starts taking measurements and fires MeasurementComplete when a new measurement is available.</summary>
+        </member>
+        <member name="M:Gadgeteer.Modules.GHIElectronics.TempHumidity.StopTakingMeasurements">
+            <summary>Stops taking measurements.</summary>
+        </member>
+        <member name="E:Gadgeteer.Modules.GHIElectronics.TempHumidity.MeasurementComplete">
+            <summary>Raised when a measurement reading is complete.</summary>
+        </member>
+        <member name="P:Gadgeteer.Modules.GHIElectronics.TempHumidity.MeasurementInterval">
+            <summary>The interval in milliseconds at which measurements are taken.</summary>
+        </member>
+        <member name="P:Gadgeteer.Modules.GHIElectronics.TempHumidity.IsTakingMeasurements">
+            <summary>Whether or not the driver is currently taking measurements.</summary>
+        </member>
+        <member name="T:Gadgeteer.Modules.GHIElectronics.TempHumidity.MeasurementCompleteEventHandler">
+            <summary>Represents the delegate used for the MeasurementComplete event.</summary>
+            <param name="sender">The object that raised the event.</param>
+            <param name="e">The event arguments.</param>
+        </member>
+        <member name="T:Gadgeteer.Modules.GHIElectronics.TempHumidity.MeasurementCompleteEventArgs">
+            <summary>Event arguments for the MeasurementComplete event.</summary>
+        </member>
+        <member name="M:Gadgeteer.Modules.GHIElectronics.TempHumidity.MeasurementCompleteEventArgs.ToString">
+            <summary>Provides a string representation of the instance.</summary>
+            <returns>A string describing the values contained in the object.</returns>
+        </member>
+        <member name="P:Gadgeteer.Modules.GHIElectronics.TempHumidity.MeasurementCompleteEventArgs.Temperature">
+            <summary>The measured temperature in degrees Celsius.</summary>
+        </member>
+        <member name="P:Gadgeteer.Modules.GHIElectronics.TempHumidity.MeasurementCompleteEventArgs.RelativeHumidity">
+            <summary>The measured relative humidity.</summary>
+        </member>
+    </members>
+</doc>

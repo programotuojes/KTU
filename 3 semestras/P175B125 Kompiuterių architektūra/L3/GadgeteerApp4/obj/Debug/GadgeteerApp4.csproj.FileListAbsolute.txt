@@ -1,0 +1,651 @@
+C:\Users\Admin\documents\visual studio 2010\Projects\GadgeteerApp4\GadgeteerApp4\obj\Debug\GadgeteerApp4.Resources.resources
+C:\Users\Admin\documents\visual studio 2010\Projects\GadgeteerApp4\GadgeteerApp4\obj\Debug\GadgeteerApp4.csproj.GenerateResource.Cache
+C:\Users\Admin\documents\visual studio 2010\Projects\GadgeteerApp4\GadgeteerApp4\obj\Debug\GadgeteerApp4.Resources.tinyresources
+C:\Users\Admin\documents\visual studio 2010\Projects\GadgeteerApp4\GadgeteerApp4\obj\Debug\TinyResGen.cache
+C:\Users\Admin\documents\visual studio 2010\Projects\GadgeteerApp4\GadgeteerApp4\bin\Debug\le\GadgeteerApp4.exe
+C:\Users\Admin\documents\visual studio 2010\Projects\GadgeteerApp4\GadgeteerApp4\bin\Debug\be\GadgeteerApp4.exe
+C:\Users\Admin\documents\visual studio 2010\Projects\GadgeteerApp4\GadgeteerApp4\bin\Debug\le\GadgeteerApp4.pdb
+C:\Users\Admin\documents\visual studio 2010\Projects\GadgeteerApp4\GadgeteerApp4\bin\Debug\be\GadgeteerApp4.pdb
+C:\Users\Admin\documents\visual studio 2010\Projects\GadgeteerApp4\GadgeteerApp4\bin\Debug\GadgeteerApp4.exe
+C:\Users\Admin\documents\visual studio 2010\Projects\GadgeteerApp4\GadgeteerApp4\bin\Debug\GadgeteerApp4.pdb
+C:\Users\Admin\documents\visual studio 2010\Projects\GadgeteerApp4\GadgeteerApp4\bin\Debug\le\GadgeteerApp4.pe
+C:\Users\Admin\documents\visual studio 2010\Projects\GadgeteerApp4\GadgeteerApp4\bin\Debug\le\GadgeteerApp4.pdbx
+C:\Users\Admin\documents\visual studio 2010\Projects\GadgeteerApp4\GadgeteerApp4\bin\Debug\be\GadgeteerApp4.pe
+C:\Users\Admin\documents\visual studio 2010\Projects\GadgeteerApp4\GadgeteerApp4\bin\Debug\be\GadgeteerApp4.pdbx
+C:\Users\Admin\documents\visual studio 2010\Projects\GadgeteerApp4\GadgeteerApp4\bin\Debug\LE\Gadgeteer.pe
+C:\Users\Admin\documents\visual studio 2010\Projects\GadgeteerApp4\GadgeteerApp4\bin\Debug\LE\GHIElectronics.Gadgeteer.FEZRaptor.pe
+C:\Users\Admin\documents\visual studio 2010\Projects\GadgeteerApp4\GadgeteerApp4\bin\Debug\LE\GTM.GHIElectronics.Button.pe
+C:\Users\Admin\documents\visual studio 2010\Projects\GadgeteerApp4\GadgeteerApp4\bin\Debug\LE\GTM.GHIElectronics.DisplayT43.pe
+C:\Users\Admin\documents\visual studio 2010\Projects\GadgeteerApp4\GadgeteerApp4\bin\Debug\LE\GTM.GHIElectronics.Extender.pe
+C:\Users\Admin\documents\visual studio 2010\Projects\GadgeteerApp4\GadgeteerApp4\bin\Debug\LE\GTM.GHIElectronics.LED7C.pe
+C:\Users\Admin\documents\visual studio 2010\Projects\GadgeteerApp4\GadgeteerApp4\bin\Debug\LE\GTM.GHIElectronics.LED7R.pe
+C:\Users\Admin\documents\visual studio 2010\Projects\GadgeteerApp4\GadgeteerApp4\bin\Debug\LE\GHI.Hardware.pe
+C:\Users\Admin\documents\visual studio 2010\Projects\GadgeteerApp4\GadgeteerApp4\bin\Debug\LE\GHI.Usb.pe
+C:\Users\Admin\documents\visual studio 2010\Projects\GadgeteerApp4\GadgeteerApp4\bin\Debug\BE\Gadgeteer.pe
+C:\Users\Admin\documents\visual studio 2010\Projects\GadgeteerApp4\GadgeteerApp4\bin\Debug\BE\GHIElectronics.Gadgeteer.FEZRaptor.pe
+C:\Users\Admin\documents\visual studio 2010\Projects\GadgeteerApp4\GadgeteerApp4\bin\Debug\BE\GTM.GHIElectronics.Button.pe
+C:\Users\Admin\documents\visual studio 2010\Projects\GadgeteerApp4\GadgeteerApp4\bin\Debug\BE\GTM.GHIElectronics.DisplayT43.pe
+C:\Users\Admin\documents\visual studio 2010\Projects\GadgeteerApp4\GadgeteerApp4\bin\Debug\BE\GTM.GHIElectronics.Extender.pe
+C:\Users\Admin\documents\visual studio 2010\Projects\GadgeteerApp4\GadgeteerApp4\bin\Debug\BE\GTM.GHIElectronics.LED7C.pe
+C:\Users\Admin\documents\visual studio 2010\Projects\GadgeteerApp4\GadgeteerApp4\bin\Debug\BE\GTM.GHIElectronics.LED7R.pe
+C:\Users\Admin\documents\visual studio 2010\Projects\GadgeteerApp4\GadgeteerApp4\bin\Debug\BE\GHI.Hardware.pe
+C:\Users\Admin\documents\visual studio 2010\Projects\GadgeteerApp4\GadgeteerApp4\bin\Debug\BE\GHI.Usb.pe
+C:\Users\Admin\documents\visual studio 2010\Projects\GadgeteerApp4\GadgeteerApp4\bin\Debug\LE\Gadgeteer.pdbx
+C:\Users\Admin\documents\visual studio 2010\Projects\GadgeteerApp4\GadgeteerApp4\bin\Debug\LE\GHIElectronics.Gadgeteer.FEZRaptor.pdbx
+C:\Users\Admin\documents\visual studio 2010\Projects\GadgeteerApp4\GadgeteerApp4\bin\Debug\LE\GTM.GHIElectronics.Button.pdbx
+C:\Users\Admin\documents\visual studio 2010\Projects\GadgeteerApp4\GadgeteerApp4\bin\Debug\LE\GTM.GHIElectronics.DisplayT43.pdbx
+C:\Users\Admin\documents\visual studio 2010\Projects\GadgeteerApp4\GadgeteerApp4\bin\Debug\LE\GTM.GHIElectronics.Extender.pdbx
+C:\Users\Admin\documents\visual studio 2010\Projects\GadgeteerApp4\GadgeteerApp4\bin\Debug\LE\GTM.GHIElectronics.LED7C.pdbx
+C:\Users\Admin\documents\visual studio 2010\Projects\GadgeteerApp4\GadgeteerApp4\bin\Debug\LE\GTM.GHIElectronics.LED7R.pdbx
+C:\Users\Admin\documents\visual studio 2010\Projects\GadgeteerApp4\GadgeteerApp4\bin\Debug\LE\GHI.Hardware.pdbx
+C:\Users\Admin\documents\visual studio 2010\Projects\GadgeteerApp4\GadgeteerApp4\bin\Debug\LE\GHI.Usb.pdbx
+C:\Users\Admin\documents\visual studio 2010\Projects\GadgeteerApp4\GadgeteerApp4\bin\Debug\BE\Gadgeteer.pdbx
+C:\Users\Admin\documents\visual studio 2010\Projects\GadgeteerApp4\GadgeteerApp4\bin\Debug\BE\GHIElectronics.Gadgeteer.FEZRaptor.pdbx
+C:\Users\Admin\documents\visual studio 2010\Projects\GadgeteerApp4\GadgeteerApp4\bin\Debug\BE\GTM.GHIElectronics.Button.pdbx
+C:\Users\Admin\documents\visual studio 2010\Projects\GadgeteerApp4\GadgeteerApp4\bin\Debug\BE\GTM.GHIElectronics.DisplayT43.pdbx
+C:\Users\Admin\documents\visual studio 2010\Projects\GadgeteerApp4\GadgeteerApp4\bin\Debug\BE\GTM.GHIElectronics.Extender.pdbx
+C:\Users\Admin\documents\visual studio 2010\Projects\GadgeteerApp4\GadgeteerApp4\bin\Debug\BE\GTM.GHIElectronics.LED7C.pdbx
+C:\Users\Admin\documents\visual studio 2010\Projects\GadgeteerApp4\GadgeteerApp4\bin\Debug\BE\GTM.GHIElectronics.LED7R.pdbx
+C:\Users\Admin\documents\visual studio 2010\Projects\GadgeteerApp4\GadgeteerApp4\bin\Debug\BE\GHI.Hardware.pdbx
+C:\Users\Admin\documents\visual studio 2010\Projects\GadgeteerApp4\GadgeteerApp4\bin\Debug\BE\GHI.Usb.pdbx
+C:\Users\Admin\documents\visual studio 2010\Projects\GadgeteerApp4\GadgeteerApp4\bin\Debug\Gadgeteer.dll
+C:\Users\Admin\documents\visual studio 2010\Projects\GadgeteerApp4\GadgeteerApp4\bin\Debug\GHIElectronics.Gadgeteer.FEZRaptor.dll
+C:\Users\Admin\documents\visual studio 2010\Projects\GadgeteerApp4\GadgeteerApp4\bin\Debug\GTM.GHIElectronics.Button.dll
+C:\Users\Admin\documents\visual studio 2010\Projects\GadgeteerApp4\GadgeteerApp4\bin\Debug\GTM.GHIElectronics.DisplayT43.dll
+C:\Users\Admin\documents\visual studio 2010\Projects\GadgeteerApp4\GadgeteerApp4\bin\Debug\GTM.GHIElectronics.Extender.dll
+C:\Users\Admin\documents\visual studio 2010\Projects\GadgeteerApp4\GadgeteerApp4\bin\Debug\GTM.GHIElectronics.LED7C.dll
+C:\Users\Admin\documents\visual studio 2010\Projects\GadgeteerApp4\GadgeteerApp4\bin\Debug\GTM.GHIElectronics.LED7R.dll
+C:\Users\Admin\documents\visual studio 2010\Projects\GadgeteerApp4\GadgeteerApp4\bin\Debug\GHI.Hardware.dll
+C:\Users\Admin\documents\visual studio 2010\Projects\GadgeteerApp4\GadgeteerApp4\bin\Debug\GHI.Usb.dll
+C:\Users\Admin\documents\visual studio 2010\Projects\GadgeteerApp4\GadgeteerApp4\bin\Debug\Gadgeteer.pdb
+C:\Users\Admin\documents\visual studio 2010\Projects\GadgeteerApp4\GadgeteerApp4\bin\Debug\Gadgeteer.xml
+C:\Users\Admin\documents\visual studio 2010\Projects\GadgeteerApp4\GadgeteerApp4\bin\Debug\GHIElectronics.Gadgeteer.FEZRaptor.xml
+C:\Users\Admin\documents\visual studio 2010\Projects\GadgeteerApp4\GadgeteerApp4\bin\Debug\GTM.GHIElectronics.Button.xml
+C:\Users\Admin\documents\visual studio 2010\Projects\GadgeteerApp4\GadgeteerApp4\bin\Debug\GTM.GHIElectronics.DisplayT43.xml
+C:\Users\Admin\documents\visual studio 2010\Projects\GadgeteerApp4\GadgeteerApp4\bin\Debug\GTM.GHIElectronics.Extender.xml
+C:\Users\Admin\documents\visual studio 2010\Projects\GadgeteerApp4\GadgeteerApp4\bin\Debug\GTM.GHIElectronics.LED7C.xml
+C:\Users\Admin\documents\visual studio 2010\Projects\GadgeteerApp4\GadgeteerApp4\bin\Debug\GTM.GHIElectronics.LED7R.xml
+C:\Users\Admin\documents\visual studio 2010\Projects\GadgeteerApp4\GadgeteerApp4\bin\Debug\GHI.Hardware.xml
+C:\Users\Admin\documents\visual studio 2010\Projects\GadgeteerApp4\GadgeteerApp4\bin\Debug\GHI.Usb.xml
+C:\Users\Admin\documents\visual studio 2010\Projects\GadgeteerApp4\GadgeteerApp4\obj\Debug\be\GadgeteerApp4.pe
+C:\Users\Admin\documents\visual studio 2010\Projects\GadgeteerApp4\GadgeteerApp4\obj\Debug\be\GadgeteerApp4.pdbx
+C:\Users\Admin\documents\visual studio 2010\Projects\GadgeteerApp4\GadgeteerApp4\obj\Debug\le\GadgeteerApp4.pe
+C:\Users\Admin\documents\visual studio 2010\Projects\GadgeteerApp4\GadgeteerApp4\obj\Debug\le\GadgeteerApp4.pdbx
+C:\Users\Admin\documents\visual studio 2010\Projects\GadgeteerApp4\GadgeteerApp4\obj\Debug\GadgeteerApp4.exe
+C:\Users\Admin\documents\visual studio 2010\Projects\GadgeteerApp4\GadgeteerApp4\obj\Debug\GadgeteerApp4.pdb
+C:\Users\Admin\documents\visual studio 2010\Projects\GadgeteerApp4\GadgeteerApp4\bin\Debug\LE\GTM.GHIElectronics.LEDStrip.pe
+C:\Users\Admin\documents\visual studio 2010\Projects\GadgeteerApp4\GadgeteerApp4\bin\Debug\BE\GTM.GHIElectronics.LEDStrip.pe
+C:\Users\Admin\documents\visual studio 2010\Projects\GadgeteerApp4\GadgeteerApp4\bin\Debug\LE\GTM.GHIElectronics.LEDStrip.pdbx
+C:\Users\Admin\documents\visual studio 2010\Projects\GadgeteerApp4\GadgeteerApp4\bin\Debug\BE\GTM.GHIElectronics.LEDStrip.pdbx
+C:\Users\Admin\documents\visual studio 2010\Projects\GadgeteerApp4\GadgeteerApp4\bin\Debug\GTM.GHIElectronics.LEDStrip.dll
+C:\Users\Admin\documents\visual studio 2010\Projects\GadgeteerApp4\GadgeteerApp4\bin\Debug\GTM.GHIElectronics.LEDStrip.xml
+C:\Users\Admin\documents\visual studio 2010\Projects\GadgeteerApp4\GadgeteerApp4\obj\Debug\TinyCLR_DebugReferences.cache
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\LaikmatisG400\GadgeteerApp4\bin\Debug\le\GadgeteerApp4.exe
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\LaikmatisG400\GadgeteerApp4\bin\Debug\be\GadgeteerApp4.exe
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\LaikmatisG400\GadgeteerApp4\bin\Debug\le\GadgeteerApp4.pdb
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\LaikmatisG400\GadgeteerApp4\bin\Debug\be\GadgeteerApp4.pdb
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\LaikmatisG400\GadgeteerApp4\bin\Debug\GadgeteerApp4.exe
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\LaikmatisG400\GadgeteerApp4\bin\Debug\GadgeteerApp4.pdb
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\LaikmatisG400\GadgeteerApp4\bin\Debug\le\GadgeteerApp4.pe
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\LaikmatisG400\GadgeteerApp4\bin\Debug\le\GadgeteerApp4.pdbx
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\LaikmatisG400\GadgeteerApp4\bin\Debug\be\GadgeteerApp4.pe
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\LaikmatisG400\GadgeteerApp4\bin\Debug\be\GadgeteerApp4.pdbx
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\LaikmatisG400\GadgeteerApp4\bin\Debug\LE\Gadgeteer.pe
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\LaikmatisG400\GadgeteerApp4\bin\Debug\LE\Gadgeteer.Serial.pe
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\LaikmatisG400\GadgeteerApp4\bin\Debug\LE\GHI.Hardware.pe
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\LaikmatisG400\GadgeteerApp4\bin\Debug\LE\GHI.Usb.pe
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\LaikmatisG400\GadgeteerApp4\bin\Debug\LE\GHIElectronics.Gadgeteer.FEZRaptor.pe
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\LaikmatisG400\GadgeteerApp4\bin\Debug\LE\GTM.GHIElectronics.AccelG248.pe
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\LaikmatisG400\GadgeteerApp4\bin\Debug\LE\GTM.GHIElectronics.Button.pe
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\LaikmatisG400\GadgeteerApp4\bin\Debug\LE\GTM.GHIElectronics.Camera.pe
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\LaikmatisG400\GadgeteerApp4\bin\Debug\LE\GTM.GHIElectronics.DisplayT43.pe
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\LaikmatisG400\GadgeteerApp4\bin\Debug\LE\GTM.GHIElectronics.Extender.pe
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\LaikmatisG400\GadgeteerApp4\bin\Debug\LE\GTM.GHIElectronics.Joystick.pe
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\LaikmatisG400\GadgeteerApp4\bin\Debug\LE\GTM.GHIElectronics.LED7C.pe
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\LaikmatisG400\GadgeteerApp4\bin\Debug\LE\GTM.GHIElectronics.LED7R.pe
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\LaikmatisG400\GadgeteerApp4\bin\Debug\LE\GTM.GHIElectronics.LEDStrip.pe
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\LaikmatisG400\GadgeteerApp4\bin\Debug\LE\GTM.GHIElectronics.LightSense.pe
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\LaikmatisG400\GadgeteerApp4\bin\Debug\LE\GTM.GHIElectronics.SDCard.pe
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\LaikmatisG400\GadgeteerApp4\bin\Debug\LE\GTM.GHIElectronics.SerialCameraL1.pe
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\LaikmatisG400\GadgeteerApp4\bin\Debug\LE\GTM.GHIElectronics.TempHumidity.pe
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\LaikmatisG400\GadgeteerApp4\bin\Debug\LE\GTM.GHIElectronics.USBClientDP.pe
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\LaikmatisG400\GadgeteerApp4\bin\Debug\BE\Gadgeteer.pe
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\LaikmatisG400\GadgeteerApp4\bin\Debug\BE\Gadgeteer.Serial.pe
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\LaikmatisG400\GadgeteerApp4\bin\Debug\BE\GHI.Hardware.pe
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\LaikmatisG400\GadgeteerApp4\bin\Debug\BE\GHI.Usb.pe
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\LaikmatisG400\GadgeteerApp4\bin\Debug\BE\GHIElectronics.Gadgeteer.FEZRaptor.pe
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\LaikmatisG400\GadgeteerApp4\bin\Debug\BE\GTM.GHIElectronics.AccelG248.pe
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\LaikmatisG400\GadgeteerApp4\bin\Debug\BE\GTM.GHIElectronics.Button.pe
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\LaikmatisG400\GadgeteerApp4\bin\Debug\BE\GTM.GHIElectronics.Camera.pe
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\LaikmatisG400\GadgeteerApp4\bin\Debug\BE\GTM.GHIElectronics.DisplayT43.pe
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\LaikmatisG400\GadgeteerApp4\bin\Debug\BE\GTM.GHIElectronics.Extender.pe
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\LaikmatisG400\GadgeteerApp4\bin\Debug\BE\GTM.GHIElectronics.Joystick.pe
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\LaikmatisG400\GadgeteerApp4\bin\Debug\BE\GTM.GHIElectronics.LED7C.pe
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\LaikmatisG400\GadgeteerApp4\bin\Debug\BE\GTM.GHIElectronics.LED7R.pe
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\LaikmatisG400\GadgeteerApp4\bin\Debug\BE\GTM.GHIElectronics.LEDStrip.pe
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\LaikmatisG400\GadgeteerApp4\bin\Debug\BE\GTM.GHIElectronics.LightSense.pe
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\LaikmatisG400\GadgeteerApp4\bin\Debug\BE\GTM.GHIElectronics.SDCard.pe
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\LaikmatisG400\GadgeteerApp4\bin\Debug\BE\GTM.GHIElectronics.SerialCameraL1.pe
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\LaikmatisG400\GadgeteerApp4\bin\Debug\BE\GTM.GHIElectronics.TempHumidity.pe
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\LaikmatisG400\GadgeteerApp4\bin\Debug\BE\GTM.GHIElectronics.USBClientDP.pe
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\LaikmatisG400\GadgeteerApp4\bin\Debug\LE\Gadgeteer.pdbx
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\LaikmatisG400\GadgeteerApp4\bin\Debug\LE\Gadgeteer.Serial.pdbx
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\LaikmatisG400\GadgeteerApp4\bin\Debug\LE\GHI.Hardware.pdbx
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\LaikmatisG400\GadgeteerApp4\bin\Debug\LE\GHI.Usb.pdbx
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\LaikmatisG400\GadgeteerApp4\bin\Debug\LE\GHIElectronics.Gadgeteer.FEZRaptor.pdbx
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\LaikmatisG400\GadgeteerApp4\bin\Debug\LE\GTM.GHIElectronics.AccelG248.pdbx
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\LaikmatisG400\GadgeteerApp4\bin\Debug\LE\GTM.GHIElectronics.Button.pdbx
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\LaikmatisG400\GadgeteerApp4\bin\Debug\LE\GTM.GHIElectronics.Camera.pdbx
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\LaikmatisG400\GadgeteerApp4\bin\Debug\LE\GTM.GHIElectronics.DisplayT43.pdbx
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\LaikmatisG400\GadgeteerApp4\bin\Debug\LE\GTM.GHIElectronics.Extender.pdbx
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\LaikmatisG400\GadgeteerApp4\bin\Debug\LE\GTM.GHIElectronics.Joystick.pdbx
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\LaikmatisG400\GadgeteerApp4\bin\Debug\LE\GTM.GHIElectronics.LED7C.pdbx
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\LaikmatisG400\GadgeteerApp4\bin\Debug\LE\GTM.GHIElectronics.LED7R.pdbx
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\LaikmatisG400\GadgeteerApp4\bin\Debug\LE\GTM.GHIElectronics.LEDStrip.pdbx
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\LaikmatisG400\GadgeteerApp4\bin\Debug\LE\GTM.GHIElectronics.LightSense.pdbx
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\LaikmatisG400\GadgeteerApp4\bin\Debug\LE\GTM.GHIElectronics.SDCard.pdbx
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\LaikmatisG400\GadgeteerApp4\bin\Debug\LE\GTM.GHIElectronics.SerialCameraL1.pdbx
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\LaikmatisG400\GadgeteerApp4\bin\Debug\LE\GTM.GHIElectronics.TempHumidity.pdbx
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\LaikmatisG400\GadgeteerApp4\bin\Debug\LE\GTM.GHIElectronics.USBClientDP.pdbx
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\LaikmatisG400\GadgeteerApp4\bin\Debug\BE\Gadgeteer.pdbx
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\LaikmatisG400\GadgeteerApp4\bin\Debug\BE\Gadgeteer.Serial.pdbx
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\LaikmatisG400\GadgeteerApp4\bin\Debug\BE\GHI.Hardware.pdbx
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\LaikmatisG400\GadgeteerApp4\bin\Debug\BE\GHI.Usb.pdbx
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\LaikmatisG400\GadgeteerApp4\bin\Debug\BE\GHIElectronics.Gadgeteer.FEZRaptor.pdbx
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\LaikmatisG400\GadgeteerApp4\bin\Debug\BE\GTM.GHIElectronics.AccelG248.pdbx
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\LaikmatisG400\GadgeteerApp4\bin\Debug\BE\GTM.GHIElectronics.Button.pdbx
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\LaikmatisG400\GadgeteerApp4\bin\Debug\BE\GTM.GHIElectronics.Camera.pdbx
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\LaikmatisG400\GadgeteerApp4\bin\Debug\BE\GTM.GHIElectronics.DisplayT43.pdbx
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\LaikmatisG400\GadgeteerApp4\bin\Debug\BE\GTM.GHIElectronics.Extender.pdbx
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\LaikmatisG400\GadgeteerApp4\bin\Debug\BE\GTM.GHIElectronics.Joystick.pdbx
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\LaikmatisG400\GadgeteerApp4\bin\Debug\BE\GTM.GHIElectronics.LED7C.pdbx
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\LaikmatisG400\GadgeteerApp4\bin\Debug\BE\GTM.GHIElectronics.LED7R.pdbx
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\LaikmatisG400\GadgeteerApp4\bin\Debug\BE\GTM.GHIElectronics.LEDStrip.pdbx
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\LaikmatisG400\GadgeteerApp4\bin\Debug\BE\GTM.GHIElectronics.LightSense.pdbx
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\LaikmatisG400\GadgeteerApp4\bin\Debug\BE\GTM.GHIElectronics.SDCard.pdbx
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\LaikmatisG400\GadgeteerApp4\bin\Debug\BE\GTM.GHIElectronics.SerialCameraL1.pdbx
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\LaikmatisG400\GadgeteerApp4\bin\Debug\BE\GTM.GHIElectronics.TempHumidity.pdbx
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\LaikmatisG400\GadgeteerApp4\bin\Debug\BE\GTM.GHIElectronics.USBClientDP.pdbx
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\LaikmatisG400\GadgeteerApp4\bin\Debug\Gadgeteer.dll
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\LaikmatisG400\GadgeteerApp4\bin\Debug\Gadgeteer.Serial.dll
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\LaikmatisG400\GadgeteerApp4\bin\Debug\GHI.Hardware.dll
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\LaikmatisG400\GadgeteerApp4\bin\Debug\GHI.Usb.dll
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\LaikmatisG400\GadgeteerApp4\bin\Debug\GHIElectronics.Gadgeteer.FEZRaptor.dll
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\LaikmatisG400\GadgeteerApp4\bin\Debug\GTM.GHIElectronics.AccelG248.dll
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\LaikmatisG400\GadgeteerApp4\bin\Debug\GTM.GHIElectronics.Button.dll
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\LaikmatisG400\GadgeteerApp4\bin\Debug\GTM.GHIElectronics.Camera.dll
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\LaikmatisG400\GadgeteerApp4\bin\Debug\GTM.GHIElectronics.DisplayT43.dll
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\LaikmatisG400\GadgeteerApp4\bin\Debug\GTM.GHIElectronics.Extender.dll
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\LaikmatisG400\GadgeteerApp4\bin\Debug\GTM.GHIElectronics.Joystick.dll
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\LaikmatisG400\GadgeteerApp4\bin\Debug\GTM.GHIElectronics.LED7C.dll
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\LaikmatisG400\GadgeteerApp4\bin\Debug\GTM.GHIElectronics.LED7R.dll
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\LaikmatisG400\GadgeteerApp4\bin\Debug\GTM.GHIElectronics.LEDStrip.dll
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\LaikmatisG400\GadgeteerApp4\bin\Debug\GTM.GHIElectronics.LightSense.dll
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\LaikmatisG400\GadgeteerApp4\bin\Debug\GTM.GHIElectronics.SDCard.dll
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\LaikmatisG400\GadgeteerApp4\bin\Debug\GTM.GHIElectronics.SerialCameraL1.dll
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\LaikmatisG400\GadgeteerApp4\bin\Debug\GTM.GHIElectronics.TempHumidity.dll
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\LaikmatisG400\GadgeteerApp4\bin\Debug\GTM.GHIElectronics.USBClientDP.dll
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\LaikmatisG400\GadgeteerApp4\bin\Debug\Gadgeteer.pdb
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\LaikmatisG400\GadgeteerApp4\bin\Debug\Gadgeteer.xml
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\LaikmatisG400\GadgeteerApp4\bin\Debug\Gadgeteer.Serial.pdb
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\LaikmatisG400\GadgeteerApp4\bin\Debug\Gadgeteer.Serial.xml
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\LaikmatisG400\GadgeteerApp4\bin\Debug\GHI.Hardware.xml
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\LaikmatisG400\GadgeteerApp4\bin\Debug\GHI.Usb.xml
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\LaikmatisG400\GadgeteerApp4\bin\Debug\GHIElectronics.Gadgeteer.FEZRaptor.xml
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\LaikmatisG400\GadgeteerApp4\bin\Debug\GTM.GHIElectronics.AccelG248.xml
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\LaikmatisG400\GadgeteerApp4\bin\Debug\GTM.GHIElectronics.Button.xml
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\LaikmatisG400\GadgeteerApp4\bin\Debug\GTM.GHIElectronics.Camera.xml
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\LaikmatisG400\GadgeteerApp4\bin\Debug\GTM.GHIElectronics.DisplayT43.xml
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\LaikmatisG400\GadgeteerApp4\bin\Debug\GTM.GHIElectronics.Extender.xml
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\LaikmatisG400\GadgeteerApp4\bin\Debug\GTM.GHIElectronics.Joystick.xml
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\LaikmatisG400\GadgeteerApp4\bin\Debug\GTM.GHIElectronics.LED7C.xml
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\LaikmatisG400\GadgeteerApp4\bin\Debug\GTM.GHIElectronics.LED7R.xml
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\LaikmatisG400\GadgeteerApp4\bin\Debug\GTM.GHIElectronics.LEDStrip.xml
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\LaikmatisG400\GadgeteerApp4\bin\Debug\GTM.GHIElectronics.LightSense.xml
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\LaikmatisG400\GadgeteerApp4\bin\Debug\GTM.GHIElectronics.SDCard.xml
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\LaikmatisG400\GadgeteerApp4\bin\Debug\GTM.GHIElectronics.SerialCameraL1.xml
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\LaikmatisG400\GadgeteerApp4\bin\Debug\GTM.GHIElectronics.TempHumidity.xml
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\LaikmatisG400\GadgeteerApp4\bin\Debug\GTM.GHIElectronics.USBClientDP.xml
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\LaikmatisG400\GadgeteerApp4\obj\Debug\GadgeteerApp4.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\LaikmatisG400\GadgeteerApp4\obj\Debug\TinyCLR_DebugReferences.cache
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\LaikmatisG400\GadgeteerApp4\obj\Debug\GadgeteerApp4.Resources.resources
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\LaikmatisG400\GadgeteerApp4\obj\Debug\GadgeteerApp4.csproj.GenerateResource.Cache
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\LaikmatisG400\GadgeteerApp4\obj\Debug\GadgeteerApp4.Resources.tinyresources
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\LaikmatisG400\GadgeteerApp4\obj\Debug\TinyResGen.cache
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\LaikmatisG400\GadgeteerApp4\obj\Debug\be\GadgeteerApp4.pe
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\LaikmatisG400\GadgeteerApp4\obj\Debug\be\GadgeteerApp4.pdbx
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\LaikmatisG400\GadgeteerApp4\obj\Debug\le\GadgeteerApp4.pe
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\LaikmatisG400\GadgeteerApp4\obj\Debug\le\GadgeteerApp4.pdbx
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\LaikmatisG400\GadgeteerApp4\obj\Debug\GadgeteerApp4.exe
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\LaikmatisG400\GadgeteerApp4\obj\Debug\GadgeteerApp4.pdb
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\LaikmatisWithoutHubG400\GadgeteerApp4\obj\Debug\GadgeteerApp4.Resources.resources
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\LaikmatisWithoutHubG400\GadgeteerApp4\obj\Debug\GadgeteerApp4.csproj.GenerateResource.Cache
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\LaikmatisWithoutHubG400\GadgeteerApp4\obj\Debug\GadgeteerApp4.Resources.tinyresources
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\LaikmatisWithoutHubG400\GadgeteerApp4\obj\Debug\TinyResGen.cache
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\le\GadgeteerApp4.exe
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\be\GadgeteerApp4.exe
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\le\GadgeteerApp4.pdb
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\be\GadgeteerApp4.pdb
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\GadgeteerApp4.exe
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\GadgeteerApp4.pdb
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\le\GadgeteerApp4.pe
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\le\GadgeteerApp4.pdbx
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\be\GadgeteerApp4.pe
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\be\GadgeteerApp4.pdbx
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\LE\Gadgeteer.pe
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\LE\Gadgeteer.Serial.pe
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\LE\GHI.Hardware.pe
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\LE\GHI.Usb.pe
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\LE\GHIElectronics.Gadgeteer.FEZRaptor.pe
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\LE\GTM.GHIElectronics.AccelG248.pe
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\LE\GTM.GHIElectronics.Button.pe
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\LE\GTM.GHIElectronics.Camera.pe
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\LE\GTM.GHIElectronics.DisplayT43.pe
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\LE\GTM.GHIElectronics.Extender.pe
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\LE\GTM.GHIElectronics.Joystick.pe
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\LE\GTM.GHIElectronics.LED7C.pe
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\LE\GTM.GHIElectronics.LED7R.pe
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\LE\GTM.GHIElectronics.LEDStrip.pe
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\LE\GTM.GHIElectronics.LightSense.pe
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\LE\GTM.GHIElectronics.Potentiometer.pe
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\LE\GTM.GHIElectronics.SDCard.pe
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\LE\GTM.GHIElectronics.SerialCameraL1.pe
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\LE\GTM.GHIElectronics.TempHumidity.pe
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\LE\GTM.GHIElectronics.USBClientDP.pe
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\BE\Gadgeteer.pe
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\BE\Gadgeteer.Serial.pe
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\BE\GHI.Hardware.pe
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\BE\GHI.Usb.pe
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\BE\GHIElectronics.Gadgeteer.FEZRaptor.pe
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\BE\GTM.GHIElectronics.AccelG248.pe
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\BE\GTM.GHIElectronics.Button.pe
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\BE\GTM.GHIElectronics.Camera.pe
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\BE\GTM.GHIElectronics.DisplayT43.pe
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\BE\GTM.GHIElectronics.Extender.pe
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\BE\GTM.GHIElectronics.Joystick.pe
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\BE\GTM.GHIElectronics.LED7C.pe
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\BE\GTM.GHIElectronics.LED7R.pe
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\BE\GTM.GHIElectronics.LEDStrip.pe
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\BE\GTM.GHIElectronics.LightSense.pe
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\BE\GTM.GHIElectronics.Potentiometer.pe
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\BE\GTM.GHIElectronics.SDCard.pe
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\BE\GTM.GHIElectronics.SerialCameraL1.pe
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\BE\GTM.GHIElectronics.TempHumidity.pe
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\BE\GTM.GHIElectronics.USBClientDP.pe
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\LE\Gadgeteer.pdbx
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\LE\Gadgeteer.Serial.pdbx
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\LE\GHI.Hardware.pdbx
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\LE\GHI.Usb.pdbx
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\LE\GHIElectronics.Gadgeteer.FEZRaptor.pdbx
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\LE\GTM.GHIElectronics.AccelG248.pdbx
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\LE\GTM.GHIElectronics.Button.pdbx
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\LE\GTM.GHIElectronics.Camera.pdbx
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\LE\GTM.GHIElectronics.DisplayT43.pdbx
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\LE\GTM.GHIElectronics.Extender.pdbx
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\LE\GTM.GHIElectronics.Joystick.pdbx
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\LE\GTM.GHIElectronics.LED7C.pdbx
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\LE\GTM.GHIElectronics.LED7R.pdbx
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\LE\GTM.GHIElectronics.LEDStrip.pdbx
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\LE\GTM.GHIElectronics.LightSense.pdbx
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\LE\GTM.GHIElectronics.Potentiometer.pdbx
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\LE\GTM.GHIElectronics.SDCard.pdbx
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\LE\GTM.GHIElectronics.SerialCameraL1.pdbx
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\LE\GTM.GHIElectronics.TempHumidity.pdbx
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\LE\GTM.GHIElectronics.USBClientDP.pdbx
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\BE\Gadgeteer.pdbx
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\BE\Gadgeteer.Serial.pdbx
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\BE\GHI.Hardware.pdbx
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\BE\GHI.Usb.pdbx
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\BE\GHIElectronics.Gadgeteer.FEZRaptor.pdbx
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\BE\GTM.GHIElectronics.AccelG248.pdbx
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\BE\GTM.GHIElectronics.Button.pdbx
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\BE\GTM.GHIElectronics.Camera.pdbx
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\BE\GTM.GHIElectronics.DisplayT43.pdbx
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\BE\GTM.GHIElectronics.Extender.pdbx
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\BE\GTM.GHIElectronics.Joystick.pdbx
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\BE\GTM.GHIElectronics.LED7C.pdbx
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\BE\GTM.GHIElectronics.LED7R.pdbx
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\BE\GTM.GHIElectronics.LEDStrip.pdbx
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\BE\GTM.GHIElectronics.LightSense.pdbx
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\BE\GTM.GHIElectronics.Potentiometer.pdbx
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\BE\GTM.GHIElectronics.SDCard.pdbx
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\BE\GTM.GHIElectronics.SerialCameraL1.pdbx
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\BE\GTM.GHIElectronics.TempHumidity.pdbx
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\BE\GTM.GHIElectronics.USBClientDP.pdbx
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\Gadgeteer.dll
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\Gadgeteer.Serial.dll
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\GHI.Hardware.dll
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\GHI.Usb.dll
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\GHIElectronics.Gadgeteer.FEZRaptor.dll
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\GTM.GHIElectronics.AccelG248.dll
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\GTM.GHIElectronics.Button.dll
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\GTM.GHIElectronics.Camera.dll
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\GTM.GHIElectronics.DisplayT43.dll
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\GTM.GHIElectronics.Extender.dll
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\GTM.GHIElectronics.Joystick.dll
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\GTM.GHIElectronics.LED7C.dll
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\GTM.GHIElectronics.LED7R.dll
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\GTM.GHIElectronics.LEDStrip.dll
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\GTM.GHIElectronics.LightSense.dll
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\GTM.GHIElectronics.Potentiometer.dll
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\GTM.GHIElectronics.SDCard.dll
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\GTM.GHIElectronics.SerialCameraL1.dll
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\GTM.GHIElectronics.TempHumidity.dll
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\GTM.GHIElectronics.USBClientDP.dll
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\Gadgeteer.pdb
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\Gadgeteer.xml
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\Gadgeteer.Serial.pdb
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\Gadgeteer.Serial.xml
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\GHI.Hardware.xml
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\GHI.Usb.xml
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\GHIElectronics.Gadgeteer.FEZRaptor.xml
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\GTM.GHIElectronics.AccelG248.xml
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\GTM.GHIElectronics.Button.xml
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\GTM.GHIElectronics.Camera.xml
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\GTM.GHIElectronics.DisplayT43.xml
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\GTM.GHIElectronics.Extender.xml
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\GTM.GHIElectronics.Joystick.xml
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\GTM.GHIElectronics.LED7C.xml
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\GTM.GHIElectronics.LED7R.xml
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\GTM.GHIElectronics.LEDStrip.xml
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\GTM.GHIElectronics.LightSense.xml
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\GTM.GHIElectronics.Potentiometer.xml
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\GTM.GHIElectronics.SDCard.xml
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\GTM.GHIElectronics.SerialCameraL1.xml
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\GTM.GHIElectronics.TempHumidity.xml
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\GTM.GHIElectronics.USBClientDP.xml
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\LaikmatisWithoutHubG400\GadgeteerApp4\obj\Debug\be\GadgeteerApp4.pe
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\LaikmatisWithoutHubG400\GadgeteerApp4\obj\Debug\be\GadgeteerApp4.pdbx
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\LaikmatisWithoutHubG400\GadgeteerApp4\obj\Debug\le\GadgeteerApp4.pe
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\LaikmatisWithoutHubG400\GadgeteerApp4\obj\Debug\le\GadgeteerApp4.pdbx
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\LaikmatisWithoutHubG400\GadgeteerApp4\obj\Debug\GadgeteerApp4.exe
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\LaikmatisWithoutHubG400\GadgeteerApp4\obj\Debug\GadgeteerApp4.pdb
+C:\Users\Admin\Documents\Visual Studio 2010\Projects\LaikmatisWithoutHubG400\GadgeteerApp4\obj\Debug\TinyCLR_DebugReferences.cache
+C:\Users\jevge_000\Documents\32GB Toldinas\2014 Moduliai\.NET Gadgeteer\2017-07-25 FEZ Raptor\VS2010Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\le\GadgeteerApp4.exe
+C:\Users\jevge_000\Documents\32GB Toldinas\2014 Moduliai\.NET Gadgeteer\2017-07-25 FEZ Raptor\VS2010Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\be\GadgeteerApp4.exe
+C:\Users\jevge_000\Documents\32GB Toldinas\2014 Moduliai\.NET Gadgeteer\2017-07-25 FEZ Raptor\VS2010Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\le\GadgeteerApp4.pdb
+C:\Users\jevge_000\Documents\32GB Toldinas\2014 Moduliai\.NET Gadgeteer\2017-07-25 FEZ Raptor\VS2010Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\be\GadgeteerApp4.pdb
+C:\Users\jevge_000\Documents\32GB Toldinas\2014 Moduliai\.NET Gadgeteer\2017-07-25 FEZ Raptor\VS2010Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\GadgeteerApp4.exe
+C:\Users\jevge_000\Documents\32GB Toldinas\2014 Moduliai\.NET Gadgeteer\2017-07-25 FEZ Raptor\VS2010Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\GadgeteerApp4.pdb
+C:\Users\jevge_000\Documents\32GB Toldinas\2014 Moduliai\.NET Gadgeteer\2017-07-25 FEZ Raptor\VS2010Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\le\GadgeteerApp4.pe
+C:\Users\jevge_000\Documents\32GB Toldinas\2014 Moduliai\.NET Gadgeteer\2017-07-25 FEZ Raptor\VS2010Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\le\GadgeteerApp4.pdbx
+C:\Users\jevge_000\Documents\32GB Toldinas\2014 Moduliai\.NET Gadgeteer\2017-07-25 FEZ Raptor\VS2010Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\be\GadgeteerApp4.pe
+C:\Users\jevge_000\Documents\32GB Toldinas\2014 Moduliai\.NET Gadgeteer\2017-07-25 FEZ Raptor\VS2010Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\be\GadgeteerApp4.pdbx
+C:\Users\jevge_000\Documents\32GB Toldinas\2014 Moduliai\.NET Gadgeteer\2017-07-25 FEZ Raptor\VS2010Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\LE\Gadgeteer.pe
+C:\Users\jevge_000\Documents\32GB Toldinas\2014 Moduliai\.NET Gadgeteer\2017-07-25 FEZ Raptor\VS2010Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\LE\Gadgeteer.Serial.pe
+C:\Users\jevge_000\Documents\32GB Toldinas\2014 Moduliai\.NET Gadgeteer\2017-07-25 FEZ Raptor\VS2010Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\LE\GHI.Hardware.pe
+C:\Users\jevge_000\Documents\32GB Toldinas\2014 Moduliai\.NET Gadgeteer\2017-07-25 FEZ Raptor\VS2010Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\LE\GHI.Usb.pe
+C:\Users\jevge_000\Documents\32GB Toldinas\2014 Moduliai\.NET Gadgeteer\2017-07-25 FEZ Raptor\VS2010Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\LE\GHIElectronics.Gadgeteer.FEZRaptor.pe
+C:\Users\jevge_000\Documents\32GB Toldinas\2014 Moduliai\.NET Gadgeteer\2017-07-25 FEZ Raptor\VS2010Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\LE\GTM.GHIElectronics.AccelG248.pe
+C:\Users\jevge_000\Documents\32GB Toldinas\2014 Moduliai\.NET Gadgeteer\2017-07-25 FEZ Raptor\VS2010Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\LE\GTM.GHIElectronics.Button.pe
+C:\Users\jevge_000\Documents\32GB Toldinas\2014 Moduliai\.NET Gadgeteer\2017-07-25 FEZ Raptor\VS2010Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\LE\GTM.GHIElectronics.Camera.pe
+C:\Users\jevge_000\Documents\32GB Toldinas\2014 Moduliai\.NET Gadgeteer\2017-07-25 FEZ Raptor\VS2010Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\LE\GTM.GHIElectronics.DisplayT43.pe
+C:\Users\jevge_000\Documents\32GB Toldinas\2014 Moduliai\.NET Gadgeteer\2017-07-25 FEZ Raptor\VS2010Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\LE\GTM.GHIElectronics.Extender.pe
+C:\Users\jevge_000\Documents\32GB Toldinas\2014 Moduliai\.NET Gadgeteer\2017-07-25 FEZ Raptor\VS2010Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\LE\GTM.GHIElectronics.Joystick.pe
+C:\Users\jevge_000\Documents\32GB Toldinas\2014 Moduliai\.NET Gadgeteer\2017-07-25 FEZ Raptor\VS2010Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\LE\GTM.GHIElectronics.LED7C.pe
+C:\Users\jevge_000\Documents\32GB Toldinas\2014 Moduliai\.NET Gadgeteer\2017-07-25 FEZ Raptor\VS2010Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\LE\GTM.GHIElectronics.LED7R.pe
+C:\Users\jevge_000\Documents\32GB Toldinas\2014 Moduliai\.NET Gadgeteer\2017-07-25 FEZ Raptor\VS2010Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\LE\GTM.GHIElectronics.LEDStrip.pe
+C:\Users\jevge_000\Documents\32GB Toldinas\2014 Moduliai\.NET Gadgeteer\2017-07-25 FEZ Raptor\VS2010Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\LE\GTM.GHIElectronics.LightSense.pe
+C:\Users\jevge_000\Documents\32GB Toldinas\2014 Moduliai\.NET Gadgeteer\2017-07-25 FEZ Raptor\VS2010Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\LE\GTM.GHIElectronics.Potentiometer.pe
+C:\Users\jevge_000\Documents\32GB Toldinas\2014 Moduliai\.NET Gadgeteer\2017-07-25 FEZ Raptor\VS2010Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\LE\GTM.GHIElectronics.SDCard.pe
+C:\Users\jevge_000\Documents\32GB Toldinas\2014 Moduliai\.NET Gadgeteer\2017-07-25 FEZ Raptor\VS2010Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\LE\GTM.GHIElectronics.SerialCameraL1.pe
+C:\Users\jevge_000\Documents\32GB Toldinas\2014 Moduliai\.NET Gadgeteer\2017-07-25 FEZ Raptor\VS2010Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\LE\GTM.GHIElectronics.TempHumidity.pe
+C:\Users\jevge_000\Documents\32GB Toldinas\2014 Moduliai\.NET Gadgeteer\2017-07-25 FEZ Raptor\VS2010Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\LE\GTM.GHIElectronics.USBClientDP.pe
+C:\Users\jevge_000\Documents\32GB Toldinas\2014 Moduliai\.NET Gadgeteer\2017-07-25 FEZ Raptor\VS2010Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\BE\Gadgeteer.pe
+C:\Users\jevge_000\Documents\32GB Toldinas\2014 Moduliai\.NET Gadgeteer\2017-07-25 FEZ Raptor\VS2010Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\BE\Gadgeteer.Serial.pe
+C:\Users\jevge_000\Documents\32GB Toldinas\2014 Moduliai\.NET Gadgeteer\2017-07-25 FEZ Raptor\VS2010Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\BE\GHI.Hardware.pe
+C:\Users\jevge_000\Documents\32GB Toldinas\2014 Moduliai\.NET Gadgeteer\2017-07-25 FEZ Raptor\VS2010Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\BE\GHI.Usb.pe
+C:\Users\jevge_000\Documents\32GB Toldinas\2014 Moduliai\.NET Gadgeteer\2017-07-25 FEZ Raptor\VS2010Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\BE\GHIElectronics.Gadgeteer.FEZRaptor.pe
+C:\Users\jevge_000\Documents\32GB Toldinas\2014 Moduliai\.NET Gadgeteer\2017-07-25 FEZ Raptor\VS2010Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\BE\GTM.GHIElectronics.AccelG248.pe
+C:\Users\jevge_000\Documents\32GB Toldinas\2014 Moduliai\.NET Gadgeteer\2017-07-25 FEZ Raptor\VS2010Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\BE\GTM.GHIElectronics.Button.pe
+C:\Users\jevge_000\Documents\32GB Toldinas\2014 Moduliai\.NET Gadgeteer\2017-07-25 FEZ Raptor\VS2010Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\BE\GTM.GHIElectronics.Camera.pe
+C:\Users\jevge_000\Documents\32GB Toldinas\2014 Moduliai\.NET Gadgeteer\2017-07-25 FEZ Raptor\VS2010Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\BE\GTM.GHIElectronics.DisplayT43.pe
+C:\Users\jevge_000\Documents\32GB Toldinas\2014 Moduliai\.NET Gadgeteer\2017-07-25 FEZ Raptor\VS2010Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\BE\GTM.GHIElectronics.Extender.pe
+C:\Users\jevge_000\Documents\32GB Toldinas\2014 Moduliai\.NET Gadgeteer\2017-07-25 FEZ Raptor\VS2010Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\BE\GTM.GHIElectronics.Joystick.pe
+C:\Users\jevge_000\Documents\32GB Toldinas\2014 Moduliai\.NET Gadgeteer\2017-07-25 FEZ Raptor\VS2010Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\BE\GTM.GHIElectronics.LED7C.pe
+C:\Users\jevge_000\Documents\32GB Toldinas\2014 Moduliai\.NET Gadgeteer\2017-07-25 FEZ Raptor\VS2010Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\BE\GTM.GHIElectronics.LED7R.pe
+C:\Users\jevge_000\Documents\32GB Toldinas\2014 Moduliai\.NET Gadgeteer\2017-07-25 FEZ Raptor\VS2010Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\BE\GTM.GHIElectronics.LEDStrip.pe
+C:\Users\jevge_000\Documents\32GB Toldinas\2014 Moduliai\.NET Gadgeteer\2017-07-25 FEZ Raptor\VS2010Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\BE\GTM.GHIElectronics.LightSense.pe
+C:\Users\jevge_000\Documents\32GB Toldinas\2014 Moduliai\.NET Gadgeteer\2017-07-25 FEZ Raptor\VS2010Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\BE\GTM.GHIElectronics.Potentiometer.pe
+C:\Users\jevge_000\Documents\32GB Toldinas\2014 Moduliai\.NET Gadgeteer\2017-07-25 FEZ Raptor\VS2010Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\BE\GTM.GHIElectronics.SDCard.pe
+C:\Users\jevge_000\Documents\32GB Toldinas\2014 Moduliai\.NET Gadgeteer\2017-07-25 FEZ Raptor\VS2010Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\BE\GTM.GHIElectronics.SerialCameraL1.pe
+C:\Users\jevge_000\Documents\32GB Toldinas\2014 Moduliai\.NET Gadgeteer\2017-07-25 FEZ Raptor\VS2010Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\BE\GTM.GHIElectronics.TempHumidity.pe
+C:\Users\jevge_000\Documents\32GB Toldinas\2014 Moduliai\.NET Gadgeteer\2017-07-25 FEZ Raptor\VS2010Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\BE\GTM.GHIElectronics.USBClientDP.pe
+C:\Users\jevge_000\Documents\32GB Toldinas\2014 Moduliai\.NET Gadgeteer\2017-07-25 FEZ Raptor\VS2010Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\LE\Gadgeteer.pdbx
+C:\Users\jevge_000\Documents\32GB Toldinas\2014 Moduliai\.NET Gadgeteer\2017-07-25 FEZ Raptor\VS2010Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\LE\Gadgeteer.Serial.pdbx
+C:\Users\jevge_000\Documents\32GB Toldinas\2014 Moduliai\.NET Gadgeteer\2017-07-25 FEZ Raptor\VS2010Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\LE\GHI.Hardware.pdbx
+C:\Users\jevge_000\Documents\32GB Toldinas\2014 Moduliai\.NET Gadgeteer\2017-07-25 FEZ Raptor\VS2010Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\LE\GHI.Usb.pdbx
+C:\Users\jevge_000\Documents\32GB Toldinas\2014 Moduliai\.NET Gadgeteer\2017-07-25 FEZ Raptor\VS2010Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\LE\GHIElectronics.Gadgeteer.FEZRaptor.pdbx
+C:\Users\jevge_000\Documents\32GB Toldinas\2014 Moduliai\.NET Gadgeteer\2017-07-25 FEZ Raptor\VS2010Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\LE\GTM.GHIElectronics.AccelG248.pdbx
+C:\Users\jevge_000\Documents\32GB Toldinas\2014 Moduliai\.NET Gadgeteer\2017-07-25 FEZ Raptor\VS2010Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\LE\GTM.GHIElectronics.Button.pdbx
+C:\Users\jevge_000\Documents\32GB Toldinas\2014 Moduliai\.NET Gadgeteer\2017-07-25 FEZ Raptor\VS2010Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\LE\GTM.GHIElectronics.Camera.pdbx
+C:\Users\jevge_000\Documents\32GB Toldinas\2014 Moduliai\.NET Gadgeteer\2017-07-25 FEZ Raptor\VS2010Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\LE\GTM.GHIElectronics.DisplayT43.pdbx
+C:\Users\jevge_000\Documents\32GB Toldinas\2014 Moduliai\.NET Gadgeteer\2017-07-25 FEZ Raptor\VS2010Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\LE\GTM.GHIElectronics.Extender.pdbx
+C:\Users\jevge_000\Documents\32GB Toldinas\2014 Moduliai\.NET Gadgeteer\2017-07-25 FEZ Raptor\VS2010Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\LE\GTM.GHIElectronics.Joystick.pdbx
+C:\Users\jevge_000\Documents\32GB Toldinas\2014 Moduliai\.NET Gadgeteer\2017-07-25 FEZ Raptor\VS2010Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\LE\GTM.GHIElectronics.LED7C.pdbx
+C:\Users\jevge_000\Documents\32GB Toldinas\2014 Moduliai\.NET Gadgeteer\2017-07-25 FEZ Raptor\VS2010Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\LE\GTM.GHIElectronics.LED7R.pdbx
+C:\Users\jevge_000\Documents\32GB Toldinas\2014 Moduliai\.NET Gadgeteer\2017-07-25 FEZ Raptor\VS2010Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\LE\GTM.GHIElectronics.LEDStrip.pdbx
+C:\Users\jevge_000\Documents\32GB Toldinas\2014 Moduliai\.NET Gadgeteer\2017-07-25 FEZ Raptor\VS2010Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\LE\GTM.GHIElectronics.LightSense.pdbx
+C:\Users\jevge_000\Documents\32GB Toldinas\2014 Moduliai\.NET Gadgeteer\2017-07-25 FEZ Raptor\VS2010Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\LE\GTM.GHIElectronics.Potentiometer.pdbx
+C:\Users\jevge_000\Documents\32GB Toldinas\2014 Moduliai\.NET Gadgeteer\2017-07-25 FEZ Raptor\VS2010Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\LE\GTM.GHIElectronics.SDCard.pdbx
+C:\Users\jevge_000\Documents\32GB Toldinas\2014 Moduliai\.NET Gadgeteer\2017-07-25 FEZ Raptor\VS2010Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\LE\GTM.GHIElectronics.SerialCameraL1.pdbx
+C:\Users\jevge_000\Documents\32GB Toldinas\2014 Moduliai\.NET Gadgeteer\2017-07-25 FEZ Raptor\VS2010Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\LE\GTM.GHIElectronics.TempHumidity.pdbx
+C:\Users\jevge_000\Documents\32GB Toldinas\2014 Moduliai\.NET Gadgeteer\2017-07-25 FEZ Raptor\VS2010Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\LE\GTM.GHIElectronics.USBClientDP.pdbx
+C:\Users\jevge_000\Documents\32GB Toldinas\2014 Moduliai\.NET Gadgeteer\2017-07-25 FEZ Raptor\VS2010Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\BE\Gadgeteer.pdbx
+C:\Users\jevge_000\Documents\32GB Toldinas\2014 Moduliai\.NET Gadgeteer\2017-07-25 FEZ Raptor\VS2010Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\BE\Gadgeteer.Serial.pdbx
+C:\Users\jevge_000\Documents\32GB Toldinas\2014 Moduliai\.NET Gadgeteer\2017-07-25 FEZ Raptor\VS2010Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\BE\GHI.Hardware.pdbx
+C:\Users\jevge_000\Documents\32GB Toldinas\2014 Moduliai\.NET Gadgeteer\2017-07-25 FEZ Raptor\VS2010Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\BE\GHI.Usb.pdbx
+C:\Users\jevge_000\Documents\32GB Toldinas\2014 Moduliai\.NET Gadgeteer\2017-07-25 FEZ Raptor\VS2010Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\BE\GHIElectronics.Gadgeteer.FEZRaptor.pdbx
+C:\Users\jevge_000\Documents\32GB Toldinas\2014 Moduliai\.NET Gadgeteer\2017-07-25 FEZ Raptor\VS2010Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\BE\GTM.GHIElectronics.AccelG248.pdbx
+C:\Users\jevge_000\Documents\32GB Toldinas\2014 Moduliai\.NET Gadgeteer\2017-07-25 FEZ Raptor\VS2010Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\BE\GTM.GHIElectronics.Button.pdbx
+C:\Users\jevge_000\Documents\32GB Toldinas\2014 Moduliai\.NET Gadgeteer\2017-07-25 FEZ Raptor\VS2010Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\BE\GTM.GHIElectronics.Camera.pdbx
+C:\Users\jevge_000\Documents\32GB Toldinas\2014 Moduliai\.NET Gadgeteer\2017-07-25 FEZ Raptor\VS2010Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\BE\GTM.GHIElectronics.DisplayT43.pdbx
+C:\Users\jevge_000\Documents\32GB Toldinas\2014 Moduliai\.NET Gadgeteer\2017-07-25 FEZ Raptor\VS2010Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\BE\GTM.GHIElectronics.Extender.pdbx
+C:\Users\jevge_000\Documents\32GB Toldinas\2014 Moduliai\.NET Gadgeteer\2017-07-25 FEZ Raptor\VS2010Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\BE\GTM.GHIElectronics.Joystick.pdbx
+C:\Users\jevge_000\Documents\32GB Toldinas\2014 Moduliai\.NET Gadgeteer\2017-07-25 FEZ Raptor\VS2010Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\BE\GTM.GHIElectronics.LED7C.pdbx
+C:\Users\jevge_000\Documents\32GB Toldinas\2014 Moduliai\.NET Gadgeteer\2017-07-25 FEZ Raptor\VS2010Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\BE\GTM.GHIElectronics.LED7R.pdbx
+C:\Users\jevge_000\Documents\32GB Toldinas\2014 Moduliai\.NET Gadgeteer\2017-07-25 FEZ Raptor\VS2010Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\BE\GTM.GHIElectronics.LEDStrip.pdbx
+C:\Users\jevge_000\Documents\32GB Toldinas\2014 Moduliai\.NET Gadgeteer\2017-07-25 FEZ Raptor\VS2010Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\BE\GTM.GHIElectronics.LightSense.pdbx
+C:\Users\jevge_000\Documents\32GB Toldinas\2014 Moduliai\.NET Gadgeteer\2017-07-25 FEZ Raptor\VS2010Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\BE\GTM.GHIElectronics.Potentiometer.pdbx
+C:\Users\jevge_000\Documents\32GB Toldinas\2014 Moduliai\.NET Gadgeteer\2017-07-25 FEZ Raptor\VS2010Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\BE\GTM.GHIElectronics.SDCard.pdbx
+C:\Users\jevge_000\Documents\32GB Toldinas\2014 Moduliai\.NET Gadgeteer\2017-07-25 FEZ Raptor\VS2010Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\BE\GTM.GHIElectronics.SerialCameraL1.pdbx
+C:\Users\jevge_000\Documents\32GB Toldinas\2014 Moduliai\.NET Gadgeteer\2017-07-25 FEZ Raptor\VS2010Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\BE\GTM.GHIElectronics.TempHumidity.pdbx
+C:\Users\jevge_000\Documents\32GB Toldinas\2014 Moduliai\.NET Gadgeteer\2017-07-25 FEZ Raptor\VS2010Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\BE\GTM.GHIElectronics.USBClientDP.pdbx
+C:\Users\jevge_000\Documents\32GB Toldinas\2014 Moduliai\.NET Gadgeteer\2017-07-25 FEZ Raptor\VS2010Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\Gadgeteer.dll
+C:\Users\jevge_000\Documents\32GB Toldinas\2014 Moduliai\.NET Gadgeteer\2017-07-25 FEZ Raptor\VS2010Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\Gadgeteer.Serial.dll
+C:\Users\jevge_000\Documents\32GB Toldinas\2014 Moduliai\.NET Gadgeteer\2017-07-25 FEZ Raptor\VS2010Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\GHI.Hardware.dll
+C:\Users\jevge_000\Documents\32GB Toldinas\2014 Moduliai\.NET Gadgeteer\2017-07-25 FEZ Raptor\VS2010Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\GHI.Usb.dll
+C:\Users\jevge_000\Documents\32GB Toldinas\2014 Moduliai\.NET Gadgeteer\2017-07-25 FEZ Raptor\VS2010Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\GHIElectronics.Gadgeteer.FEZRaptor.dll
+C:\Users\jevge_000\Documents\32GB Toldinas\2014 Moduliai\.NET Gadgeteer\2017-07-25 FEZ Raptor\VS2010Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\GTM.GHIElectronics.AccelG248.dll
+C:\Users\jevge_000\Documents\32GB Toldinas\2014 Moduliai\.NET Gadgeteer\2017-07-25 FEZ Raptor\VS2010Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\GTM.GHIElectronics.Button.dll
+C:\Users\jevge_000\Documents\32GB Toldinas\2014 Moduliai\.NET Gadgeteer\2017-07-25 FEZ Raptor\VS2010Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\GTM.GHIElectronics.Camera.dll
+C:\Users\jevge_000\Documents\32GB Toldinas\2014 Moduliai\.NET Gadgeteer\2017-07-25 FEZ Raptor\VS2010Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\GTM.GHIElectronics.DisplayT43.dll
+C:\Users\jevge_000\Documents\32GB Toldinas\2014 Moduliai\.NET Gadgeteer\2017-07-25 FEZ Raptor\VS2010Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\GTM.GHIElectronics.Extender.dll
+C:\Users\jevge_000\Documents\32GB Toldinas\2014 Moduliai\.NET Gadgeteer\2017-07-25 FEZ Raptor\VS2010Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\GTM.GHIElectronics.Joystick.dll
+C:\Users\jevge_000\Documents\32GB Toldinas\2014 Moduliai\.NET Gadgeteer\2017-07-25 FEZ Raptor\VS2010Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\GTM.GHIElectronics.LED7C.dll
+C:\Users\jevge_000\Documents\32GB Toldinas\2014 Moduliai\.NET Gadgeteer\2017-07-25 FEZ Raptor\VS2010Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\GTM.GHIElectronics.LED7R.dll
+C:\Users\jevge_000\Documents\32GB Toldinas\2014 Moduliai\.NET Gadgeteer\2017-07-25 FEZ Raptor\VS2010Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\GTM.GHIElectronics.LEDStrip.dll
+C:\Users\jevge_000\Documents\32GB Toldinas\2014 Moduliai\.NET Gadgeteer\2017-07-25 FEZ Raptor\VS2010Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\GTM.GHIElectronics.LightSense.dll
+C:\Users\jevge_000\Documents\32GB Toldinas\2014 Moduliai\.NET Gadgeteer\2017-07-25 FEZ Raptor\VS2010Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\GTM.GHIElectronics.Potentiometer.dll
+C:\Users\jevge_000\Documents\32GB Toldinas\2014 Moduliai\.NET Gadgeteer\2017-07-25 FEZ Raptor\VS2010Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\GTM.GHIElectronics.SDCard.dll
+C:\Users\jevge_000\Documents\32GB Toldinas\2014 Moduliai\.NET Gadgeteer\2017-07-25 FEZ Raptor\VS2010Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\GTM.GHIElectronics.SerialCameraL1.dll
+C:\Users\jevge_000\Documents\32GB Toldinas\2014 Moduliai\.NET Gadgeteer\2017-07-25 FEZ Raptor\VS2010Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\GTM.GHIElectronics.TempHumidity.dll
+C:\Users\jevge_000\Documents\32GB Toldinas\2014 Moduliai\.NET Gadgeteer\2017-07-25 FEZ Raptor\VS2010Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\GTM.GHIElectronics.USBClientDP.dll
+C:\Users\jevge_000\Documents\32GB Toldinas\2014 Moduliai\.NET Gadgeteer\2017-07-25 FEZ Raptor\VS2010Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\Gadgeteer.pdb
+C:\Users\jevge_000\Documents\32GB Toldinas\2014 Moduliai\.NET Gadgeteer\2017-07-25 FEZ Raptor\VS2010Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\Gadgeteer.xml
+C:\Users\jevge_000\Documents\32GB Toldinas\2014 Moduliai\.NET Gadgeteer\2017-07-25 FEZ Raptor\VS2010Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\Gadgeteer.Serial.pdb
+C:\Users\jevge_000\Documents\32GB Toldinas\2014 Moduliai\.NET Gadgeteer\2017-07-25 FEZ Raptor\VS2010Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\Gadgeteer.Serial.xml
+C:\Users\jevge_000\Documents\32GB Toldinas\2014 Moduliai\.NET Gadgeteer\2017-07-25 FEZ Raptor\VS2010Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\GHI.Hardware.xml
+C:\Users\jevge_000\Documents\32GB Toldinas\2014 Moduliai\.NET Gadgeteer\2017-07-25 FEZ Raptor\VS2010Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\GHI.Usb.xml
+C:\Users\jevge_000\Documents\32GB Toldinas\2014 Moduliai\.NET Gadgeteer\2017-07-25 FEZ Raptor\VS2010Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\GHIElectronics.Gadgeteer.FEZRaptor.xml
+C:\Users\jevge_000\Documents\32GB Toldinas\2014 Moduliai\.NET Gadgeteer\2017-07-25 FEZ Raptor\VS2010Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\GTM.GHIElectronics.AccelG248.xml
+C:\Users\jevge_000\Documents\32GB Toldinas\2014 Moduliai\.NET Gadgeteer\2017-07-25 FEZ Raptor\VS2010Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\GTM.GHIElectronics.Button.xml
+C:\Users\jevge_000\Documents\32GB Toldinas\2014 Moduliai\.NET Gadgeteer\2017-07-25 FEZ Raptor\VS2010Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\GTM.GHIElectronics.Camera.xml
+C:\Users\jevge_000\Documents\32GB Toldinas\2014 Moduliai\.NET Gadgeteer\2017-07-25 FEZ Raptor\VS2010Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\GTM.GHIElectronics.DisplayT43.xml
+C:\Users\jevge_000\Documents\32GB Toldinas\2014 Moduliai\.NET Gadgeteer\2017-07-25 FEZ Raptor\VS2010Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\GTM.GHIElectronics.Extender.xml
+C:\Users\jevge_000\Documents\32GB Toldinas\2014 Moduliai\.NET Gadgeteer\2017-07-25 FEZ Raptor\VS2010Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\GTM.GHIElectronics.Joystick.xml
+C:\Users\jevge_000\Documents\32GB Toldinas\2014 Moduliai\.NET Gadgeteer\2017-07-25 FEZ Raptor\VS2010Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\GTM.GHIElectronics.LED7C.xml
+C:\Users\jevge_000\Documents\32GB Toldinas\2014 Moduliai\.NET Gadgeteer\2017-07-25 FEZ Raptor\VS2010Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\GTM.GHIElectronics.LED7R.xml
+C:\Users\jevge_000\Documents\32GB Toldinas\2014 Moduliai\.NET Gadgeteer\2017-07-25 FEZ Raptor\VS2010Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\GTM.GHIElectronics.LEDStrip.xml
+C:\Users\jevge_000\Documents\32GB Toldinas\2014 Moduliai\.NET Gadgeteer\2017-07-25 FEZ Raptor\VS2010Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\GTM.GHIElectronics.LightSense.xml
+C:\Users\jevge_000\Documents\32GB Toldinas\2014 Moduliai\.NET Gadgeteer\2017-07-25 FEZ Raptor\VS2010Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\GTM.GHIElectronics.Potentiometer.xml
+C:\Users\jevge_000\Documents\32GB Toldinas\2014 Moduliai\.NET Gadgeteer\2017-07-25 FEZ Raptor\VS2010Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\GTM.GHIElectronics.SDCard.xml
+C:\Users\jevge_000\Documents\32GB Toldinas\2014 Moduliai\.NET Gadgeteer\2017-07-25 FEZ Raptor\VS2010Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\GTM.GHIElectronics.SerialCameraL1.xml
+C:\Users\jevge_000\Documents\32GB Toldinas\2014 Moduliai\.NET Gadgeteer\2017-07-25 FEZ Raptor\VS2010Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\GTM.GHIElectronics.TempHumidity.xml
+C:\Users\jevge_000\Documents\32GB Toldinas\2014 Moduliai\.NET Gadgeteer\2017-07-25 FEZ Raptor\VS2010Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\GTM.GHIElectronics.USBClientDP.xml
+C:\Users\jevge_000\Documents\32GB Toldinas\2014 Moduliai\.NET Gadgeteer\2017-07-25 FEZ Raptor\VS2010Projects\LaikmatisWithoutHubG400\GadgeteerApp4\obj\Debug\GadgeteerApp4.csprojResolveAssemblyReference.cache
+C:\Users\jevge_000\Documents\32GB Toldinas\2014 Moduliai\.NET Gadgeteer\2017-07-25 FEZ Raptor\VS2010Projects\LaikmatisWithoutHubG400\GadgeteerApp4\obj\Debug\TinyCLR_DebugReferences.cache
+C:\Users\jevge_000\Documents\32GB Toldinas\2014 Moduliai\.NET Gadgeteer\2017-07-25 FEZ Raptor\VS2010Projects\LaikmatisWithoutHubG400\GadgeteerApp4\obj\Debug\GadgeteerApp4.Resources.resources
+C:\Users\jevge_000\Documents\32GB Toldinas\2014 Moduliai\.NET Gadgeteer\2017-07-25 FEZ Raptor\VS2010Projects\LaikmatisWithoutHubG400\GadgeteerApp4\obj\Debug\GadgeteerApp4.csproj.GenerateResource.Cache
+C:\Users\jevge_000\Documents\32GB Toldinas\2014 Moduliai\.NET Gadgeteer\2017-07-25 FEZ Raptor\VS2010Projects\LaikmatisWithoutHubG400\GadgeteerApp4\obj\Debug\GadgeteerApp4.Resources.tinyresources
+C:\Users\jevge_000\Documents\32GB Toldinas\2014 Moduliai\.NET Gadgeteer\2017-07-25 FEZ Raptor\VS2010Projects\LaikmatisWithoutHubG400\GadgeteerApp4\obj\Debug\TinyResGen.cache
+C:\Users\jevge_000\Documents\32GB Toldinas\2014 Moduliai\.NET Gadgeteer\2017-07-25 FEZ Raptor\VS2010Projects\LaikmatisWithoutHubG400\GadgeteerApp4\obj\Debug\be\GadgeteerApp4.pe
+C:\Users\jevge_000\Documents\32GB Toldinas\2014 Moduliai\.NET Gadgeteer\2017-07-25 FEZ Raptor\VS2010Projects\LaikmatisWithoutHubG400\GadgeteerApp4\obj\Debug\be\GadgeteerApp4.pdbx
+C:\Users\jevge_000\Documents\32GB Toldinas\2014 Moduliai\.NET Gadgeteer\2017-07-25 FEZ Raptor\VS2010Projects\LaikmatisWithoutHubG400\GadgeteerApp4\obj\Debug\le\GadgeteerApp4.pe
+C:\Users\jevge_000\Documents\32GB Toldinas\2014 Moduliai\.NET Gadgeteer\2017-07-25 FEZ Raptor\VS2010Projects\LaikmatisWithoutHubG400\GadgeteerApp4\obj\Debug\le\GadgeteerApp4.pdbx
+C:\Users\jevge_000\Documents\32GB Toldinas\2014 Moduliai\.NET Gadgeteer\2017-07-25 FEZ Raptor\VS2010Projects\LaikmatisWithoutHubG400\GadgeteerApp4\obj\Debug\GadgeteerApp4.exe
+C:\Users\jevge_000\Documents\32GB Toldinas\2014 Moduliai\.NET Gadgeteer\2017-07-25 FEZ Raptor\VS2010Projects\LaikmatisWithoutHubG400\GadgeteerApp4\obj\Debug\GadgeteerApp4.pdb
+C:\Users\eutold\Documents\Visual Studio 2010\Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\le\GadgeteerApp4.exe
+C:\Users\eutold\Documents\Visual Studio 2010\Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\be\GadgeteerApp4.exe
+C:\Users\eutold\Documents\Visual Studio 2010\Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\le\GadgeteerApp4.pdb
+C:\Users\eutold\Documents\Visual Studio 2010\Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\be\GadgeteerApp4.pdb
+C:\Users\eutold\Documents\Visual Studio 2010\Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\GadgeteerApp4.exe
+C:\Users\eutold\Documents\Visual Studio 2010\Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\GadgeteerApp4.pdb
+C:\Users\eutold\Documents\Visual Studio 2010\Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\le\GadgeteerApp4.pe
+C:\Users\eutold\Documents\Visual Studio 2010\Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\le\GadgeteerApp4.pdbx
+C:\Users\eutold\Documents\Visual Studio 2010\Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\be\GadgeteerApp4.pe
+C:\Users\eutold\Documents\Visual Studio 2010\Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\be\GadgeteerApp4.pdbx
+C:\Users\eutold\Documents\Visual Studio 2010\Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\LE\Gadgeteer.pe
+C:\Users\eutold\Documents\Visual Studio 2010\Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\LE\Gadgeteer.Serial.pe
+C:\Users\eutold\Documents\Visual Studio 2010\Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\LE\GHI.Hardware.pe
+C:\Users\eutold\Documents\Visual Studio 2010\Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\LE\GHI.Usb.pe
+C:\Users\eutold\Documents\Visual Studio 2010\Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\LE\GHIElectronics.Gadgeteer.FEZRaptor.pe
+C:\Users\eutold\Documents\Visual Studio 2010\Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\LE\GTM.GHIElectronics.AccelG248.pe
+C:\Users\eutold\Documents\Visual Studio 2010\Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\LE\GTM.GHIElectronics.Button.pe
+C:\Users\eutold\Documents\Visual Studio 2010\Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\LE\GTM.GHIElectronics.Camera.pe
+C:\Users\eutold\Documents\Visual Studio 2010\Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\LE\GTM.GHIElectronics.DisplayT43.pe
+C:\Users\eutold\Documents\Visual Studio 2010\Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\LE\GTM.GHIElectronics.Extender.pe
+C:\Users\eutold\Documents\Visual Studio 2010\Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\LE\GTM.GHIElectronics.Joystick.pe
+C:\Users\eutold\Documents\Visual Studio 2010\Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\LE\GTM.GHIElectronics.LED7C.pe
+C:\Users\eutold\Documents\Visual Studio 2010\Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\LE\GTM.GHIElectronics.LED7R.pe
+C:\Users\eutold\Documents\Visual Studio 2010\Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\LE\GTM.GHIElectronics.LEDStrip.pe
+C:\Users\eutold\Documents\Visual Studio 2010\Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\LE\GTM.GHIElectronics.LightSense.pe
+C:\Users\eutold\Documents\Visual Studio 2010\Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\LE\GTM.GHIElectronics.Potentiometer.pe
+C:\Users\eutold\Documents\Visual Studio 2010\Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\LE\GTM.GHIElectronics.SDCard.pe
+C:\Users\eutold\Documents\Visual Studio 2010\Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\LE\GTM.GHIElectronics.SerialCameraL1.pe
+C:\Users\eutold\Documents\Visual Studio 2010\Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\LE\GTM.GHIElectronics.TempHumidity.pe
+C:\Users\eutold\Documents\Visual Studio 2010\Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\LE\GTM.GHIElectronics.USBClientDP.pe
+C:\Users\eutold\Documents\Visual Studio 2010\Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\BE\Gadgeteer.pe
+C:\Users\eutold\Documents\Visual Studio 2010\Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\BE\Gadgeteer.Serial.pe
+C:\Users\eutold\Documents\Visual Studio 2010\Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\BE\GHI.Hardware.pe
+C:\Users\eutold\Documents\Visual Studio 2010\Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\BE\GHI.Usb.pe
+C:\Users\eutold\Documents\Visual Studio 2010\Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\BE\GHIElectronics.Gadgeteer.FEZRaptor.pe
+C:\Users\eutold\Documents\Visual Studio 2010\Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\BE\GTM.GHIElectronics.AccelG248.pe
+C:\Users\eutold\Documents\Visual Studio 2010\Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\BE\GTM.GHIElectronics.Button.pe
+C:\Users\eutold\Documents\Visual Studio 2010\Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\BE\GTM.GHIElectronics.Camera.pe
+C:\Users\eutold\Documents\Visual Studio 2010\Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\BE\GTM.GHIElectronics.DisplayT43.pe
+C:\Users\eutold\Documents\Visual Studio 2010\Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\BE\GTM.GHIElectronics.Extender.pe
+C:\Users\eutold\Documents\Visual Studio 2010\Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\BE\GTM.GHIElectronics.Joystick.pe
+C:\Users\eutold\Documents\Visual Studio 2010\Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\BE\GTM.GHIElectronics.LED7C.pe
+C:\Users\eutold\Documents\Visual Studio 2010\Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\BE\GTM.GHIElectronics.LED7R.pe
+C:\Users\eutold\Documents\Visual Studio 2010\Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\BE\GTM.GHIElectronics.LEDStrip.pe
+C:\Users\eutold\Documents\Visual Studio 2010\Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\BE\GTM.GHIElectronics.LightSense.pe
+C:\Users\eutold\Documents\Visual Studio 2010\Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\BE\GTM.GHIElectronics.Potentiometer.pe
+C:\Users\eutold\Documents\Visual Studio 2010\Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\BE\GTM.GHIElectronics.SDCard.pe
+C:\Users\eutold\Documents\Visual Studio 2010\Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\BE\GTM.GHIElectronics.SerialCameraL1.pe
+C:\Users\eutold\Documents\Visual Studio 2010\Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\BE\GTM.GHIElectronics.TempHumidity.pe
+C:\Users\eutold\Documents\Visual Studio 2010\Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\BE\GTM.GHIElectronics.USBClientDP.pe
+C:\Users\eutold\Documents\Visual Studio 2010\Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\LE\Gadgeteer.pdbx
+C:\Users\eutold\Documents\Visual Studio 2010\Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\LE\Gadgeteer.Serial.pdbx
+C:\Users\eutold\Documents\Visual Studio 2010\Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\LE\GHI.Hardware.pdbx
+C:\Users\eutold\Documents\Visual Studio 2010\Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\LE\GHI.Usb.pdbx
+C:\Users\eutold\Documents\Visual Studio 2010\Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\LE\GHIElectronics.Gadgeteer.FEZRaptor.pdbx
+C:\Users\eutold\Documents\Visual Studio 2010\Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\LE\GTM.GHIElectronics.AccelG248.pdbx
+C:\Users\eutold\Documents\Visual Studio 2010\Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\LE\GTM.GHIElectronics.Button.pdbx
+C:\Users\eutold\Documents\Visual Studio 2010\Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\LE\GTM.GHIElectronics.Camera.pdbx
+C:\Users\eutold\Documents\Visual Studio 2010\Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\LE\GTM.GHIElectronics.DisplayT43.pdbx
+C:\Users\eutold\Documents\Visual Studio 2010\Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\LE\GTM.GHIElectronics.Extender.pdbx
+C:\Users\eutold\Documents\Visual Studio 2010\Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\LE\GTM.GHIElectronics.Joystick.pdbx
+C:\Users\eutold\Documents\Visual Studio 2010\Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\LE\GTM.GHIElectronics.LED7C.pdbx
+C:\Users\eutold\Documents\Visual Studio 2010\Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\LE\GTM.GHIElectronics.LED7R.pdbx
+C:\Users\eutold\Documents\Visual Studio 2010\Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\LE\GTM.GHIElectronics.LEDStrip.pdbx
+C:\Users\eutold\Documents\Visual Studio 2010\Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\LE\GTM.GHIElectronics.LightSense.pdbx
+C:\Users\eutold\Documents\Visual Studio 2010\Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\LE\GTM.GHIElectronics.Potentiometer.pdbx
+C:\Users\eutold\Documents\Visual Studio 2010\Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\LE\GTM.GHIElectronics.SDCard.pdbx
+C:\Users\eutold\Documents\Visual Studio 2010\Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\LE\GTM.GHIElectronics.SerialCameraL1.pdbx
+C:\Users\eutold\Documents\Visual Studio 2010\Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\LE\GTM.GHIElectronics.TempHumidity.pdbx
+C:\Users\eutold\Documents\Visual Studio 2010\Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\LE\GTM.GHIElectronics.USBClientDP.pdbx
+C:\Users\eutold\Documents\Visual Studio 2010\Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\BE\Gadgeteer.pdbx
+C:\Users\eutold\Documents\Visual Studio 2010\Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\BE\Gadgeteer.Serial.pdbx
+C:\Users\eutold\Documents\Visual Studio 2010\Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\BE\GHI.Hardware.pdbx
+C:\Users\eutold\Documents\Visual Studio 2010\Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\BE\GHI.Usb.pdbx
+C:\Users\eutold\Documents\Visual Studio 2010\Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\BE\GHIElectronics.Gadgeteer.FEZRaptor.pdbx
+C:\Users\eutold\Documents\Visual Studio 2010\Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\BE\GTM.GHIElectronics.AccelG248.pdbx
+C:\Users\eutold\Documents\Visual Studio 2010\Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\BE\GTM.GHIElectronics.Button.pdbx
+C:\Users\eutold\Documents\Visual Studio 2010\Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\BE\GTM.GHIElectronics.Camera.pdbx
+C:\Users\eutold\Documents\Visual Studio 2010\Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\BE\GTM.GHIElectronics.DisplayT43.pdbx
+C:\Users\eutold\Documents\Visual Studio 2010\Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\BE\GTM.GHIElectronics.Extender.pdbx
+C:\Users\eutold\Documents\Visual Studio 2010\Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\BE\GTM.GHIElectronics.Joystick.pdbx
+C:\Users\eutold\Documents\Visual Studio 2010\Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\BE\GTM.GHIElectronics.LED7C.pdbx
+C:\Users\eutold\Documents\Visual Studio 2010\Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\BE\GTM.GHIElectronics.LED7R.pdbx
+C:\Users\eutold\Documents\Visual Studio 2010\Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\BE\GTM.GHIElectronics.LEDStrip.pdbx
+C:\Users\eutold\Documents\Visual Studio 2010\Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\BE\GTM.GHIElectronics.LightSense.pdbx
+C:\Users\eutold\Documents\Visual Studio 2010\Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\BE\GTM.GHIElectronics.Potentiometer.pdbx
+C:\Users\eutold\Documents\Visual Studio 2010\Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\BE\GTM.GHIElectronics.SDCard.pdbx
+C:\Users\eutold\Documents\Visual Studio 2010\Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\BE\GTM.GHIElectronics.SerialCameraL1.pdbx
+C:\Users\eutold\Documents\Visual Studio 2010\Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\BE\GTM.GHIElectronics.TempHumidity.pdbx
+C:\Users\eutold\Documents\Visual Studio 2010\Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\BE\GTM.GHIElectronics.USBClientDP.pdbx
+C:\Users\eutold\Documents\Visual Studio 2010\Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\Gadgeteer.dll
+C:\Users\eutold\Documents\Visual Studio 2010\Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\Gadgeteer.Serial.dll
+C:\Users\eutold\Documents\Visual Studio 2010\Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\GHI.Hardware.dll
+C:\Users\eutold\Documents\Visual Studio 2010\Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\GHI.Usb.dll
+C:\Users\eutold\Documents\Visual Studio 2010\Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\GHIElectronics.Gadgeteer.FEZRaptor.dll
+C:\Users\eutold\Documents\Visual Studio 2010\Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\GTM.GHIElectronics.AccelG248.dll
+C:\Users\eutold\Documents\Visual Studio 2010\Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\GTM.GHIElectronics.Button.dll
+C:\Users\eutold\Documents\Visual Studio 2010\Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\GTM.GHIElectronics.Camera.dll
+C:\Users\eutold\Documents\Visual Studio 2010\Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\GTM.GHIElectronics.DisplayT43.dll
+C:\Users\eutold\Documents\Visual Studio 2010\Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\GTM.GHIElectronics.Extender.dll
+C:\Users\eutold\Documents\Visual Studio 2010\Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\GTM.GHIElectronics.Joystick.dll
+C:\Users\eutold\Documents\Visual Studio 2010\Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\GTM.GHIElectronics.LED7C.dll
+C:\Users\eutold\Documents\Visual Studio 2010\Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\GTM.GHIElectronics.LED7R.dll
+C:\Users\eutold\Documents\Visual Studio 2010\Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\GTM.GHIElectronics.LEDStrip.dll
+C:\Users\eutold\Documents\Visual Studio 2010\Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\GTM.GHIElectronics.LightSense.dll
+C:\Users\eutold\Documents\Visual Studio 2010\Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\GTM.GHIElectronics.Potentiometer.dll
+C:\Users\eutold\Documents\Visual Studio 2010\Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\GTM.GHIElectronics.SDCard.dll
+C:\Users\eutold\Documents\Visual Studio 2010\Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\GTM.GHIElectronics.SerialCameraL1.dll
+C:\Users\eutold\Documents\Visual Studio 2010\Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\GTM.GHIElectronics.TempHumidity.dll
+C:\Users\eutold\Documents\Visual Studio 2010\Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\GTM.GHIElectronics.USBClientDP.dll
+C:\Users\eutold\Documents\Visual Studio 2010\Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\Gadgeteer.pdb
+C:\Users\eutold\Documents\Visual Studio 2010\Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\Gadgeteer.xml
+C:\Users\eutold\Documents\Visual Studio 2010\Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\Gadgeteer.Serial.pdb
+C:\Users\eutold\Documents\Visual Studio 2010\Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\Gadgeteer.Serial.xml
+C:\Users\eutold\Documents\Visual Studio 2010\Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\GHI.Hardware.xml
+C:\Users\eutold\Documents\Visual Studio 2010\Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\GHI.Usb.xml
+C:\Users\eutold\Documents\Visual Studio 2010\Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\GHIElectronics.Gadgeteer.FEZRaptor.xml
+C:\Users\eutold\Documents\Visual Studio 2010\Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\GTM.GHIElectronics.AccelG248.xml
+C:\Users\eutold\Documents\Visual Studio 2010\Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\GTM.GHIElectronics.Button.xml
+C:\Users\eutold\Documents\Visual Studio 2010\Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\GTM.GHIElectronics.Camera.xml
+C:\Users\eutold\Documents\Visual Studio 2010\Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\GTM.GHIElectronics.DisplayT43.xml
+C:\Users\eutold\Documents\Visual Studio 2010\Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\GTM.GHIElectronics.Extender.xml
+C:\Users\eutold\Documents\Visual Studio 2010\Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\GTM.GHIElectronics.Joystick.xml
+C:\Users\eutold\Documents\Visual Studio 2010\Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\GTM.GHIElectronics.LED7C.xml
+C:\Users\eutold\Documents\Visual Studio 2010\Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\GTM.GHIElectronics.LED7R.xml
+C:\Users\eutold\Documents\Visual Studio 2010\Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\GTM.GHIElectronics.LEDStrip.xml
+C:\Users\eutold\Documents\Visual Studio 2010\Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\GTM.GHIElectronics.LightSense.xml
+C:\Users\eutold\Documents\Visual Studio 2010\Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\GTM.GHIElectronics.Potentiometer.xml
+C:\Users\eutold\Documents\Visual Studio 2010\Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\GTM.GHIElectronics.SDCard.xml
+C:\Users\eutold\Documents\Visual Studio 2010\Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\GTM.GHIElectronics.SerialCameraL1.xml
+C:\Users\eutold\Documents\Visual Studio 2010\Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\GTM.GHIElectronics.TempHumidity.xml
+C:\Users\eutold\Documents\Visual Studio 2010\Projects\LaikmatisWithoutHubG400\GadgeteerApp4\bin\Debug\GTM.GHIElectronics.USBClientDP.xml
+C:\Users\eutold\Documents\Visual Studio 2010\Projects\LaikmatisWithoutHubG400\GadgeteerApp4\obj\Debug\GadgeteerApp4.csprojResolveAssemblyReference.cache
+C:\Users\eutold\Documents\Visual Studio 2010\Projects\LaikmatisWithoutHubG400\GadgeteerApp4\obj\Debug\TinyCLR_DebugReferences.cache
+C:\Users\eutold\Documents\Visual Studio 2010\Projects\LaikmatisWithoutHubG400\GadgeteerApp4\obj\Debug\GadgeteerApp4.Resources.resources
+C:\Users\eutold\Documents\Visual Studio 2010\Projects\LaikmatisWithoutHubG400\GadgeteerApp4\obj\Debug\GadgeteerApp4.csproj.GenerateResource.Cache
+C:\Users\eutold\Documents\Visual Studio 2010\Projects\LaikmatisWithoutHubG400\GadgeteerApp4\obj\Debug\GadgeteerApp4.Resources.tinyresources
+C:\Users\eutold\Documents\Visual Studio 2010\Projects\LaikmatisWithoutHubG400\GadgeteerApp4\obj\Debug\TinyResGen.cache
+C:\Users\eutold\Documents\Visual Studio 2010\Projects\LaikmatisWithoutHubG400\GadgeteerApp4\obj\Debug\be\GadgeteerApp4.pe
+C:\Users\eutold\Documents\Visual Studio 2010\Projects\LaikmatisWithoutHubG400\GadgeteerApp4\obj\Debug\be\GadgeteerApp4.pdbx
+C:\Users\eutold\Documents\Visual Studio 2010\Projects\LaikmatisWithoutHubG400\GadgeteerApp4\obj\Debug\le\GadgeteerApp4.pe
+C:\Users\eutold\Documents\Visual Studio 2010\Projects\LaikmatisWithoutHubG400\GadgeteerApp4\obj\Debug\le\GadgeteerApp4.pdbx
+C:\Users\eutold\Documents\Visual Studio 2010\Projects\LaikmatisWithoutHubG400\GadgeteerApp4\obj\Debug\GadgeteerApp4.exe
+C:\Users\eutold\Documents\Visual Studio 2010\Projects\LaikmatisWithoutHubG400\GadgeteerApp4\obj\Debug\GadgeteerApp4.pdb

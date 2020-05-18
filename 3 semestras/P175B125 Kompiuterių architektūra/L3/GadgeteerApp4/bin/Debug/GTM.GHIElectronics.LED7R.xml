@@ -1,0 +1,61 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>GTM.GHIElectronics.LED7R</name>
+    </assembly>
+    <members>
+        <member name="T:Gadgeteer.Modules.GHIElectronics.LED7R">
+            <summary>An LED7R module for Microsoft .NET Gadgeteer</summary>
+        </member>
+        <member name="M:Gadgeteer.Modules.GHIElectronics.LED7R.#ctor(System.Int32)">
+            <summary>Constructor</summary>
+            <param name="socketNumber">The socket that this module is plugged in to.</param>
+        </member>
+        <member name="M:Gadgeteer.Modules.GHIElectronics.LED7R.TurnLedOn(System.Int32)">
+            <summary>Turns the specified LED on.</summary>
+            <param name="led">The LED to turn on.</param>
+        </member>
+        <member name="M:Gadgeteer.Modules.GHIElectronics.LED7R.TurnLedOff(System.Int32)">
+            <summary>Turns the specified LED off.</summary>
+            <param name="led">The LED to turn off.</param>
+        </member>
+        <member name="M:Gadgeteer.Modules.GHIElectronics.LED7R.SetLed(System.Int32,System.Boolean)">
+            <summary>Sets the given LED to the given state.</summary>
+            <param name="led">The LED to change to set.</param>
+            <param name="state">The new LED state.</param>
+        </member>
+        <member name="M:Gadgeteer.Modules.GHIElectronics.LED7R.SetBitmask(System.UInt32)">
+            <summary>Sets the LEDs on the module to the corresponding bit in the mask.</summary>
+            <param name="mask">The bit mask to set the LEDs to.</param>
+        </member>
+        <member name="M:Gadgeteer.Modules.GHIElectronics.LED7R.TurnAllLedsOn">
+            <summary>Turns on all of the LEDs.</summary>
+        </member>
+        <member name="M:Gadgeteer.Modules.GHIElectronics.LED7R.TurnAllLedsOff">
+            <summary>Turns off all of the LEDs.</summary>
+        </member>
+        <member name="M:Gadgeteer.Modules.GHIElectronics.LED7R.SetLeds(System.Int32)">
+            <summary>Turns all of the LEDs on up until, but not including, the LED numbered by endIndex. The rest are turned off.</summary>
+            <param name="endIndex">The LED to stop before.</param>
+        </member>
+        <member name="M:Gadgeteer.Modules.GHIElectronics.LED7R.SetPercentage(System.Double)">
+            <summary>Turns on the LedCount * percentage LEDs starting at LED 0.</summary>
+            <param name="percentage">The amount of LEDs to turn on.</param>
+        </member>
+        <member name="M:Gadgeteer.Modules.GHIElectronics.LED7R.Animate(System.Int32,System.Boolean,System.Boolean,System.Boolean)">
+            <summary>Animates the lights on the board, according to the passed in values.</summary>
+            <param name="switchTime">Time between each operation in milliseconds</param>
+            <param name="clockwise">Whether or not the animation should play in a clockwise motion.</param>
+            <param name="on">Whether or not the animation should turn the lights on, false if the lights should be turned off.</param>
+            <param name="remainOn">Whether or not a light should remain on when another one is lit, false if only one light should be lit at a time.</param>
+        </member>
+        <member name="P:Gadgeteer.Modules.GHIElectronics.LED7R.LedCount">
+            <summary>The number of LEDs on the module.</summary>
+        </member>
+        <member name="P:Gadgeteer.Modules.GHIElectronics.LED7R.Item(System.Int32)">
+            <summary>The state of the given LED.</summary>
+            <param name="index">The LED whose state to get or set.</param>
+            <returns>Whether or not the LED is on or off.</returns>
+        </member>
+    </members>
+</doc>
