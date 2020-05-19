@@ -1,4 +1,0 @@
-@W: MT246 :"c:\users\gustas\documents\ktu\logika\l1\l1\impl1\uzd3.vhd":129:3:129:5|Blackbox AND4 is missing a user supplied timing model. This may have a negative effect on timing analysis and optimizations (Quality of Results) 
-@W: MT246 :"c:\users\gustas\documents\ktu\logika\l1\l1\impl1\uzd3.vhd":123:3:123:5|Blackbox AND3 is missing a user supplied timing model. This may have a negative effect on timing analysis and optimizations (Quality of Results) 
-@W: MT246 :"c:\users\gustas\documents\ktu\logika\l1\l1\impl1\uzd3.vhd":109:3:109:5|Blackbox OR3 is missing a user supplied timing model. This may have a negative effect on timing analysis and optimizations (Quality of Results) 
-@W: MT246 :"c:\users\gustas\documents\ktu\logika\l1\l1\impl1\uzd3.vhd":101:3:101:5|Blackbox OR5 is missing a user supplied timing model. This may have a negative effect on timing analysis and optimizations (Quality of Results) 

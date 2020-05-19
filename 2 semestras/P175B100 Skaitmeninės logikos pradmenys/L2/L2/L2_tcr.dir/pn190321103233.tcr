@@ -1,6 +1,0 @@
-#Start recording tcl command: 3/21/2019 09:52:12
-#Project Location: C:/Users/Gustas/Documents/KTU/Logika; Project name: L2
-prj_project new -name "L2" -impl "impl1" -dev LFXP2-5E-6TN144C -synthesis "synplify"
-prj_project save
-prj_src add "C:/Users/Gustas/Documents/KTU/Logika/uzd1.sch"
-#Stop recording: 3/21/2019 10:32:33

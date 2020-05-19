@@ -1,3 +1,0 @@
-@N: MF248 |Running in 64-bit mode.
-@N: MF666 |Clock conversion enabled. (Command "set_option -fix_gated_and_generated_clocks 1" in the project file.)
-@N: BN362 :"c:\users\gustas\documents\ktu\logika\l4\l4\m3.vhd":18:2:18:3|Removing sequential instance CNT_C (in view: work.M3(rtl)) of type view:PrimLib.dffse(prim) because it does not drive other instances.

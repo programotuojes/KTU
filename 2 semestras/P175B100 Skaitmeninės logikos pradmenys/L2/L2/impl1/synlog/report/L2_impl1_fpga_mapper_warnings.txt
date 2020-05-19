@@ -1,3 +1,0 @@
-@W: MT246 :"c:\users\gustas\documents\ktu\logika\l2\l2\impl1\uzd1.vhd":150:3:150:5|Blackbox ND2 is missing a user supplied timing model. This may have a negative effect on timing analysis and optimizations (Quality of Results) 
-@W: MT246 :"c:\users\gustas\documents\ktu\logika\l2\l2\impl1\uzd1.vhd":126:3:126:5|Blackbox ND3 is missing a user supplied timing model. This may have a negative effect on timing analysis and optimizations (Quality of Results) 
-@W: MT246 :"c:\users\gustas\documents\ktu\logika\l2\l2\impl1\uzd1.vhd":96:3:96:5|Blackbox XNOR2 is missing a user supplied timing model. This may have a negative effect on timing analysis and optimizations (Quality of Results) 
