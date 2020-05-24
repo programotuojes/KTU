@@ -1,0 +1,7 @@
+#!/bin/bash
+set `who mom likes`
+user=$1
+number=`id -u`
+group=`id -gn`
+
+echo $user $number $group

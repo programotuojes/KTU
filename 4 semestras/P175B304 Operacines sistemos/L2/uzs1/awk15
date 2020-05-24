@@ -1,0 +1,12 @@
+#!/bin/bash
+BEGIN {
+	FS = ":"
+}{
+	if ($3 ~ /(62. 40.103.217)/) {
+		packets += $5
+		bytes += $6
+	}
+} END {
+	print "Packets: " packets
+	print "Bytes: " bytes
+}

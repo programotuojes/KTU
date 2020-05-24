@@ -1,0 +1,14 @@
+#!/bin/bash
+{
+	if (NR > 1) {
+		if (max1 < $1)
+			max1 = $1
+		if (max2 < $2)
+			max2 = $2
+		if (max3 < $3)
+			max3 = $3
+	}
+} END {
+	print "Kaina\tGauta\tParduota"
+	print max1"\t"max2"\t"max3
+}

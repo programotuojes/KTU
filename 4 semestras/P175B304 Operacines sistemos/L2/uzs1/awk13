@@ -1,0 +1,6 @@
+BEGIN {
+	print "Kaina\tGauta\tParduota"
+}{
+	if ($2 == $3)
+		print $1"\t"$2"\t"$3
+}
