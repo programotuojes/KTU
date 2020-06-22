@@ -1,0 +1,6 @@
+#!/bin/bash
+a=40
+b=6
+echo $a " * " $b " = " $((a*b))
+echo $a " / " $b " = " $((a/b))
+echo $a " % " $b " = " $((a%b))

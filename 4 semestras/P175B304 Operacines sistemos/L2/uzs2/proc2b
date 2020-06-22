@@ -1,0 +1,9 @@
+#!/bin/bash
+echo -n "Enter your username: "
+read user
+echo -n "Enter your number: "
+read number
+echo -n "Enter your group: "
+read group
+
+echo $user $number $group

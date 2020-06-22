@@ -1,0 +1,7 @@
+#!/bin/bash
+echo "poziciniai argumentai="$*
+a=$1 $2
+echo "a=$a" 
+$a
+b=`$3$4`   
+echo "b=$b" 

@@ -1,0 +1,14 @@
+#!/bin/bash
+echo -n "Enter year: "
+read year
+echo -n "Enter month: "
+read month
+echo -n "Enter day: "
+read day
+
+echo $year - $month - $day
+
+a1=$((year/month))
+a2=$((year/day))
+
+echo Suma: $((a1+a2)) Liekanu sandauga: $(((year%month)*(year%day)))

@@ -1,0 +1,9 @@
+{
+	if ($3 ~ /9\/2/) {
+		count++
+		print $1,$2,$3,$5,$4
+	}
+} END {
+	print "-----"
+	print "Total: " count
+}
