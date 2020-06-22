@@ -1,4 +1,4 @@
-function parseMoney(amount) {
+export function parseMoney(amount) {
   return (amount / 100).toFixed(2);
 }
 
@@ -8,6 +8,7 @@ export function getAlignment(column) {
     case 'card_number':
     case 'phone':
     case 'age':
+    case 'Age':
     case 'bank_account':
     case 'reports_to':
     case 'shop_id':
@@ -16,10 +17,15 @@ export function getAlignment(column) {
     case 'provider_id':
     case 'customer_id':
     case 'order_id':
+    case 'Order ID':
+    case 'Customer ID':
     case 'clothes_id':
     case 'msrp':
     case 'buy_price':
     case 'price_each':
+    case 'Total price':
+    case 'Amount refunded':
+    case 'Amount of clothes':
     case 'quantity':
     case 'quantity_in_stock':
     case 'amount_refunded':
@@ -40,9 +46,12 @@ export function formatData(column, data) {
     // Falls through
     case 'msrp':
     case 'buy_price':
+    case 'Total price':
+    case 'Amount refunded':
     case 'price_each':
       return parseMoney(data) + ' €';
     case 'date_ordered':
+    case 'Date ordered':
     case 'date_shipped':
       if (data) return new Date(data).toLocaleString();
       else return 'Not shipped';
@@ -106,4 +115,8 @@ export function parseClothes(clothes) {
   clothes.buy_price = parseMoney(clothes.buy_price);
 
   return clothes;
+}
+
+export function parseReport(report) {
+
 }

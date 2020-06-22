@@ -306,6 +306,35 @@ exports.getDesignerNames = 'SELECT id, name, surname FROM designers';
 exports.getClothingTypes =
   "SELECT COLUMN_TYPE FROM information_schema.COLUMNS WHERE TABLE_NAME = 'clothes' AND COLUMN_NAME = 'type'";
 
+exports.getReport = "SELECT "
+  + "customers.id AS \"Customer ID\", "
+  + "customers.name AS Name, "
+  + "customers.surname AS Surname, "
+  + "TIMESTAMPDIFF(YEAR, customers.birthday, CURRENT_DATE()) AS Age, "
+  + "orders.id AS \"Order ID\", "
+  + "orders.date_ordered AS \"Date ordered\", "
+  + "orders.status AS Status, "
+  + "SUM(order_detail.quantity) AS \"Amount of clothes\", "
+  + "SUM(order_detail.quantity * order_detail.price_each) AS \"Total price\", "
+  + "SUM(IFNULL(order_detail.amount_refunded, 0)) AS \"Amount refunded\" "
+  + "FROM "
+  + "orders "
+  + "INNER JOIN order_detail "
+  + "ON order_detail.order_id = orders.id "
+  + "INNER JOIN clothes "
+  + "ON clothes.id = order_detail.clothes_id "
+  + "INNER JOIN customers "
+  + "ON customers.id = orders.customer_id "
+  + "GROUP BY "
+  + "orders.id "
+  + "HAVING "
+  + "? < Age AND Age < ? AND "
+  + "? < DATE(orders.date_ordered) AND DATE(orders.date_ordered) < ? AND "
+  + "Status = ? "
+  + "ORDER BY "
+  + "customers.name, "
+  + "customers.surname";
+
 exports.query = executeQuery;
 exports.saveOrder = saveOrder;
 exports.updateOrder = updateOrder;

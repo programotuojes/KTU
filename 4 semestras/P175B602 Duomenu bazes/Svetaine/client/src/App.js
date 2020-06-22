@@ -7,6 +7,7 @@ import EditDesigner from './pages/EditDesigner';
 import EditOneDesigner from './pages/EditOneDesigner';
 import EditEmployee from './pages/EditEmployee';
 import EditClothes from './pages/EditClothes';
+import Report from "./pages/Report";
 
 function App() {
   return (
@@ -14,6 +15,7 @@ function App() {
       <NavBar />
 
       <Switch>
+        <Route exact path={'/report'} component={Report} />
         <Route exact path={'/:table'} component={DBTable} />
         <Route path={'/:table/add'} component={RouteSwitch} />
         <Route exact path={'/:table/edit/:id'} component={RouteSwitch} />

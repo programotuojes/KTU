@@ -5,7 +5,7 @@ import {
   SET_DESIGNER_CLOTHING,
   UPDATE_DESIGNER_CLOTHING,
 } from '../actionTypes';
-import { apiUrl } from '../../utils/network';
+import { API_URL } from '../../utils/network';
 import { parseClothes } from '../../utils/util';
 
 export function addDesignerClothing() {
@@ -38,7 +38,7 @@ export function resetDesignerClothing() {
 
 export function fetchClothes(id) {
   return (dispatch) => {
-    fetch(`${apiUrl}/clothes/${id}`)
+    fetch(`${API_URL}/clothes/${id}`)
       .then((res) => {
         if (res.ok) return res.json();
         // TODO else show snackbar

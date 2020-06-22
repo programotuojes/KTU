@@ -5,7 +5,7 @@ import {
   SET_ORDER_DETAILS,
   UPDATE_ORDER_DETAIL,
 } from '../actionTypes';
-import { apiUrl } from '../../utils/network';
+import { API_URL } from '../../utils/network';
 import { parseOrderDetails } from '../../utils/util';
 
 export function addOrderDetail() {
@@ -39,7 +39,7 @@ export function resetOrderDetails() {
 export function fetchOrderDetails(order_id) {
   return (dispatch) => {
     // TODO check if res.ok
-    fetch(`${apiUrl}/order_detail/${order_id}`)
+    fetch(`${API_URL}/order_detail/${order_id}`)
       .then((res) => res.json())
       .then((details) => dispatch({ type: SET_ORDER_DETAILS, details: parseOrderDetails(details) }))
       .catch(() => dispatch({ type: SET_ORDER_DETAILS, details: [] }));

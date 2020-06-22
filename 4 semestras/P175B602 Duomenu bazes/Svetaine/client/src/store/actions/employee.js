@@ -1,5 +1,5 @@
 import { RESET_EMPLOYEE, SET_EMPLOYEE, UPDATE_EMPLOYEE } from '../actionTypes';
-import { apiUrl } from '../../utils/network';
+import { API_URL } from '../../utils/network';
 import { parseEmployee } from '../../utils/util';
 
 export function updateEmployee(key, value) {
@@ -18,7 +18,7 @@ export function resetEmployee() {
 
 export function fetchEmployee(id) {
   return (dispatch) => {
-    fetch(`${apiUrl}/employees/${id}`)
+    fetch(`${API_URL}/employees/${id}`)
       .then((res) => {
         if (res.ok) return res.json();
         // TODO else show snackbar

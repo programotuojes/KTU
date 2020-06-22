@@ -42,7 +42,7 @@ function OrderDetails({ clothes, index }) {
           <Grid container direction={'row'} alignItems={'center'}>
             <Grid item>
               <Grid item>
-                <FormControl required className={classes.fonrm}>
+                <FormControl required className={classes.form}>
                   <InputLabel id={'clothes-label'}>Clothes</InputLabel>
                   <Select
                     value={orderDetail.clothes_id}

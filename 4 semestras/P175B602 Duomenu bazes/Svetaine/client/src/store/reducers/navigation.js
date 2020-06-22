@@ -4,6 +4,7 @@ const initialState = {
   isSidebarOpen: false,
   title: 'DB laboratorinis',
 };
+
 export default function navigationReducer(state = initialState, action) {
   switch (action.type) {
     case SET_NAVBAR_TITLE:

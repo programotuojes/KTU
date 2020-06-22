@@ -16,7 +16,7 @@ import DeleteIcon from '@material-ui/icons/Delete';
 import Popup from '../components/Popup';
 import Grid from '@material-ui/core/Grid';
 import Fab from '@material-ui/core/Fab';
-import { apiUrl, get } from '../utils/network';
+import { API_URL, get } from '../utils/network';
 import { useDispatch } from 'react-redux';
 import { setNavbarTitle } from '../store/actions/navigation';
 
@@ -64,7 +64,7 @@ function DBTable() {
   }
 
   async function handleDelete() {
-    const response = await fetch(apiUrl + `/${table}/${selectedId}`, { method: 'DELETE' });
+    const response = await fetch(API_URL + `/${table}/${selectedId}`, { method: 'DELETE' });
     if (response.ok) setRows(rows.filter(item => item.id !== selectedId));
       else alert(await response.text());
   }
@@ -72,7 +72,7 @@ function DBTable() {
   useEffect(() => {
     dispatch(setNavbarTitle('All ' + table));
 
-    fetch(apiUrl + `/${table}/column_names`)
+    fetch(API_URL + `/${table}/column_names`)
       .then((response) => response.json())
       .then((data) => {
         let arr = data.map((name) => Object.values(name)[0]);

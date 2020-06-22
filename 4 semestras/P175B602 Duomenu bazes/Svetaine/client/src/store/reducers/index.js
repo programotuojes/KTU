@@ -5,6 +5,7 @@ import navigation from './navigation';
 import designer from './designer';
 import designerClothes from './designerClothes';
 import employee from './employee';
+import report from './report';
 
 export default combineReducers({
   order,
@@ -13,4 +14,5 @@ export default combineReducers({
   designer,
   designerClothes,
   employee,
+  report,
 });

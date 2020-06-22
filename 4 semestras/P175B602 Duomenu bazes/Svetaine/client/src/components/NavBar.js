@@ -15,6 +15,7 @@ import Divider from '@material-ui/core/Divider';
 import { useDispatch, useSelector } from 'react-redux';
 import { getNavbarTitle, isSidebarOpen } from '../store/selectors/navigation';
 import { setNavbarTitle, toggleSidebar } from '../store/actions/navigation';
+import { resetReport } from '../store/actions/report';
 
 const useStyles = makeStyles({
   appBar: {
@@ -84,11 +85,26 @@ function NavBar() {
           <ListItem button onClick={() => redirect('/employees/add', 'Add new entry to employees')}>
             <ListItemText primary={'Employee (PP1)'} />
           </ListItem>
-          <ListItem button onClick={() => redirect('/designer/add', 'Add new designer with clothes')}>
+          <ListItem
+            button
+            onClick={() => redirect('/designer/add', 'Add new designer with clothes')}
+          >
             <ListItemText primary={'Designer with clothes (SPa)'} />
           </ListItem>
           <ListItem button onClick={() => redirect('/orders/add', 'Add new entry to orders')}>
             <ListItemText primary={'Order with details (SPva)'} />
+          </ListItem>
+
+          <Divider />
+
+          <ListItem
+            button
+            onClick={() => {
+              dispatch(resetReport());
+              redirect('/report', 'Report');
+            }}
+          >
+            <ListItemText primary={'Report'} />
           </ListItem>
         </List>
       </Drawer>

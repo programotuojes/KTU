@@ -11,6 +11,14 @@ app.use(express.json());
 // Routes
 // app.use('/clothes', clothesRoutes);
 
+app.post('/api/report', (req, res) => {
+  db.query(
+    db.getReport,
+    [req.body.ageFrom, req.body.ageTo, req.body.dateFrom, req.body.dateTo, req.body.status],
+    res
+  );
+});
+
 app.get('/api/employees/names', (req, res) => {
   db.query(db.getEmployeeNames, null, res);
 });
@@ -67,7 +75,6 @@ app.post('/api/add/styles', (req, res) => {
 app.post('/api/add/designers', (req, res) => {
   db.saveDesigner(req.body, res);
 });
-
 
 app.post('/api/add/orders', (req, res) => {
   db.saveOrder(req.body, res);

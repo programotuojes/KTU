@@ -1,5 +1,5 @@
 import { RESET_DESIGNER, SET_DESIGNER, UPDATE_DESIGNER } from '../actionTypes';
-import { apiUrl } from '../../utils/network';
+import { API_URL } from '../../utils/network';
 import { parseDesigner } from '../../utils/util';
 
 export function updateDesigner(key, value) {
@@ -18,7 +18,7 @@ export function resetDesigner() {
 
 export function fetchDesigner(id) {
   return (dispatch) => {
-    fetch(`${apiUrl}/designers/${id}`)
+    fetch(`${API_URL}/designers/${id}`)
       .then((res) => {
         if (res.ok) return res.json();
         // TODO else show snackbar

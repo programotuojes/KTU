@@ -1,5 +1,5 @@
 import { RESET_ORDER, SET_ORDER, UPDATE_ORDER } from '../actionTypes';
-import { apiUrl } from '../../utils/network';
+import { API_URL } from '../../utils/network';
 import { parseOrder } from '../../utils/util';
 
 export function updateOrder(key, value) {
@@ -18,7 +18,7 @@ export function resetOrder() {
 
 export function fetchOrder(id) {
   return (dispatch) => {
-    fetch(`${apiUrl}/orders/${id}`)
+    fetch(`${API_URL}/orders/${id}`)
       .then((res) => {
         if (res.ok) return res.json();
         // TODO else show snackbar
