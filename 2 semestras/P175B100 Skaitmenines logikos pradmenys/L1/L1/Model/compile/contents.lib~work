@@ -1,6 +1,0 @@
-4
-~E 1 "./../../impl1/shema.vhd" 8 SHEMA
-~A 1 "./../../impl1/shema.vhd" 19 SCHEMATIC
-~E 1 "./../src/TestBench/shema_TB.vhd" 8 shema_tb
-~A 1 "./../src/TestBench/shema_TB.vhd" 11 TB_ARCHITECTURE
-~C 1 "./../src/TestBench/shema_TB.vhd" 84 testbench_for_shema

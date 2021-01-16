@@ -1,5 +1,0 @@
-WARNING DAGGEN_0523: "The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available."
-MESSAGE "File: c:\Users\Gustas\Documents\KTU\Logika\L4\L4\a\src\TestBench\cnt8_TB.vhd" 
-MESSAGE "Compile Entity "M1"" 
-MESSAGE "Compile Architecture "rtl" of Entity "M1"" 
-SUCCESS "Compile success 0 Errors 0 Warnings  Analysis time :  79.0 [ms]" 

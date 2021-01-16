@@ -1,1 +1,0 @@
--w -erf C:/Users/Gustas/Documents/KTU/Logika/L1/L1/bbb/compile/bbb.erf -d C:/Users/Gustas/Documents/KTU/Logika/L1/L1/bbb/compile -s C:/Users/Gustas/Documents/KTU/Logika/L1/L1/bbb/library.cfg -j C:/Users/Gustas/Documents/KTU/Logika/L1/L1/bbb/projlib.cfg -work work -O3 -e 100 -work work -2002 C:/Users/Gustas/Documents/KTU/Logika/L1/L1/bbb/src/TestBench/uzd3_TB.vhd 

@@ -1,1 +1,0 @@
-Šis projektas skirtas naudoti su Intellij programavimo aplinka

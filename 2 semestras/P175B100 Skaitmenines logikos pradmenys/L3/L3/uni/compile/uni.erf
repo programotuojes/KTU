@@ -1,8 +1,0 @@
-WARNING DAGGEN_0523: "The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available."
-MESSAGE "File: c:\Users\Gustas\Documents\KTU\Logika\L3\L3\uni\src\TestBench\uzd1_TB.vhd" 
-MESSAGE "Compile Entity "CNT8"" 
-MESSAGE "Compile Architecture "rtl" of Entity "CNT8"" 
-ERROR COMP96_0367: "Improper array length (3). Expected length is 4." "c:\Users\Gustas\Documents\KTU\Logika\L3\L3\uni\src\TestBench\uzd1_TB.vhd" 20 13
-ERROR COMP96_0367: "Improper array length (3). Expected length is 4." "c:\Users\Gustas\Documents\KTU\Logika\L3\L3\uni\src\TestBench\uzd1_TB.vhd" 32 14
-ERROR COMP96_0367: "Improper array length (4). Expected length is 3." "c:\Users\Gustas\Documents\KTU\Logika\L3\L3\uni\src\TestBench\uzd1_TB.vhd" 36 10
-FAILURE "Compile failure 3 Errors 0 Warnings  Analysis time :  78.0 [ms]" 

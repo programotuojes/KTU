@@ -1,6 +1,0 @@
-WARNING DAGGEN_0523: "The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available."
-MESSAGE "File: C:\Users\Gustas\Documents\KTU\Logika\L1\L1\b\src\TestBench\shema_TB.vhd" 
-MESSAGE "Compile Entity "shema_tb"" 
-MESSAGE "Compile Architecture "TB_ARCHITECTURE" of Entity "shema_tb"" 
-MESSAGE "Compile Configuration "TESTBENCH_FOR_shema"" 
-SUCCESS "Compile success 0 Errors 0 Warnings  Analysis time :  94.0 [ms]" 

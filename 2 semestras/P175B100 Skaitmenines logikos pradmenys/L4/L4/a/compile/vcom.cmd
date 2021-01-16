@@ -1,1 +1,0 @@
--w -erf c:/Users/Gustas/Documents/KTU/Logika/L4/L4/a/compile/a.erf -d c:/Users/Gustas/Documents/KTU/Logika/L4/L4/a/compile -s c:/Users/Gustas/Documents/KTU/Logika/L4/L4/a/library.cfg -j c:/Users/Gustas/Documents/KTU/Logika/L4/L4/a/projlib.cfg -work work -O3 -e 100 -work work -2002 c:/Users/Gustas/Documents/KTU/Logika/L4/L4/a/src/TestBench/cnt8_TB.vhd 

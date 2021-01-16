@@ -1,6 +1,0 @@
-WARNING DAGGEN_0523: "The source is compiled without the -dbg switch. Line breakpoints and assertion debug will not be available."
-MESSAGE "File: C:\Users\Gustas\Documents\KTU\Logika\L1\L1\bbb\src\TestBench\uzd3_TB.vhd" 
-MESSAGE "Compile Entity "uzd3_tb"" 
-MESSAGE "Compile Architecture "TB_ARCHITECTURE" of Entity "uzd3_tb"" 
-MESSAGE "Compile Configuration "TESTBENCH_FOR_uzd3"" 
-SUCCESS "Compile success 0 Errors 0 Warnings  Analysis time :  0.1 [s]" 

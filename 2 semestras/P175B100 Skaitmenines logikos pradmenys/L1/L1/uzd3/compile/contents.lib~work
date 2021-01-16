@@ -1,6 +1,0 @@
-7
-~C 1 "./../src/TestBench/uzd3_TB.vhd" 85 testbench_for_uzd3
-~E 1 "./../../impl1/uzd3.vhd" 8 UZD3
-~A 1 "./../../impl1/uzd3.vhd" 19 SCHEMATIC
-~E 1 "./../src/TestBench/uzd3_TB.vhd" 8 uzd3_tb
-~A 1 "./../src/TestBench/uzd3_TB.vhd" 11 TB_ARCHITECTURE
