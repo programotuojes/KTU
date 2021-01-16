@@ -1,0 +1,502 @@
+[
+    {
+        "mileage": 209823,
+        "fuelEcon": 13.9,
+        "model": "Lincoln"
+    },
+    {
+        "mileage": 108609,
+        "fuelEcon": 6.9,
+        "model": "AMC"
+    },
+    {
+        "mileage": 590417,
+        "fuelEcon": 9.6,
+        "model": "Suzuki"
+    },
+    {
+        "mileage": 46961,
+        "fuelEcon": 7.8,
+        "model": "Mitsubishi"
+    },
+    {
+        "mileage": 69008,
+        "fuelEcon": 13.6,
+        "model": "Citroen"
+    },
+    {
+        "mileage": 37275,
+        "fuelEcon": 8.3,
+        "model": "Honda"
+    },
+    {
+        "mileage": 439197,
+        "fuelEcon": 7.2,
+        "model": "Mitsubishi"
+    },
+    {
+        "mileage": 464653,
+        "fuelEcon": 12.9,
+        "model": "Lincoln"
+    },
+    {
+        "mileage": 136312,
+        "fuelEcon": 11.0,
+        "model": "Suzuki"
+    },
+    {
+        "mileage": 431123,
+        "fuelEcon": 7.7,
+        "model": "Audi"
+    },
+    {
+        "mileage": 32634,
+        "fuelEcon": 4.0,
+        "model": "AMC"
+    },
+    {
+        "mileage": 351131,
+        "fuelEcon": 5.2,
+        "model": "BMW"
+    },
+    {
+        "mileage": 405951,
+        "fuelEcon": 13.6,
+        "model": "Mazda"
+    },
+    {
+        "mileage": 582096,
+        "fuelEcon": 9.2,
+        "model": "BMW"
+    },
+    {
+        "mileage": 41545,
+        "fuelEcon": 6.7,
+        "model": "Suzuki"
+    },
+    {
+        "mileage": 74424,
+        "fuelEcon": 10.9,
+        "model": "Volvo"
+    },
+    {
+        "mileage": 200964,
+        "fuelEcon": 4.5,
+        "model": "Subaru"
+    },
+    {
+        "mileage": 383434,
+        "fuelEcon": 3.0,
+        "model": "Suzuki"
+    },
+    {
+        "mileage": 170008,
+        "fuelEcon": 9.0,
+        "model": "Audi"
+    },
+    {
+        "mileage": 240439,
+        "fuelEcon": 5.2,
+        "model": "Lincoln"
+    },
+    {
+        "mileage": 78627,
+        "fuelEcon": 3.1,
+        "model": "Audi"
+    },
+    {
+        "mileage": 35110,
+        "fuelEcon": 8.0,
+        "model": "Volvo"
+    },
+    {
+        "mileage": 303470,
+        "fuelEcon": 10.4,
+        "model": "Mazda"
+    },
+    {
+        "mileage": 214214,
+        "fuelEcon": 4.8,
+        "model": "Mitsubishi"
+    },
+    {
+        "mileage": 553491,
+        "fuelEcon": 12.7,
+        "model": "Subaru"
+    },
+    {
+        "mileage": 573801,
+        "fuelEcon": 13.7,
+        "model": "Toyota"
+    },
+    {
+        "mileage": 104723,
+        "fuelEcon": 12.4,
+        "model": "Lincoln"
+    },
+    {
+        "mileage": 557389,
+        "fuelEcon": 12.1,
+        "model": "Mazda"
+    },
+    {
+        "mileage": 16960,
+        "fuelEcon": 7.9,
+        "model": "Daihatsu"
+    },
+    {
+        "mileage": 394023,
+        "fuelEcon": 11.2,
+        "model": "Volvo"
+    },
+    {
+        "mileage": 257112,
+        "fuelEcon": 6.8,
+        "model": "Honda"
+    },
+    {
+        "mileage": 580835,
+        "fuelEcon": 11.6,
+        "model": "Toyota"
+    },
+    {
+        "mileage": 97963,
+        "fuelEcon": 6.6,
+        "model": "Audi"
+    },
+    {
+        "mileage": 98140,
+        "fuelEcon": 3.2,
+        "model": "Renault"
+    },
+    {
+        "mileage": 240739,
+        "fuelEcon": 5.1,
+        "model": "Volvo"
+    },
+    {
+        "mileage": 528090,
+        "fuelEcon": 3.9,
+        "model": "Citroen"
+    },
+    {
+        "mileage": 533174,
+        "fuelEcon": 3.5,
+        "model": "Volvo"
+    },
+    {
+        "mileage": 380517,
+        "fuelEcon": 6.7,
+        "model": "Daihatsu"
+    },
+    {
+        "mileage": 449051,
+        "fuelEcon": 6.4,
+        "model": "Volvo"
+    },
+    {
+        "mileage": 102761,
+        "fuelEcon": 13.2,
+        "model": "Subaru"
+    },
+    {
+        "mileage": 25789,
+        "fuelEcon": 7.0,
+        "model": "Toyota"
+    },
+    {
+        "mileage": 385220,
+        "fuelEcon": 7.5,
+        "model": "Mazda"
+    },
+    {
+        "mileage": 237810,
+        "fuelEcon": 7.5,
+        "model": "BMW"
+    },
+    {
+        "mileage": 485099,
+        "fuelEcon": 6.7,
+        "model": "Volvo"
+    },
+    {
+        "mileage": 191350,
+        "fuelEcon": 10.9,
+        "model": "Subaru"
+    },
+    {
+        "mileage": 154728,
+        "fuelEcon": 4.8,
+        "model": "Audi"
+    },
+    {
+        "mileage": 480289,
+        "fuelEcon": 5.1,
+        "model": "Audi"
+    },
+    {
+        "mileage": 571771,
+        "fuelEcon": 6.2,
+        "model": "AMC"
+    },
+    {
+        "mileage": 252820,
+        "fuelEcon": 12.3,
+        "model": "Toyota"
+    },
+    {
+        "mileage": 336509,
+        "fuelEcon": 12.5,
+        "model": "Subaru"
+    },
+    {
+        "mileage": 352659,
+        "fuelEcon": 13.3,
+        "model": "Daihatsu"
+    },
+    {
+        "mileage": 266484,
+        "fuelEcon": 9.5,
+        "model": "Renault"
+    },
+    {
+        "mileage": 85544,
+        "fuelEcon": 11.7,
+        "model": "Honda"
+    },
+    {
+        "mileage": 293227,
+        "fuelEcon": 9.9,
+        "model": "Mitsubishi"
+    },
+    {
+        "mileage": 340711,
+        "fuelEcon": 7.0,
+        "model": "Subaru"
+    },
+    {
+        "mileage": 588293,
+        "fuelEcon": 9.4,
+        "model": "Renault"
+    },
+    {
+        "mileage": 118574,
+        "fuelEcon": 8.4,
+        "model": "Suzuki"
+    },
+    {
+        "mileage": 553096,
+        "fuelEcon": 4.2,
+        "model": "Citroen"
+    },
+    {
+        "mileage": 153323,
+        "fuelEcon": 8.5,
+        "model": "Citroen"
+    },
+    {
+        "mileage": 149881,
+        "fuelEcon": 11.3,
+        "model": "Daihatsu"
+    },
+    {
+        "mileage": 131701,
+        "fuelEcon": 3.8,
+        "model": "Honda"
+    },
+    {
+        "mileage": 159839,
+        "fuelEcon": 13.9,
+        "model": "Audi"
+    },
+    {
+        "mileage": 68296,
+        "fuelEcon": 4.9,
+        "model": "Lincoln"
+    },
+    {
+        "mileage": 540529,
+        "fuelEcon": 6.4,
+        "model": "Volvo"
+    },
+    {
+        "mileage": 2273,
+        "fuelEcon": 8.7,
+        "model": "Renault"
+    },
+    {
+        "mileage": 589801,
+        "fuelEcon": 5.6,
+        "model": "Audi"
+    },
+    {
+        "mileage": 117082,
+        "fuelEcon": 5.3,
+        "model": "Lincoln"
+    },
+    {
+        "mileage": 99543,
+        "fuelEcon": 5.8,
+        "model": "AMC"
+    },
+    {
+        "mileage": 491033,
+        "fuelEcon": 4.2,
+        "model": "Daihatsu"
+    },
+    {
+        "mileage": 496446,
+        "fuelEcon": 11.1,
+        "model": "Mitsubishi"
+    },
+    {
+        "mileage": 441952,
+        "fuelEcon": 12.8,
+        "model": "Renault"
+    },
+    {
+        "mileage": 367008,
+        "fuelEcon": 13.2,
+        "model": "AMC"
+    },
+    {
+        "mileage": 491177,
+        "fuelEcon": 4.7,
+        "model": "Toyota"
+    },
+    {
+        "mileage": 183397,
+        "fuelEcon": 9.2,
+        "model": "AMC"
+    },
+    {
+        "mileage": 377659,
+        "fuelEcon": 3.5,
+        "model": "BMW"
+    },
+    {
+        "mileage": 260006,
+        "fuelEcon": 10.2,
+        "model": "Lincoln"
+    },
+    {
+        "mileage": 96401,
+        "fuelEcon": 10.3,
+        "model": "Volvo"
+    },
+    {
+        "mileage": 385260,
+        "fuelEcon": 7.2,
+        "model": "Volvo"
+    },
+    {
+        "mileage": 297689,
+        "fuelEcon": 12.6,
+        "model": "Volvo"
+    },
+    {
+        "mileage": 550368,
+        "fuelEcon": 8.6,
+        "model": "Citroen"
+    },
+    {
+        "mileage": 400661,
+        "fuelEcon": 9.0,
+        "model": "Lincoln"
+    },
+    {
+        "mileage": 369722,
+        "fuelEcon": 6.7,
+        "model": "Mitsubishi"
+    },
+    {
+        "mileage": 400439,
+        "fuelEcon": 3.1,
+        "model": "BMW"
+    },
+    {
+        "mileage": 78101,
+        "fuelEcon": 7.1,
+        "model": "Volvo"
+    },
+    {
+        "mileage": 375917,
+        "fuelEcon": 3.9,
+        "model": "Renault"
+    },
+    {
+        "mileage": 11012,
+        "fuelEcon": 3.7,
+        "model": "Suzuki"
+    },
+    {
+        "mileage": 268534,
+        "fuelEcon": 4.1,
+        "model": "Lincoln"
+    },
+    {
+        "mileage": 103074,
+        "fuelEcon": 10.9,
+        "model": "Citroen"
+    },
+    {
+        "mileage": 191025,
+        "fuelEcon": 3.6,
+        "model": "Daihatsu"
+    },
+    {
+        "mileage": 26718,
+        "fuelEcon": 11.6,
+        "model": "Daihatsu"
+    },
+    {
+        "mileage": 227702,
+        "fuelEcon": 3.9,
+        "model": "Renault"
+    },
+    {
+        "mileage": 509685,
+        "fuelEcon": 4.8,
+        "model": "AMC"
+    },
+    {
+        "mileage": 511999,
+        "fuelEcon": 13.6,
+        "model": "BMW"
+    },
+    {
+        "mileage": 332711,
+        "fuelEcon": 14.0,
+        "model": "Volvo"
+    },
+    {
+        "mileage": 26294,
+        "fuelEcon": 6.6,
+        "model": "Audi"
+    },
+    {
+        "mileage": 271959,
+        "fuelEcon": 6.0,
+        "model": "Mazda"
+    },
+    {
+        "mileage": 142056,
+        "fuelEcon": 5.2,
+        "model": "Audi"
+    },
+    {
+        "mileage": 240873,
+        "fuelEcon": 7.9,
+        "model": "Audi"
+    },
+    {
+        "mileage": 403263,
+        "fuelEcon": 8.6,
+        "model": "Daihatsu"
+    },
+    {
+        "mileage": 432000,
+        "fuelEcon": 4.2,
+        "model": "Honda"
+    }
+]

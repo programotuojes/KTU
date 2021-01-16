@@ -1,0 +1,19 @@
+{
+  "name": "egzaminas",
+  "version": "1.0.0",
+  "description": "Individuali užduotis sesijos metu",
+  "main": "src/main.js",
+  "dependencies": {
+    "nact": "^7.4.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node src/main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "none"
+  },
+  "author": "Gustas Klevinskas",
+  "license": "UNLICENSED"
+}
