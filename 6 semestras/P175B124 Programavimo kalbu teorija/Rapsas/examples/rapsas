@@ -1,0 +1,45 @@
+extern int open(string str, int flags, int mode)
+extern int close(int fd)
+extern int dprintf(int fd, string format)
+extern int printf(string format)
+
+
+
+int shouldPrint(int i) {
+    if ((i % 3) == 0) {
+        return 1
+    }
+
+    return 0
+}
+
+int saveRapsas(int file, int i) {
+    if ((i % 2) == 1) {
+        dprintf(file, "Rapsas%c", 10)
+    }
+
+    return 0
+}
+
+int main() {
+    int file = open("rapsas.txt", 1 + 64 + 512, 511)
+    defer close(file)
+
+    int i
+    int a = 30
+    string name = "Rapsas"
+
+    for (i = 0; i < a; i = i + 1) {
+        saveRapsas(file, i)
+
+        if (shouldPrint(i) == 1) {
+            name = "Au"
+            printf("%s%c", name, 10)
+        } else {
+            name = "Rapsas"
+            printf("%s%c", name, 10)
+        }
+    }
+
+    return 0
+}

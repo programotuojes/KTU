@@ -1,0 +1,28 @@
+extern int puts(string str)
+extern int printf(string format)
+
+int someFunction(int n) {
+    defer puts("Defered: end of someFunction")
+
+    if (n > 5) {
+        defer puts("Defered: n > 5")
+        puts("Inside if")
+        return 1
+    } else {
+        defer puts("Defered: n <= 5")
+        puts("Inside else")
+    }
+
+    puts("End of someFunction")
+    return 0
+}
+
+int main() {
+    defer puts("Defered: end of main")
+
+    printf("Result %d%c%c", someFunction(3), 10, 10)
+    printf("Result %d%c%c", someFunction(6), 10, 10)
+
+    defer puts("End of main")
+    return 0
+}

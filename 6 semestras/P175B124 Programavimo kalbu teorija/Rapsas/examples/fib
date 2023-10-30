@@ -1,0 +1,19 @@
+extern int printf(string format)
+
+int fib(int n) {
+    int res = 0
+
+    if (n <= 1) {
+        res = n 
+    } else {
+        res = fib(n - 1) + fib(n - 2)
+    }
+
+    return res
+}
+
+int main() {
+    int fii = 11
+    printf("Fibonaci of %d is %d%c", fii, fib(fii), 10)
+    return 0
+}
